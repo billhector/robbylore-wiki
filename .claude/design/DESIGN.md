@@ -76,11 +76,20 @@ The user can invoke these against this project:
 
 ---
 
+## Gotcha: `quartz-themes` plugin is disabled
+
+The `quartz-themes` plugin (`github:saberzero1/quartz-themes`) ports the Obsidian default theme onto Quartz. Its CSS is emitted into `@layer obsidian-theme`, which is declared **after** Quartz's own `@layer quartz-base`. By Cascade Layers precedence rules, **later layers win** — so the plugin redefines `:root { --titleFont, --headerFont, --bodyFont, --light, --dark, --secondary, ... }` and silently overrides everything in `configuration.theme` from `quartz.config.yaml`.
+
+Symptoms when the plugin is enabled: bg renders as `#fff`, accent as Obsidian's default purple, fonts fall through to Times because the plugin chains `--titleFont` through `--font-text` / `--font-default` vars that aren't defined.
+
+**Current state (2026-05-29):** plugin set `enabled: false` in `quartz.config.yaml`. We get our chosen Cutive + cream + steel-blue theme; we lose the Obsidian-styled callouts (Quartz's built-in callout styling still works).
+
+**If we ever re-enable the plugin** we'd need to either (a) accept its theme wholesale, or (b) override the key tokens via unlayered `:root` rules in `quartz/styles/custom.scss` — since unlayered rules beat layered rules at equal specificity.
+
 ## Out-of-scope today
 
 Captured here so we don't relitigate them next session:
 
 - **Self-hosting fonts** — Quartz Google-Fonts default kept. Migration would need a custom emitter or build step.
 - **Component-level edits** — `quartz.layout.ts` and `quartz/components/` untouched. Default chrome (graph view, explorer sidebar, TOC, dark-mode toggle, reader mode, footer) intact.
-- **Custom SCSS overrides** — `quartz/styles/custom.scss` not added yet. Reserve for accessibility patches or future tweaks that don't fit the token schema.
 - **Body / code font swap** — current Source Sans Pro + IBM Plex Mono retained.

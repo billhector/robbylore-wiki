@@ -225,7 +225,11 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: true
+    # DISABLED 2026-05-29: plugin's @layer obsidian-theme overrides Quartz's
+    # quartz-base CSS variables (--titleFont, --light, --secondary, etc),
+    # clobbering everything set in configuration.theme above. Re-enable only
+    # if we also accept the plugin's full Obsidian palette + typography.
+    enabled: false
     options:
       theme: default
 layout:
