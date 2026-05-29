@@ -1,0 +1,119 @@
+---
+title: Robby Hoffman
+source:
+  - "[[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]]"
+  - "[[raw/transcripts/2026-05-29 Robby Hoffman DESTROYS Me and My Lifestyle WHGS Ep. 232 Full Episode]]"
+  - "[[raw/transcripts/2026-05-29 How to Pull Rich Men and Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman]]"
+  - "[[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]]"
+  - "[[raw/transcripts/2026-05-29 The Robby Hoffman]]"
+  - "[[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]]"
+  - "[[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]]"
+  - "[[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]]"
+  - "[[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]]"
+  - "[[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]]"
+compiled: 2026-05-29
+tags:
+  - robby-hoffman
+  - person
+type: person
+priority: high
+description: Comedian Robby Hoffman — Brooklyn-born, Montreal-raised, ex-Lubavitch, ex-KPMG accountant, one of 10 kids, married to Gabby Windey. Netflix special Wake Up (2025).
+publish: true
+---
+
+# Robby Hoffman
+
+Stand-up comedian, writer, and podcaster. Born Rifka Hoffman in Crown Heights, Brooklyn; raised in Montreal after her mother fled their father with all ten children. Broke into TV by mailing a blind packet titled "AIDS Russian Roulette" to [[projects/the-chris-gethard-show|The Chris Gethard Show]] from her accounting job at KPMG. Now: Netflix special [[projects/wake-up|Wake Up]] (2025, directed by John Mulaney), Emmy-nominated for [[projects/hacks|Hacks]], shooting Steve Carell's film [[projects/the-rooster|The Rooster]].
+
+Married to [[people/gabby-windey|Gabby Windey]] (eloped Vegas, 2025).
+
+## Key Takeaways
+
+- Born **Rifka Hoffman**, Crown Heights, Brooklyn. Mother fled to Montreal with all 10 kids when Robby was very young — see [[career/montreal-flight|Montreal flight]].
+- Seventh of ten children to a [[themes/orthodox-upbringing|Lubavitch Orthodox]] mother (later "Jews for Jesus" born-again) and an absent, alcoholic father.
+- Went to a rich Jewish private school on subsidy. Did accounting at KPMG ($32,500/yr) and gave herself six months to break into comedy — see [[career/accounting-to-standup|accounting to stand-up]].
+- Got into TV by mailing a blind packet to [[projects/the-chris-gethard-show|The Chris Gethard Show]]; pitch was "AIDS Russian Roulette."
+- 2023: rose at a WGA strike general assembly and questioned the union's salary + real estate; John Mulaney called it "one of the greatest show-business debuts in history" — see [[career/wga-strike-speech|WGA strike speech]].
+- 2025: Netflix special [[projects/wake-up|Wake Up]] (Dec 14, directed by [[people/john-mulaney|John Mulaney]]). Emmy nomination for [[projects/hacks|Hacks]] (six lines of dialogue).
+- Married [[people/gabby-windey|Gabby Windey]] (former [[projects/the-bachelorette|Bachelorette]], [[projects/the-traitors|Traitors]] winner, ICU nurse) — proposed via [[bits/proposing-via-crossword|crossword puzzle]], eloped Vegas with the $799 chapel package.
+- [[career/top-surgery|Top surgery]] in her early 30s; held to her self-imposed [[bits/two-year-decision-rule|"two-year rule"]] for permanent decisions.
+- Self-described as autistic: *"I'm to autism what Magic Johnson is to AIDS — undetectable."*
+
+## Identity
+
+### Name
+
+Given name **Rifka Hoffman**. Goes by **Robby**. Her family still calls her Rifka. The Rifka/Robby split is itself a [[themes/identity|recurring identity bit]].
+
+### Religion
+
+Raised [[themes/orthodox-upbringing|Lubavitch Hasidic]] in Crown Heights and Montreal. Mother left the community when Robby was young. Mother later became born-again Christian ("Jews for Jesus"), which re-introduced homophobia into family relations Robby had previously navigated. Robby's own relationship to religion is post-Orthodox but culturally fluent.
+
+### Sexuality + gender
+
+Queer. Came out as a teenager — mother's reaction: *"Does she want to come for Shabbus?"* Lives as a butch-presenting masc lesbian. Had [[career/top-surgery|top surgery]] in her early 30s; describes the choice as gender-dysphoria-driven and distinguishes a double mastectomy from BRCA cancer surgery. Does not identify as trans; has joked about the [[bits/no-backsies-they-them|"no backsies" rule]] for they/them pronouns.
+
+### Neurotype
+
+Self-describes as autistic, including a recurring claim that she has "cracked" or "beat" autism. On Prozac. Complex-PTSD diagnosis from her father.
+
+## Family
+
+Robby is the **seventh of ten children**. The family fled their father in Florida (where he'd briefly worked for grandfather Zadie) and ended up in Montreal under the care of great-uncle Eddie. See [[themes/family]] for the broader family dynamics.
+
+Named relatives mentioned across sources:
+
+- **Mother (Connie)** — born in Montreal, joined the Lubavitch movement in the 1970s, had ten kids by age 30, later became born-again Christian. Lives in or near Montreal.
+- **Father** — American, charismatic, charming, alcoholic, abusive; rarely seen; died after the parents had been divorced 15–20 years.
+- **Sister Kaya** — oldest. Lives in Scottsdale, Arizona with husband **Bruno**. Walked Robby out of the Emmys after Robby lost. Got the apartment-keeping-neat gene.
+- **Brother Schmuly** — security guard at a mall in Canada. Calls Gabby "toots." Idolizes [[people/tim-dylan|Tim Dylan]].
+- **Brother Manakim** — Robby borrows his pants.
+- **Brother (color-blind)** — works at FedEx.
+- **Sister D'vorah** — younger, meddler.
+- **Sister Y'hudis** — younger, close to Uncle Eddie, Nicole Byer fan.
+- **Sister Chaya** — in Scottsdale (named with Kaya in some tellings; possibly same person told differently).
+- **Niece Teddy** — named after great-uncle Eddie.
+- **Great-uncle Eddie ("Zadie Eddie," "Uncle Eddie")** — Montreal, took the mother and ten kids in on a moment's notice; diabetic, lived in a basement, died there in his 70s or 80s. The Hoffman family folk hero. See [[people/uncle-eddie|Uncle Eddie]].
+- **Grandfather Zadie / Nathan Lubovski** — Canadian; painter who won a trip to Paris in a contest; post-war butcher; partly secular. Arrived in Florida with French-Canadian ex-cop best friend Germaine to extract the family.
+- **Dog Nardo** — nearly nine, has an autoimmune condition (initially misdiagnosed as cancer); peanut-butter delivery for meds.
+
+Wife **[[people/gabby-windey|Gabby Windey]]** — see her page.
+
+## Career
+
+See [[career/index|Career index]] for the timeline. Highlights:
+
+- **Pre-comedy:** Nickelodeon writers' assistant; [[projects/odd-squad|Odd Squad]] (PBS Kids, 3.5 years, also body-doubled as a 13–14 year old); KPMG accountant.
+- **Breakthrough:** blind packet to [[projects/the-chris-gethard-show|The Chris Gethard Show]] — pitch "AIDS Russian Roulette."
+- **TV writing/appearances:** [[projects/baroness-von-sketch|Baroness Von Sketch Show]], [[projects/after-midnight|After Midnight]], [[projects/i-m-nervous|I'm Nervous]], [[projects/hacks|Hacks]] (Emmy nom), [[projects/dying-for-sex|Dying for Sex]].
+- **Stand-up:** [[projects/wake-up|Wake Up]] (Netflix, Dec 14 2025, dir. [[people/john-mulaney|John Mulaney]]); current sold-out tour.
+- **Podcast:** [[projects/too-far|Too Far]] with [[people/rachel-kaly|Rachel Kaly]] (Patreon).
+- **Film:** [[projects/the-rooster|The Rooster]] with [[people/steve-carell|Steve Carell]] (Bill Lawrence producing).
+- **Book:** opinion book in progress; deal signed and pre-paid.
+
+## Signature bits
+
+- [[bits/one-hot-one-smart|"One hot, one smart"]] — every relationship needs one of each.
+- [[bits/socks-during-sex|Socks during sex]] — orgasm hack that doubles as a culture take.
+- [[bits/testing-god-by-being-gay|"Testing God by being gay"]] — won't fly to Japan; already gay enough.
+- [[bits/proposing-via-crossword|Proposing via crossword]] — David Kaplan ghost-wrote the puzzle.
+- [[bits/juneteenth-cookout|Juneteenth cookout]] — invited by neighbor Kim, 2020.
+- [[bits/i-dont-take-no-bait|"I don't take no bait"]] — gender + grace + don't-give-the-reaction.
+- [[bits/two-year-decision-rule|The two-year rule]] — tattoo = one year; surgery = two.
+
+## Themes she returns to
+
+[[themes/orthodox-upbringing]] · [[themes/family]] · [[themes/queerness]] · [[themes/money]] · [[themes/marriage]] · [[themes/dating]] · [[themes/canada]]
+
+## Sources
+
+- [[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]] — Whitney Cummings interview; childhood, autism framing, "no bait."
+- [[raw/transcripts/2026-05-29 Robby Hoffman DESTROYS Me and My Lifestyle WHGS Ep. 232 Full Episode]] — Ashley Gavin; monogamy, mother's born-again turn, kosher-as-restraint.
+- [[raw/transcripts/2026-05-29 How to Pull Rich Men and Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman]] — Nicole Byer; "one hot, one smart," Juneteenth cookout, dating rules.
+- [[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]] — Soresi; the crossword proposal, Vegas elopement.
+- [[raw/transcripts/2026-05-29 The Robby Hoffman]] — Gabby Windey hosts; Wake Up release, Uncle Eddie folklore, vintage shopping.
+- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — Sam Fragoso; first telling of the Florida-Montreal escape, [[career/wga-strike-speech|WGA speech]], Rob Reiner reaction.
+- [[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]] — Neal Brennan; top surgery, 2-year rule, poverty, opinions.
+- [[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]] — Etalk; Wake Up reception, The Rooster, "testing God."
+- [[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]] — Not Skinny But Not Fat; HBO script sneak, Emmy loss, Kris Jenner, Robert Pattinson.
+- [[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]] — Call Her Daddy; meeting Gabby, "socks during sex," 5%-jail bit.
