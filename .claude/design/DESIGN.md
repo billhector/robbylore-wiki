@@ -20,37 +20,59 @@ The site is built with **Quartz v5**. Quartz's theming surface is `quartz.config
 
 ### Colors
 
+The entire site uses a **strict 4-color palette**, no extras:
+
+| Slot | Hex | Description |
+|---|---|---|
+| C1 | `#213448` | Deep navy |
+| C2 | `#547792` | Steel blue |
+| C3 | `#94B4C1` | Soft blue-gray |
+| C4 | `#EAE0CF` | Warm cream |
+
+All Quartz tokens map to these four. Light mode anchors on C4; dark mode flips on C1.
+
 #### Light mode
 
-| Token | Hex | Role |
+| Token | Value | Role |
 |---|---|---|
-| `light` | **`#EAE0CF`** | **page background** — warm manuscript cream |
-| `dark` | `#2b2b2b` | body text |
-| `secondary` | **`#94B4C1`** | **accent** — links / active / brand color (soft blue-gray) |
-| `tertiary` | `#84a59d` | popover hover / secondary accent (unchanged) |
-| `lightgray` | `#e5e5e5` | rules / subtle borders (unchanged) |
-| `gray` | `#b8b8b8` | muted text (unchanged) |
-| `darkgray` | `#4e4e4e` | secondary text (unchanged) |
-| `highlight` | `rgba(143, 159, 169, 0.15)` | subtle bg highlight (unchanged) |
-| `textHighlight` | `#fff23688` | `==marked text==` background (unchanged) |
+| `light` | C4 `#EAE0CF` | **page background** — cream |
+| `dark` | C1 `#213448` | headings / strong |
+| `darkgray` | C1 `#213448` | body text |
+| `gray` | C2 `#547792` | muted text |
+| `lightgray` | C3 `#94B4C1` | rules / subtle dividers |
+| `secondary` | C2 `#547792` | **accent / links** (≈4.5:1 on cream — passes WCAG AA) |
+| `tertiary` | C1 `#213448` | link hover (darken on hover) |
+| `highlight` | `rgba(0,0,0,0)` | wikilink-pill background **disabled** |
+| `textHighlight` | `rgba(84,119,146,0.25)` | `==marked text==` — steel tint |
 
 #### Dark mode
 
-| Token | Hex | Role |
+| Token | Value | Role |
 |---|---|---|
-| `light` | **`#213448`** | **page background** — deep midnight navy |
-| `dark` | `#ebebec` | body text |
-| `secondary` | **`#547792`** | **accent** — links / active / brand color (steel blue) |
-| `tertiary` | `#84a59d` | popover hover / secondary accent (unchanged) |
-| `lightgray` | `#393639` | rules / subtle borders (unchanged) |
-| `gray` | `#646464` | muted text (unchanged) |
-| `darkgray` | `#d4d4d4` | secondary text (unchanged) |
-| `highlight` | `rgba(143, 159, 169, 0.15)` | subtle bg highlight (unchanged) |
-| `textHighlight` | `#b3aa0288` | `==marked text==` background (unchanged) |
+| `light` | C1 `#213448` | **page background** — navy |
+| `dark` | C4 `#EAE0CF` | headings / strong |
+| `darkgray` | C4 `#EAE0CF` | body text |
+| `gray` | C3 `#94B4C1` | muted text |
+| `lightgray` | C2 `#547792` | rules / subtle dividers |
+| `secondary` | C3 `#94B4C1` | **accent / links** (≈9:1 on navy) |
+| `tertiary` | C4 `#EAE0CF` | link hover (lighten on hover) |
+| `highlight` | `rgba(0,0,0,0)` | wikilink-pill background **disabled** |
+| `textHighlight` | `rgba(148,180,193,0.25)` | `==marked text==` — soft blue tint |
+
+### Custom CSS overrides
+
+Beyond the token mapping, `quartz/styles/custom.scss` adds:
+
+- **Header weight + bold synthesis** — see "Custom CSS overrides" section below.
+- **Site title (sidebar `.page-title`) is forced to `--dark`**, not `--secondary`. The sidebar "Robby Lore" sits in an `<a>` tag and would otherwise inherit the accent color, looking like a faded nav link. Pinned to text color so it reads as a logo.
+  ```scss
+  .page-title a { color: var(--dark); }
+  .page-title a:hover { color: var(--secondary); }
+  ```
 
 ### Vibe summary
 
-Warm-cream day mode, midnight-library night mode. Cutive typewriter headers + soft slate-blue accents read "archival fan reference," matching the LLM-wiki framing of the site.
+Warm-cream day mode, midnight-library night mode. Four colors only. Cutive typewriter headers + steel-blue accents read "archival fan reference."
 
 ---
 
@@ -60,8 +82,9 @@ Warm-cream day mode, midnight-library night mode. Cutive typewriter headers + so
 
 ## Known accessibility caveats
 
-- **Accent contrast.** Light-mode accent `#94B4C1` on bg `#EAE0CF` is ≈ 2.0:1. Dark-mode accent `#547792` on bg `#213448` is ≈ 3.3:1. Both fall below WCAG AA 4.5:1 for normal-size text used as a link. Quartz links inherit the accent and are typically not underlined by default in v5, so this is *visually* fine but *technically* sub-AA.
-- **Mitigation, if needed later:** add an underline rule for `a` elements (via `quartz/styles/custom.scss`), or darken the accent. Re-evaluate if this is ever flagged.
+- **Light-mode accent passes AA.** C2 `#547792` on C4 `#EAE0CF` ≈ 4.5:1.
+- **Dark-mode accent passes AAA.** C3 `#94B4C1` on C1 `#213448` ≈ 9:1.
+- Earlier iteration used C3 as the light-mode accent (≈2:1) — failed AA, replaced with C2.
 
 ---
 

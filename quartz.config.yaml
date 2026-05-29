@@ -19,27 +19,30 @@ configuration:
       header: Cutive
       body: Source Sans Pro
       code: IBM Plex Mono
+    # Palette is intentionally 4 colors only:
+    #   C1 #213448 navy   C2 #547792 steel   C3 #94B4C1 soft   C4 #EAE0CF cream
+    # Light mode anchors on C4; dark mode flips on C1.
     colors:
       lightMode:
-        light: "#EAE0CF"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#94B4C1"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#EAE0CF"            # C4 — page bg
+        lightgray: "#94B4C1"        # C3 — subtle borders / dividers
+        gray: "#547792"              # C2 — muted text
+        darkgray: "#213448"          # C1 — body text
+        dark: "#213448"              # C1 — headings / strong
+        secondary: "#547792"         # C2 — accent / links (≈4.5:1 on cream)
+        tertiary: "#213448"          # C1 — link hover (darken)
+        highlight: rgba(0, 0, 0, 0)  # disable wikilink pill background
+        textHighlight: "rgba(84, 119, 146, 0.25)"  # ==marked== subtle steel tint
       darkMode:
-        light: "#213448"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#547792"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#213448"             # C1 — page bg
+        lightgray: "#547792"         # C2 — subtle borders / dividers
+        gray: "#94B4C1"               # C3 — muted text
+        darkgray: "#EAE0CF"           # C4 — body text
+        dark: "#EAE0CF"               # C4 — headings / strong
+        secondary: "#94B4C1"          # C3 — accent / links (≈9:1 on navy)
+        tertiary: "#EAE0CF"           # C4 — link hover (lighten)
+        highlight: rgba(0, 0, 0, 0)
+        textHighlight: "rgba(148, 180, 193, 0.25)"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
