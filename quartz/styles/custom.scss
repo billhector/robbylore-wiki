@@ -1,3 +1,12 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Cutive ships only at weight 400 on Google Fonts and is naturally heavy
+// (typewriter-style serif). Force 400 on all heading levels and disable
+// fake-bold synthesis so the texture renders cleanly instead of browser-
+// synthesized faux-bold.
+h1, h2, h3, h4, h5, h6,
+.article-title,
+.page-title {
+  font-weight: 400;
+  font-synthesis-weight: none;
+}

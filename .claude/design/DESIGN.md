@@ -54,6 +54,10 @@ Warm-cream day mode, midnight-library night mode. Cutive typewriter headers + so
 
 ---
 
+## Custom CSS overrides (`quartz/styles/custom.scss`)
+
+- **Force header weight 400 + disable bold synthesis.** Cutive ships only at weight 400 on Google Fonts and is naturally heavy. CSS sets `font-weight: 400` and `font-synthesis-weight: none` on `h1`–`h6`, `.article-title`, and `.page-title` so browsers don't synthesize a faux-bold from the 400 master. Quartz still emits a build-time warning *"Failed to fetch font Cutive with weight 700, got Bad Request"* — that's cosmetic; Google Fonts returns the 400 face regardless, and the CSS override means nothing on the page ever asks for 700.
+
 ## Known accessibility caveats
 
 - **Accent contrast.** Light-mode accent `#94B4C1` on bg `#EAE0CF` is ≈ 2.0:1. Dark-mode accent `#547792` on bg `#213448` is ≈ 3.3:1. Both fall below WCAG AA 4.5:1 for normal-size text used as a link. Quartz links inherit the accent and are typically not underlined by default in v5, so this is *visually* fine but *technically* sub-AA.
