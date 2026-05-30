@@ -11,6 +11,7 @@ source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]]"
+  - "[[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]]"
 compiled: 2026-05-29
 tags:
   - robby-hoffman
@@ -74,7 +75,9 @@ Named relatives mentioned across sources:
 - **Sister Chaya** — in Scottsdale (named with Kaya in some tellings; possibly same person told differently).
 - **Niece Teddy** — named after great-uncle Eddie.
 - **Great-uncle Eddie ("Zadie Eddie," "Uncle Eddie")** — Montreal, took the mother and ten kids in on a moment's notice; diabetic, lived in a basement, died there in his 70s or 80s. The Hoffman family folk hero. See [[people/uncle-eddie|Uncle Eddie]].
-- **Grandfather Zadie / Nathan Lubovski** — Canadian; painter who won a trip to Paris in a contest; post-war butcher; partly secular. Arrived in Florida with French-Canadian ex-cop best friend Germaine to extract the family.
+- **Grandfather Zadie / [[people/nathan-letovsky|Nathan Letovsky]]** — Canadian painter (Canadian landscape oils); arrived in Florida with French-Canadian ex-cop best friend Germaine to extract the family. *(Earlier transcripts spelled his name phonetically as "Lubovski"; FT 2026 print spelling is "Letovsky" — see [[people/nathan-letovsky|his page]].)*
+- **Sister Devorah** — appears in the bathroom photo in the FT profile. Likely the same sister transcribed phonetically as "D'vorah" / "Y'hudis" in audio elsewhere.
+- **Cat Nam.**
 - **Dog Nardo** — nearly nine, has an autoimmune condition (initially misdiagnosed as cancer); peanut-butter delivery for meds.
 
 Wife **[[people/gabby-windey|Gabby Windey]]** — see her page.
@@ -100,6 +103,19 @@ See [[career/index|Career index]] for the timeline. Highlights:
 - [[bits/juneteenth-cookout|Juneteenth cookout]] — invited by neighbor Kim, 2020.
 - [[bits/i-dont-take-no-bait|"I don't take no bait"]] — gender + grace + don't-give-the-reaction.
 - [[bits/two-year-decision-rule|The two-year rule]] — tattoo = one year; surgery = two.
+- [[bits/multiples-of-18|Multiples of 18]] — Jewish "18 = life"; she buys things in 18, 36, 72, 90.
+- [[bits/cost-per-wear|Cost-per-wear]] — Rolex justification math; she still calculates daily.
+
+## Possessions she names
+
+- **1991 Rolex Air-King.** Paid $3,600 six years before the FT profile (after her first big show sale: $65,000, "a year's salary"). Negotiated down from $4,000. Calls it "the world's worst Rolex." Cost-per-wear math: a dollar a day, falling.
+- **Porsche 911**, black with tan interior. Used, ~$10,000. Long-stated grail car; her father had bought a Porsche in lieu of paying child support, so the 911 is partly tribute / partly reclamation.
+- **Extra-large Moleskine day planner.** Black. New one every year. *"If it's not in the book, it's not happening."* Source: roommate-era Steph Tolev had the small version.
+- **Burberry scarf** (Burberry checked, the classic), her first Burberry. Replaces a maroon cashmere scarf her grandfather threw at her in -30°C Montreal at age 17, which she later lost.
+- **Two of her grandfather [[people/nathan-letovsky|Nathan Letovsky]]'s paintings** (Canadian landscape oils) — the only things she took during the LA-wildfire evacuation that triggered her Vegas wedding.
+- **Signed copy of John Mulaney's *Baby J* comedy special.**
+- **Sylvia Plath, *The Bell Jar* (early edition)** — her recent gift to [[people/gabby-windey|Gabby]].
+- **Old cars** — currently on her third. First was a 1983 Toyota Corolla.
 
 ## Themes she returns to
 
@@ -107,6 +123,7 @@ See [[career/index|Career index]] for the timeline. Highlights:
 
 ## Sources
 
+- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT "Aesthete" profile by [[people/horatia-harrod|Horatia Harrod]], 2026-05-07; the Rolex/Porsche/Moleskine/Bell Jar/Burberry/grandfather-paintings inventory plus the [[people/nathan-letovsky|Nathan Letovsky]] name spelling.
 - [[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]] — Whitney Cummings interview; childhood, autism framing, "no bait."
 - [[raw/transcripts/2026-05-29 Robby Hoffman DESTROYS Me and My Lifestyle WHGS Ep. 232 Full Episode]] — Ashley Gavin; monogamy, mother's born-again turn, kosher-as-restraint.
 - [[raw/transcripts/2026-05-29 How to Pull Rich Men and Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman]] — Nicole Byer; "one hot, one smart," Juneteenth cookout, dating rules.

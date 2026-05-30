@@ -52,3 +52,28 @@ First wiki compile. Processed all 10 ingested transcripts. Built 31 wiki pages a
 Updated all 5 type-folder `index.md` files. Updated `wiki/index.md` with a "Recently added" block. Flipped `compiled: true` on all 10 raw files.
 
 Known orphan wikilinks intentionally left for future compile passes: rachel-kaly, leanne-morgan, robert-pattinson, dog-nardo, the-bachelorette, the-traitors, dancing-with-the-stars, long-winded, talk-easy, blocks, etalk, not-skinny-but-not-fat, call-her-daddy, baroness-von-sketch, odd-squad, dying-for-sex, pull-rich-men, dora-the-explorer, jesus-loves-me, no-backsies-they-them, supercuts-tuesday, monogamy, identity, wake-up-press-tour. Lint pass will surface these — decide per-link whether to write a stub or strip the wikilink.
+
+## [2026-05-29] compile | Robby Hoffman: 'I have the world's worst Rolex' (FT "Aesthete")
+
+Compiled the FT 2026-05-07 "Aesthete" profile by Horatia Harrod. Source: raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex.
+
+**Created (3):**
+- people/nathan-letovsky — Robby's grandfather. Includes a contradiction callout: earlier transcripts used the phonetic "Lubovski"; FT print canonicalizes to "Letovsky."
+- bits/multiples-of-18 — Jewish "chai = 18 = life" numerology, applied to negotiation.
+- bits/cost-per-wear — Rolex amortization bit.
+
+**Updated (10):**
+- people/robby-hoffman (substantial — added Possessions inventory section, sister Devorah, cat Nam, grandfather-name correction, new sources line)
+- people/gabby-windey (Bell Jar gift, no-kids, separate bathrooms, "if everything burns down" line)
+- people/john-mulaney (signed Baby J special)
+- themes/money (Rolex/$65k/"screaming wealth"/mother-generosity-lesson)
+- themes/family (father-Porsche-instead-of-child-support, grandfather paintings as LA-fire-evacuation objects, Devorah)
+- themes/orthodox-upbringing ("heretic" framing, nightly prayer, multiples of 18)
+- themes/marriage ("if everything burns down" wedding context, Bell Jar gift, separate bathrooms, no kids)
+- themes/canada (-30°C cashmere-scarf-from-grandfather story, Toronto→LA van move)
+- career/accounting-to-standup ("least amount of work, most amount of payoff" + "would have made partner")
+- career/vegas-elopement (Gabby's framing, grandfather paintings as only-things-taken)
+
+**Indexes:** people/index, bits/index, wiki/index "Recently added" all updated. Raw `compiled: true` set on the article.
+
+**Correction logged:** Grandfather's name canonical spelling changed from "Nathan Lubovski" (phonetic, audio-transcript) to "Nathan Letovsky" (print, FT 2026). Existing references in people/robby-hoffman.md updated; nathan-letovsky.md carries a callout pointing future readers at the spelling delta.

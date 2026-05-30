@@ -24,6 +24,8 @@ publish: true
 - **Wedding package:** $799 chapel package.
 - **Officiant:** **Reverend Nature**, in Yeezys.
 - **Engagement-night dinner:** Wynn all-you-can-eat buffet. Crab legs.
+- **What pushed Robby over the line:** Gabby's framing during the evacuation — *"If everything burns down, I just want to be married to you."* Robby: *"All right."* (FT 2026)
+- **The only things Robby took from the house** during the evacuation: two of grandfather [[people/nathan-letovsky|Nathan Letovsky]]'s paintings.
 
 ## Why it matters
 
@@ -37,4 +39,5 @@ publish: true
 
 ## Sources
 
+- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT 2026; Gabby's "if everything burns down" line + the grandfather-paintings-as-only-things-grabbed detail.
 - [[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]] — full telling.

@@ -37,8 +37,16 @@ Television personality and ICU nurse; wife of [[people/robby-hoffman|Robby Hoffm
 - *"Practically a doctor"* — Robby's go-to one-liner about Gabby's nursing background.
 - Domestic anecdotes: cooking oats for stomach aches, coordinating a [[people/dog-nardo|Nardo the dog]] near-death scare, broken-family conflict aversion.
 
+## Habits + recent
+
+- **Recently became an avid reader** (started "maybe two years ago" per FT 2026). Robby gave her an early edition of Sylvia Plath's *The Bell Jar* and plans to add a book per year to build a collection.
+- **Separate bathrooms** in their LA rental — Gabby is serums-and-potions, Robby is one toothbrush.
+- **No kids planned.** They eat out heavily — *"we live in restaurants."*
+- **Gabby's framing of the Vegas wedding** during the LA fire evacuation: *"If everything burns down, I just want to be married to you."*
+
 ## Sources
 
+- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT 2026; Bell Jar gift, separate bathrooms, no-kids, "if everything burns down" wedding line.
 - [[raw/transcripts/2026-05-29 The Robby Hoffman]] — Gabby hosts Robby on [[projects/long-winded|Long Winded]]; deepest joint material.
 - [[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]] — Robby tells Alex Cooper the full how-they-met story.
 - [[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]] — the [[bits/proposing-via-crossword|crossword proposal]] story in full.

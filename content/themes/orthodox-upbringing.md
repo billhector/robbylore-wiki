@@ -29,6 +29,9 @@ publish: true
 - **Kosher as metaphor:** Robby's framing of monogamy and self-discipline draws on growing up kosher. *"When you grow up kosher, you get good at temptation."* See [[themes/monogamy]].
 - **Mother's born-again turn re-introduced homophobia** into family dynamics that had previously settled into uneasy acceptance.
 - Robby's "Jesus-loves-me" counter-move with her born-again mother is a recurring [[bits/jesus-loves-me|bit]].
+- **"I'm a heretic" framing:** *"Gabby thinks I'm the most religious person she's ever met. Of course, I don't feel that at all, because compared to where I'm coming from — a very rigid [Hasidic] world — I'm a heretic."*
+- **Nightly prayer.** Robby still prays: *"OK, I'm gay. I get to be a clown for a living. So I'm not gonna give up nightly prayer."* The bit folds into [[bits/testing-god-by-being-gay]].
+- **[[bits/multiples-of-18|18 = life]]** is the Hebrew numerology bit she invokes in everyday money decisions (e.g. negotiating her Rolex from $4,000 down to $3,600).
 
 ## Why it matters
 
@@ -44,6 +47,7 @@ Robby's stand-up identity is post-Orthodox but still culturally Lubavitch — he
 
 ## Sources
 
+- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT 2026; "heretic" self-framing, nightly-prayer admission, multiples-of-18 buying habit.
 - [[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]] — Whitney Cummings; deepest dive on coming out + religious family.
 - [[raw/transcripts/2026-05-29 Robby Hoffman DESTROYS Me and My Lifestyle WHGS Ep. 232 Full Episode]] — mother's born-again turn, "Jesus loves me" bit.
 - [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — first telling of the Florida → Montreal flight.

@@ -21,6 +21,11 @@ This is a fan site. Not affiliated with, endorsed by, or representative of Robby
 
 ## Recently added
 
+**2026-05-29 — FT "Aesthete" profile compile:**
+- [[people/nathan-letovsky|Nathan Letovsky]] (grandfather; print-canonical spelling correction over earlier "Lubovski" transcript)
+- [[bits/multiples-of-18|Multiples of 18]] and [[bits/cost-per-wear|Cost-per-Wear]]
+- Updates to [[people/robby-hoffman|Robby Hoffman]] (possessions inventory), [[people/gabby-windey|Gabby Windey]], [[people/john-mulaney|John Mulaney]]; [[themes/money|money]], [[themes/family|family]], [[themes/orthodox-upbringing|orthodox-upbringing]], [[themes/marriage|marriage]], [[themes/canada|canada]]; [[career/accounting-to-standup|accounting-to-stand-up]], [[career/vegas-elopement|Vegas elopement]]
+
 First compile pass — Wake Up press tour (Dec 2025 – May 2026):
 
 - [[people/robby-hoffman|Robby Hoffman]] — the hub page.

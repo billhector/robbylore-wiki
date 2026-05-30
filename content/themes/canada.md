@@ -27,9 +27,12 @@ publish: true
 - **Mark Carney rivalry bit** — Robby positions herself as the rival Canadian to the prime minister: *"Mark Carney, Robby Hoffman — Canadian heated rivalry."*
 - **Her first stand-up set** was at the Too Much loft on Prince Arthur in Montreal, hosted by George Braithwaite. She did okay despite being dizzy from secondhand pot smoke.
 - **Lubavitch Montreal** is the substrate of her family architecture — see [[themes/orthodox-upbringing]].
+- **Cashmere scarf at -30°C.** At 17, visiting grandfather [[people/nathan-letovsky|Nathan Letovsky]]'s apartment without a scarf in Montreal's deep winter, he threw a small maroon cashmere scarf (from Holt Renfrew Ogilvy, originally) at her from the back of his closet. She wore it for years, then lost it; replaced with her first Burberry checked scarf, bought on a recent Canada trip.
+- **Toronto → LA move:** drove her van across nine or ten days, "packed to the brim." Picked up a green ’60s lamp for $60 in Texas along the way.
 
 ## Sources
 
+- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT 2026; grandfather scarf story, Toronto→LA van move.
 - [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — first telling of the Florida → Montreal flight; first stand-up set at Too Much loft.
 - [[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]] — Toronto love, Mark Carney rivalry.
 - [[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]] — Montreal childhood color.

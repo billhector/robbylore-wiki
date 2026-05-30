@@ -18,6 +18,7 @@ Robby Hoffman and the cast of characters who appear repeatedly across her work, 
 
 ## Family
 
+- [[people/nathan-letovsky|Nathan Letovsky]] — grandfather (Zadie). Canadian painter; brought the family out of Florida.
 - [[people/uncle-eddie|Uncle Eddie]] — the great-uncle who took in the family in Montreal.
 - [[people/kaya-hoffman|Kaya Hoffman]] — oldest sister.
 - [[people/schmuly-hoffman|Schmuly Hoffman]] — older brother.

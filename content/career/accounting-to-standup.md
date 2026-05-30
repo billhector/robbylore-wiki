@@ -24,6 +24,7 @@ publish: true
 - **First plank:** the [[projects/the-chris-gethard-show|Gethard]] blind packet.
 - **Stole the laptop on the way out** of KPMG. (Per Not Skinny But Not Fat.)
 - The accounting background is also why she did her own [[career/hbo-script-sneak|HBO script sneak]] using Word + Courier 12 instead of paying for screenwriting software — the bookkeeper's instinct, in her telling, never left.
+- **The choice was explicit class-escape:** *"As a kid I knew one thing: I gotta get out of here. When I got to school, I was like, 'What's the least amount of work, the most amount of payoff?' So I went into accounting and worked at KPMG. Had I stayed there, I would have made partner. I was determined not to be poor."* (FT 2026)
 
 ## Why it matters
 
@@ -39,6 +40,7 @@ publish: true
 
 ## Sources
 
+- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT 2026; explicit "least amount of work, most amount of payoff" framing + "would have made partner."
 - [[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]] — Call Her Daddy; "the pivot from accounting to stand-up" framing.
 - [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — KPMG $32,500 + six months.
 - [[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]] — KPMG salary; lifestyle math.

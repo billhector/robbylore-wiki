@@ -14,3 +14,5 @@ Recurring jokes, signature bits, catchphrases, and segments that Robby revisits 
 - [[bits/proposing-via-crossword|Proposing via Crossword]] — the GABBY puzzle.
 - [[bits/juneteenth-cookout|Juneteenth Cookout]] — macaroni-salads-and-flowers.
 - [[bits/two-year-decision-rule|The Two-Year Decision Rule]] — tattoo = 1 year, surgery = 2.
+- [[bits/multiples-of-18|Multiples of 18]] — Jewish "chai = 18 = life"; she negotiates in 18s.
+- [[bits/cost-per-wear|Cost-per-Wear]] — daily Rolex amortization, "dollar a day."
