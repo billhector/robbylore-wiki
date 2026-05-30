@@ -202,8 +202,8 @@
     "quartz-schema-jsonld": {
       "source": "github:billhector/quartz-schema-jsonld",
       "resolved": "https://github.com/billhector/quartz-schema-jsonld.git",
-      "commit": "2bbe6a38ff65be4c0abd2fd8342f331e878450f1",
-      "installedAt": "2026-05-30T16:56:35.911Z"
+      "commit": "610c5db263e3c0bfa578bf3c927c738f4a9140f7",
+      "installedAt": "2026-05-30T17:29:34.369Z"
     },
     "quartz-themes": {
       "source": {
