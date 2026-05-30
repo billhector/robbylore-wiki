@@ -19,6 +19,7 @@ source:
   - "[[raw/articles/2026-05-30 Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney]]"
   - "[[raw/articles/2026-05-30 Robby Hoffman Says She 'Botched' Every Interaction She Had with Steve Carell on 'Rooster' Set (Exclusive)]]"
   - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
+  - "[[raw/articles/2026-05-30 Comedian Robby Hoffman Isn't Exactly Happy To Be Here]]"
 compiled: 2026-05-30
 tags:
   - robby-hoffman
@@ -68,6 +69,19 @@ Self-describes as autistic, including a recurring claim that she has "cracked" o
 ### Politics
 
 Bernie Sanders supporter. Believes *"everybody's entitled to dignity"* and resents being held up as a poverty-to-success exception: *"You shouldn't have to be this special, you shouldn't have to be this talented."*
+
+### Operating posture (running quote bank)
+
+- *"I never got to come out gay… look at this! If you know, you know."* (Bustle, Oct 2023)
+- *"I'm just going to be me, and what you take you take from it and that's it."*
+- *"Nobody dreams bigger than me. Dreams are free, so I don't at all limit them."*
+- *"Me getting here is Michael Jordan level proportions."*
+- *"If you can do anything else, do it. I never wanted to do stand-up… It's a nightmare."*
+- *"My audience is very obedient to me, the way I like them."*
+- **Comedy style she names:** *"small grievances"* — issues she can leave on stage and then go enjoy her life.
+- **The Bethenny Frankel maxim** she lives by: *"you roll it into the batter."*
+- **Glasses + hair:** both unchanged for 10+ years. *"Once I found them, that's it, I'm not looking for glasses again."*
+- **Agent:** *"Mark"* (first name only, Bustle 2023).
 
 ## Family
 
@@ -161,3 +175,4 @@ See [[career/index|Career index]] for the timeline. Highlights:
 - [Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney](https://www.gq.com/story/robby-hoffman-interviewed-by-john-mulaney) — GQ, December 12 2025; AIDS popsicle, package-deal grandfather line, full WGA-speech chronology, *Unentitled* HBO sale, Mulaney introduction via Dan Levy + Joe Mande.
 - [Robby Hoffman Says She 'Botched' Every Interaction She Had with Steve Carell on 'Rooster' Set (Exclusive)](https://people.com/robby-hoffman-botched-every-interaction-with-steve-carell-rooster-exclusive-11927749) — People, Liza Esquibias, 2026-03-23; Mo / Sunny roommate dynamic; Bill Lawrence + Matt Tarses creators; The Rooster cast.
 - ['Being offended isn't the worst thing. Being poor is': how Robby Hoffman became a controversial comedy sensation](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; seventh of ten kids; Bernie Sanders supporter; Randi role authors (Aniello / Downs / Statsky); autism self-id without diagnosis; "Comedy was foisted upon me, like Moses"; 2019 Daytime Emmy for Odd Squad.
+- [Comedian Robby Hoffman Isn't Exactly Happy To Be Here](https://www.bustle.com/entertainment/robby-hoffman-interview) — Bustle, Lizzie Logan, 2023-10-26; Frogtown lunch during WGA-strike final weeks; running-into-the-Rivkah-producer anecdote; *"I never got to come out gay"*; *"Dreams are free"*; *"Michael Jordan level proportions"*; agent name (Mark); Eddie-Murphy-as-discovery; *"small grievances"* style frame; Bethenny Frankel *"roll it into the batter"*; LA-vs-NYC bit; Taylor Swift + Kendall Jenner takes.

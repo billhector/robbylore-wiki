@@ -10,6 +10,7 @@ source:
   - "[[raw/articles/2026-05-30 In Bed With Lovebirds Gabby Windey and Robby Hoffman]]"
   - "[[raw/articles/2026-05-30 Inside 'The Traitors' Star Gabby Windey's Very Modest $5,000-a-Month Rental Home as She Announces Surprise Marriage to Robby Hoffman]]"
   - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
+  - "[[raw/articles/2026-05-30 Comedian Robby Hoffman Isn't Exactly Happy To Be Here]]"
 compiled: 2026-05-30
 tags:
   - person
@@ -54,6 +55,8 @@ Television personality and ICU nurse; wife of [[people/robby-hoffman|Robby Hoffm
 - **Lamictal + Gabapentin + occasionally Valium** as stabilizers (per Interview, Feb 2025).
 - **Sleeps Porky-Pig-style** (big shirt, no underwear) to Robby's boxers.
 - Has compared Robby to **Bob the Drag Queen** as the only person she'd previously met with comparable energy.
+- **Outfit/hair churn:** Robby on Gabby in Bustle Oct 2023 — *"She changes her hair all the time, you know; she buys different dresses all the time because she took a picture in it."* Robby's response: *"So what? I took a picture in this shirt! I got a million pictures in the same shirt."*
+- **Gabby's Judaism interest** predates the engagement — Robby in Bustle Oct 2023: *"Gabby's obsessed with Jews. And I have to train her…"*
 
 ## Home
 
@@ -71,3 +74,4 @@ The LA rental — **Spanish-style, three-bedroom, one-bathroom, $5,000/month**, 
 - [In Bed With Lovebirds Gabby Windey and Robby Hoffman](https://www.interviewmagazine.com/culture/in-bed-with-lovebirds-gabby-windey-and-robby-hoffman) — Interview, Emily Sandstrom, 2025-02-12; how they met at Semi-Tropic; supervised-Traitors-call protocol; Shema prayer card; co-parenting cat + dog dynamic; Bob-the-Drag-Queen parallel; pills inventory; Robby's writer's cabin.
 - [Inside 'The Traitors' Star Gabby Windey's Very Modest $5,000-a-Month Rental Home](https://www.realtor.com/news/celebrity-real-estate/traitors-gabby-windey-los-angeles-home-wedding-robby-hoffman/) — Realtor.com, Kelsi Karruli, 2025-03-05; the rental specs, dating start (May 2023), Jan 11 wedding, 20-minute ceremony, Chappell Roan "Hot To Go" walk-down.
 - ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; avocado-toast-and-OJ breakfast tableau.
+- [Comedian Robby Hoffman Isn't Exactly Happy To Be Here](https://www.bustle.com/entertainment/robby-hoffman-interview) — Bustle, Lizzie Logan, 2023-10-26; the *"Gabby's obsessed with Jews"* line and the hair/dress-churn contrast.

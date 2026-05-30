@@ -4,6 +4,7 @@ source:
   - "[[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]]"
   - "[[raw/articles/2026-05-30 Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney]]"
   - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
+  - "[[raw/articles/2026-05-30 Comedian Robby Hoffman Isn't Exactly Happy To Be Here]]"
 compiled: 2026-05-30
 tags:
   - career
@@ -62,3 +63,4 @@ In **Summer 2023**, with the WGA strike underway, [[people/robby-hoffman|Robby]]
 - [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — Sam Fragoso; first long-form telling.
 - [Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney](https://www.gq.com/story/robby-hoffman-interviewed-by-john-mulaney) — GQ, December 12 2025; full Mulaney-conducted reconstruction with Carmen's prediction, Joe Mande validation, *Unentitled* sale outcome.
 - ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; *"maybe my timing was autistic and off"* reflection + Bernie-Sanders political context.
+- [Comedian Robby Hoffman Isn't Exactly Happy To Be Here](https://www.bustle.com/entertainment/robby-hoffman-interview) — Bustle, Lizzie Logan, 2023-10-26; **published during the strike's "excruciating final weeks"** — places Robby's speech roughly 4-5 months before the strike ended in late September 2023, and shows Robby still under strike-rule constraints (couldn't talk to her Rivkah producer about the project at the Frogtown lunch).

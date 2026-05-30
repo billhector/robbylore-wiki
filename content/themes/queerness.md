@@ -7,7 +7,8 @@ source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]]"
   - "[[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]]"
-compiled: 2026-05-29
+  - "[[raw/articles/2026-05-30 Comedian Robby Hoffman Isn't Exactly Happy To Be Here]]"
+compiled: 2026-05-30
 tags:
   - theme
   - queerness
@@ -29,6 +30,7 @@ publish: true
 - **"Pride float" demand** — she wants to lead the parade because *"I'm the Michael Jordan of this community — my wife had 25 boyfriends."*
 - **"The queerest thing a queer girl could do right now is have a boyfriend."**
 - Did first sex with a man at 21 — three times total.
+- **"I never got to come out gay."** (Bustle, Oct 2023). Robby's framing: she was visibly androgynous from a young age, so the announcement was redundant. *"Look at this! If you know, you know."* She positions her dress + look as load-bearing identity work: *"I dress boyish, there's a lot going on, but it works for me."*
 
 ## Why it matters
 
@@ -50,3 +52,4 @@ Robby's queerness reads as **proud, butch, and old-school** in a wave of comedy 
 - [Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada | Full Interview](https://www.youtube.com/watch?v=92ovK37Vtew) — "testing God" bit.
 - [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — top surgery + 2-year rule.
 - [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — Pride float bit, Pete-vs-Hillary bit.
+- [Comedian Robby Hoffman Isn't Exactly Happy To Be Here](https://www.bustle.com/entertainment/robby-hoffman-interview) — Bustle, Lizzie Logan, 2023-10-26; the *"I never got to come out gay"* framing and androgyny-as-announcement argument.

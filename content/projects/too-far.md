@@ -6,7 +6,8 @@ source:
   - "[[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]]"
   - "[[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]]"
-compiled: 2026-05-29
+  - "[[raw/articles/2026-05-30 Comedian Robby Hoffman Isn't Exactly Happy To Be Here]]"
+compiled: 2026-05-30
 tags:
   - project
   - podcast
@@ -22,7 +23,7 @@ Podcast co-hosted by [[people/robby-hoffman|Robby Hoffman]] and **Rachel Kaly**.
 
 ## Key Takeaways
 
-- The New York Times called it **"addictive."**
+- The New York Times called it **"addictive"** — specifically [Bobbi Althoff piece, October 17 2023](https://www.nytimes.com/2023/10/17/arts/bobbi-althoff-robby-hoffman-rachel-kaly-too-far.html), grouping Robby + Rachel with Bobbi Althoff as a podcast-era cohort.
 - Made The Atlantic's top-25 podcast list in its first year.
 - Won an award (per Ashley Gavin's WHGS billing: *"her award-winning podcast"*).
 - Migrated to Patreon-exclusive distribution — Robby uses it to keep editorial independence.
@@ -35,3 +36,4 @@ Podcast co-hosted by [[people/robby-hoffman|Robby Hoffman]] and **Rachel Kaly**.
 - [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s) — Patreon-only note.
 - [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8).
 - [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — Call Her Daddy callout.
+- [Comedian Robby Hoffman Isn't Exactly Happy To Be Here](https://www.bustle.com/entertainment/robby-hoffman-interview) — Bustle, Lizzie Logan, 2023-10-26; cites the NYT *"addictive"* line and the Bobbi-Althoff podcast-cohort grouping.

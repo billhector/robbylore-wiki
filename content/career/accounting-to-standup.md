@@ -6,6 +6,7 @@ source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]]"
   - "[[raw/transcripts/2026-05-30 Robby Hoffman is a grower, not a shower]]"
   - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
+  - "[[raw/articles/2026-05-30 Comedian Robby Hoffman Isn't Exactly Happy To Be Here]]"
 compiled: 2026-05-30
 tags:
   - career
@@ -31,6 +32,8 @@ publish: true
 - **First standup venue:** **George Braithwaite's loft** in Montreal — *"horrendous but also very cool at the same time… raw lofts… he lived with an artist who painted massive paintings."* Robby brought two high-school friends on a December night. Five jokes about her family.
 - **Robby's initial agent-management posture** (Q with Tom Power): she **refused 1-week and 2-week writers'-room gigs** because she wouldn't leave her stable KPMG paycheck for short contracts. The [[projects/odd-squad|Odd Squad]] gig — six months as writers' assistant — was the first thing long enough for her to say yes.
 - **"Comedy was foisted upon me, like Moses or something"** (Guardian, May 2026) — her preferred framing of the calling.
+- **Discovery vector:** Robby was *not* a comedy fan growing up. The family was funny — mother and brother especially — but stand-up was not a category she knew. She discovered it as an adult through **Eddie Murphy**: *"I had the luxury of starting stand-up while discovering it, so I was like, watching Eddie Murphy, thinking, 'Oh, my God, somebody should do something with this!'"* (Bustle, Oct 2023)
+- **The calling-as-curse framing:** *"This is what I'm supposed to be doing. I wouldn't wish a calling on my worst enemy; it truly is a nightmare. If you can do anything else, do it. I never wanted to do stand-up."* (Bustle, Oct 2023)
 
 ## Why it matters
 
@@ -52,3 +55,4 @@ publish: true
 - [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — KPMG salary; lifestyle math.
 - [Robby Hoffman is a grower, not a shower](https://www.youtube.com/watch?v=0UOb7skQWAI) — Q with Tom Power, 2025-07-24; McGill free-laptop framing, George Braithwaite's loft, the refused-short-contracts era before Odd Squad.
 - ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; *"Comedy was foisted upon me, like Moses"* framing.
+- [Comedian Robby Hoffman Isn't Exactly Happy To Be Here](https://www.bustle.com/entertainment/robby-hoffman-interview) — Bustle, Lizzie Logan, 2023-10-26; Eddie-Murphy-as-discovery-vector; *"I wouldn't wish a calling on my worst enemy"*.

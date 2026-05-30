@@ -8,6 +8,19 @@ publish: true
 
 Reverse-chronological record (newest first). Every compile, query, and lint pass logs here.
 
+## [2026-05-30] compile | Bustle 2023 — "Comedian Robby Hoffman Isn't Exactly Happy To Be Here"
+
+Compiled the Bustle interview by Lizzie Logan, October 26 2023 — a Frogtown, LA lunch during the WGA strike's final weeks. Substantive (~12.7K body, no iframes); no new pages, heavy updates to 7 existing.
+
+**Updated:**
+- `projects/rivkah` — Showtime pilot first announced June 2021 (Deadline); producer-at-the-next-table Frogtown cameo; Addison-Rae-yarmulke riff.
+- `projects/too-far` — pinned NYT *"addictive"* quote to its 2023-10-17 piece grouping Robby + Rachel + Bobbi Althoff.
+- `people/robby-hoffman` — Oct 2023 quote bank added (*"I never got to come out gay,"* *"Dreams are free,"* *"Michael Jordan level proportions"*); agent named (Mark); style frame *"small grievances"*; Bethenny Frankel *"roll it into the batter"*; 10+-years-same glasses/hair.
+- `people/gabby-windey` — Bustle hair/dress churn contrast; *"Gabby's obsessed with Jews"* quote predating engagement.
+- `career/wga-strike-speech` — places Robby's speech ~4-5 months before strike resolution; couldn't talk to Rivkah producer about the show during the Frogtown lunch.
+- `career/accounting-to-standup` — Eddie-Murphy-as-discovery-vector; *"I wouldn't wish a calling on my worst enemy"*.
+- `themes/queerness` — *"I never got to come out gay"* and the androgyny-as-announcement frame.
+
 ## [2026-05-30] cleanup | Deleted IndieWire source
 
 Deleted the IndieWire "Just Discovering Robby Hoffman" raw and all references (it was hollow — only 119 chars of promo billboard, no body — and the site's clipping pipeline is unreliable). The Hacks + Dying-for-Sex tags it contributed are already redundantly cited by the Guardian piece.
