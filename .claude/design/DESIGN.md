@@ -10,13 +10,27 @@ The site is built with **Quartz v5**. Quartz's theming surface is `quartz.config
 
 ### Typography
 
-| Role | Family | Origin | Notes |
-|---|---|---|---|
-| Headers (`theme.typography.header`) | **Cutive** | Google Fonts | Typewriter-style serif. Reads "encyclopedia entry" / fan-archive. |
-| Body (`theme.typography.body`) | Source Sans Pro | Google Fonts | Quartz default body; kept for legibility. |
-| Code / mono (`theme.typography.code`) | IBM Plex Mono | Google Fonts | Quartz default code; kept. |
+| Role | Family | Weights | Origin | Notes |
+|---|---|---|---|---|
+| Headers (`theme.typography.header`) | **Cutive** | 400 only | Google Fonts | Typewriter-style serif, naturally heavy. Reads "encyclopedia entry" / fan-archive. |
+| Body (`theme.typography.body`) | Source Sans Pro | default (400/600 + italics) | Google Fonts | Quartz default body; kept for legibility. |
+| Code / mono (`theme.typography.code`) | **JetBrains Mono** | 400 only | Google Fonts | Replaces the prior IBM Plex Mono default. |
 
 **Font origin:** `googleFonts` (not self-hosted). This intentionally diverges from PROFILE.md's "self-hosted woff2" preference — switching Quartz to local fonts is a larger refactor and not warranted yet.
+
+**Weight pinning gotcha.** Quartz's `formatFontSpecification` in `quartz/util/theme.ts` defaults to `[400, 700]` for any `header`-role font and `[400, 600]` for `code`-role. If you specify a font as a bare string (`header: Cutive`), Quartz auto-fetches both default weights from Google Fonts. When the font only ships at one weight (Cutive only has 400; we want JetBrains Mono only at 400), the missing-weight fetch fails with "Bad Request" on every build. **Always use the object form when pinning weights:**
+
+```yaml
+typography:
+  header:
+    name: Cutive
+    weights: [400]
+  code:
+    name: JetBrains Mono
+    weights: [400]
+```
+
+After this fix, the Google Fonts URL in `<head>` emits a bare `family=Cutive` (no `;wght@…` suffix) and the build is warning-free.
 
 ### Colors
 
@@ -78,7 +92,8 @@ Warm-cream day mode, midnight-library night mode. Four colors only. Cutive typew
 
 ## Custom CSS overrides (`quartz/styles/custom.scss`)
 
-- **Force header weight 400 + disable bold synthesis.** Cutive ships only at weight 400 on Google Fonts and is naturally heavy. CSS sets `font-weight: 400` and `font-synthesis-weight: none` on `h1`–`h6`, `.article-title`, and `.page-title` so browsers don't synthesize a faux-bold from the 400 master. Quartz still emits a build-time warning *"Failed to fetch font Cutive with weight 700, got Bad Request"* — that's cosmetic; Google Fonts returns the 400 face regardless, and the CSS override means nothing on the page ever asks for 700.
+- **Force header weight 400 + disable bold synthesis.** Cutive ships only at weight 400 on Google Fonts and is naturally heavy. CSS sets `font-weight: 400` and `font-synthesis-weight: none` on `h1`–`h6`, `.article-title`, and `.page-title` so browsers don't synthesize a faux-bold from the 400 master. Kept as defense-in-depth even after the typography weight pinning above means no part of the pipeline asks for @700 anymore.
+- **Site title to text color.** `.page-title a { color: var(--dark) }` so the sidebar "Robby Lore" reads as a logo, not a faded link.
 
 ## Known accessibility caveats
 
