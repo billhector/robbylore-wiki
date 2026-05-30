@@ -25,7 +25,11 @@ configuration:
         name: Cutive
         weights: [400]
       body: Source Sans Pro
-      code: IBM Plex Mono
+      # JetBrains Mono pinned to 400 — same rationale as Cutive: Quartz's default
+      # code-role weight set is [400, 600], object form lets us drop @600.
+      code:
+        name: JetBrains Mono
+        weights: [400]
     # Palette is intentionally 4 colors only:
     #   C1 #213448 navy   C2 #547792 steel   C3 #94B4C1 soft   C4 #EAE0CF cream
     # Light mode anchors on C4; dark mode flips on C1.
