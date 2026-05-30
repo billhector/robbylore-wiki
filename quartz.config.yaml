@@ -147,6 +147,32 @@ plugins:
     layout:
       position: left
       priority: 50
+    options:
+      # Sort all submenus alphabetically by displayName (default behavior),
+      # EXCEPT entries under /people/ which sort by last name instead.
+      # The function is serialized via .toString() and rebuilt client-side
+      # via `new Function(...)` in the explorer inline script, so a string
+      # form of an arrow function is what the plugin expects.
+      sortFn: |
+        (a, b) => {
+          const lastName = (n) => {
+            const name = (n.displayName || "").replace(/\s*\(.*\)\s*$/, "").trim();
+            const parts = name.split(/\s+/);
+            return parts[parts.length - 1] || name;
+          };
+          if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+            const aInPeople = (a.slugSegments || [])[0] === "people";
+            const bInPeople = (b.slugSegments || [])[0] === "people";
+            if (aInPeople && bInPeople && !a.isFolder && !b.isFolder) {
+              const cmp = lastName(a).localeCompare(lastName(b), undefined, { numeric: true, sensitivity: "base" });
+              if (cmp !== 0) return cmp;
+              return (a.displayName || "").localeCompare(b.displayName || "", undefined, { numeric: true, sensitivity: "base" });
+            }
+            return (a.displayName || "").localeCompare(b.displayName || "", undefined, { numeric: true, sensitivity: "base" });
+          }
+          if (!a.isFolder && b.isFolder) return 1;
+          return -1;
+        }
   - source: github:quartz-community/graph
     enabled: true
     layout:
