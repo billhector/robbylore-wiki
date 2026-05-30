@@ -8,9 +8,13 @@ publish: true
 
 Reverse-chronological record (newest first). Every compile, query, and lint pass logs here.
 
-## [2026-05-30] compile | 8 sources — Synagogue/Lovebirds/Realtor/Q-Tom-Power/GQ-Mulaney/People-Carell/Guardian (+ hollow IndieWire)
+## [2026-05-30] cleanup | Deleted IndieWire source
 
-Compiled 8 raw files: 7 articles + 1 transcript. Net: **16 new wiki pages**, ~18 heavy updates, all indexes refreshed, zero broken wikilinks.
+Deleted the IndieWire "Just Discovering Robby Hoffman" raw and all references (it was hollow — only 119 chars of promo billboard, no body — and the site's clipping pipeline is unreliable). The Hacks + Dying-for-Sex tags it contributed are already redundantly cited by the Guardian piece.
+
+## [2026-05-30] compile | 7 sources — Synagogue/Lovebirds/Realtor/Q-Tom-Power/GQ-Mulaney/People-Carell/Guardian
+
+Compiled 7 raw files: 6 articles + 1 transcript. Net: **16 new wiki pages**, ~18 heavy updates, all indexes refreshed, zero broken wikilinks.
 
 **Created (16):**
 - Projects (4): `projects/rivkah` (Showtime autobiographical series), `projects/unentitled` (Robby's first sold HBO show, post-WGA-speech), `projects/working-moms` (CBC; 1-week punch-up), `projects/everybodys-live` (Mulaney's Netflix talk show).
@@ -40,8 +44,6 @@ Compiled 8 raw files: 7 articles + 1 transcript. Net: **16 new wiki pages**, ~18
 - `bits/proposing-via-crossword` — *"Will you marry me, Gabby?"* full puzzle text; Gabby's three-weeks-in framing.
 
 **Indexes updated:** projects (split Stand-up / Television / In Development / Reality / Podcast; added 4 new entries); people (new Hacks-creators + Rooster-creators sections); career (degrassi-audition); bits (3 new entries).
-
-**Hollow flag:** IndieWire "Just Discovering Robby Hoffman" piece — only 119-char body (the IndieWire Honors promo blurb, no article text clipped). Compiled to tag-set only; no fabricated content. Queue for re-clip when the full article is available.
 
 **Heads up:** 1 brand-new raw arrived mid-compile — "Comedian Robby Hoffman Isn't Exactly Happy To Be Here.md" — left untouched (`compiled: false`) for next /wiki-ingest + /wiki-compile pass.
 
