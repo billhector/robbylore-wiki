@@ -24,4 +24,4 @@ publish: true
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]] — Etalk; the bit opens her interview.
+- [Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada | Full Interview](https://www.youtube.com/watch?v=92ovK37Vtew) — Etalk; the bit opens her interview.

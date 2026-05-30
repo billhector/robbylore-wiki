@@ -37,5 +37,5 @@ publish: true
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]] — Not Skinny But Not Fat; the full Kaya walk-out telling.
-- [[raw/transcripts/2026-05-29 The Robby Hoffman]] — Long Winded; the six-lines line.
+- [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — Not Skinny But Not Fat; the full Kaya walk-out telling.
+- [The Robby Hoffman](https://www.youtube.com/watch?v=p04Njv2QpKU) — Long Winded; the six-lines line.

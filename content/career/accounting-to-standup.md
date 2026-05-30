@@ -40,7 +40,7 @@ publish: true
 
 ## Sources
 
-- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT 2026; explicit "least amount of work, most amount of payoff" framing + "would have made partner."
-- [[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]] — Call Her Daddy; "the pivot from accounting to stand-up" framing.
-- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — KPMG $32,500 + six months.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]] — KPMG salary; lifestyle math.
+- [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — FT 2026; explicit "least amount of work, most amount of payoff" framing + "would have made partner."
+- [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — Call Her Daddy; "the pivot from accounting to stand-up" framing.
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — KPMG $32,500 + six months.
+- [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — KPMG salary; lifestyle math.

@@ -32,8 +32,8 @@ publish: true
 
 ## Sources
 
-- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT 2026; grandfather scarf story, Toronto→LA van move.
-- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — first telling of the Florida → Montreal flight; first stand-up set at Too Much loft.
-- [[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]] — Toronto love, Mark Carney rivalry.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]] — Montreal childhood color.
-- [[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]] — Montreal hockey scene.
+- [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — FT 2026; grandfather scarf story, Toronto→LA van move.
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — first telling of the Florida → Montreal flight; first stand-up set at Too Much loft.
+- [Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada | Full Interview](https://www.youtube.com/watch?v=92ovK37Vtew) — Toronto love, Mark Carney rivalry.
+- [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — Montreal childhood color.
+- [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — Montreal hockey scene.

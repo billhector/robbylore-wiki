@@ -27,7 +27,7 @@ Public-access-turned-Fusion-turned-truTV comedy show created by Chris Gethard. [
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — fullest telling.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]] — credit-list mention.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]] — the AIDS Russian Roulette pitch surfaced again.
-- [[raw/transcripts/2026-05-29 How to Pull Rich Men and Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman]].
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — fullest telling.
+- [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — credit-list mention.
+- [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — the AIDS Russian Roulette pitch surfaced again.
+- [How to Pull Rich Men & Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman](https://www.youtube.com/watch?v=kKrxnRu_zGk).

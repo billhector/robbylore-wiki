@@ -23,4 +23,4 @@ publish: true
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]] — Call Her Daddy; the canonical telling.
+- [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — Call Her Daddy; the canonical telling.

@@ -24,5 +24,5 @@ CBS late-night panel show hosted by Taylor Tomlinson, executive-produced by Step
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]] — Whitney's introduction.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]] — passing mention.
+- [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — Whitney's introduction.
+- [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — passing mention.

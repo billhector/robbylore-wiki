@@ -41,4 +41,4 @@ The foundational [[themes/family|Hoffman family]] origin event — first told pu
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — first public telling.
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — first public telling.

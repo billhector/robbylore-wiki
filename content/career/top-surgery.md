@@ -35,4 +35,4 @@ The surgery is one of the few topics Robby reserves for long-form podcast space 
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]] — only source with the full story.
+- [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — only source with the full story.

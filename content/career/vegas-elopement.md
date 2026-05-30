@@ -39,5 +39,5 @@ publish: true
 
 ## Sources
 
-- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT 2026; Gabby's "if everything burns down" line + the grandfather-paintings-as-only-things-grabbed detail.
-- [[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]] — full telling.
+- [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — FT 2026; Gabby's "if everything burns down" line + the grandfather-paintings-as-only-things-grabbed detail.
+- [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s) — full telling.

@@ -34,7 +34,7 @@ publish: true
 
 ## Sources
 
-- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — print-canonical spelling + paintings-as-LA-fire-evacuation-objects.
-- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — the Florida extraction.
-- [[raw/transcripts/2026-05-29 The Robby Hoffman]] — Paris painting contest.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]] — post-war butcher.
+- [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — print-canonical spelling + paintings-as-LA-fire-evacuation-objects.
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — the Florida extraction.
+- [The Robby Hoffman](https://www.youtube.com/watch?v=p04Njv2QpKU) — Paris painting contest.
+- [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — post-war butcher.

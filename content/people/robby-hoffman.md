@@ -123,14 +123,14 @@ See [[career/index|Career index]] for the timeline. Highlights:
 
 ## Sources
 
-- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT "Aesthete" profile by [[people/horatia-harrod|Horatia Harrod]], 2026-05-07; the Rolex/Porsche/Moleskine/Bell Jar/Burberry/grandfather-paintings inventory plus the [[people/nathan-letovsky|Nathan Letovsky]] name spelling.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]] — Whitney Cummings interview; childhood, autism framing, "no bait."
-- [[raw/transcripts/2026-05-29 Robby Hoffman DESTROYS Me and My Lifestyle WHGS Ep. 232 Full Episode]] — Ashley Gavin; monogamy, mother's born-again turn, kosher-as-restraint.
-- [[raw/transcripts/2026-05-29 How to Pull Rich Men and Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman]] — Nicole Byer; "one hot, one smart," Juneteenth cookout, dating rules.
-- [[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]] — Soresi; the crossword proposal, Vegas elopement.
-- [[raw/transcripts/2026-05-29 The Robby Hoffman]] — Gabby Windey hosts; Wake Up release, Uncle Eddie folklore, vintage shopping.
-- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — Sam Fragoso; first telling of the Florida-Montreal escape, [[career/wga-strike-speech|WGA speech]], Rob Reiner reaction.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]] — Neal Brennan; top surgery, 2-year rule, poverty, opinions.
-- [[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]] — Etalk; Wake Up reception, The Rooster, "testing God."
-- [[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]] — Not Skinny But Not Fat; HBO script sneak, Emmy loss, Kris Jenner, Robert Pattinson.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]] — Call Her Daddy; meeting Gabby, "socks during sex," 5%-jail bit.
+- [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — FT "Aesthete" profile by [[people/horatia-harrod|Horatia Harrod]], 2026-05-07; the Rolex/Porsche/Moleskine/Bell Jar/Burberry/grandfather-paintings inventory plus the [[people/nathan-letovsky|Nathan Letovsky]] name spelling.
+- [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — Whitney Cummings interview; childhood, autism framing, "no bait."
+- [Robby Hoffman DESTROYS Me and My Lifestyle | WHGS Ep. 232 | Full Episode](https://www.youtube.com/watch?v=qd34I1c65do) — Ashley Gavin; monogamy, mother's born-again turn, kosher-as-restraint.
+- [How to Pull Rich Men & Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman](https://www.youtube.com/watch?v=kKrxnRu_zGk) — Nicole Byer; "one hot, one smart," Juneteenth cookout, dating rules.
+- [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s) — Soresi; the crossword proposal, Vegas elopement.
+- [The Robby Hoffman](https://www.youtube.com/watch?v=p04Njv2QpKU) — Gabby Windey hosts; Wake Up release, Uncle Eddie folklore, vintage shopping.
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — Sam Fragoso; first telling of the Florida-Montreal escape, [[career/wga-strike-speech|WGA speech]], Rob Reiner reaction.
+- [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — Neal Brennan; top surgery, 2-year rule, poverty, opinions.
+- [Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada | Full Interview](https://www.youtube.com/watch?v=92ovK37Vtew) — Etalk; Wake Up reception, The Rooster, "testing God."
+- [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — Not Skinny But Not Fat; HBO script sneak, Emmy loss, Kris Jenner, Robert Pattinson.
+- [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — Call Her Daddy; meeting Gabby, "socks during sex," 5%-jail bit.

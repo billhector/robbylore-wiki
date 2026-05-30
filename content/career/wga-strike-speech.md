@@ -37,4 +37,4 @@ In **Summer 2023**, with the WGA strike underway, [[people/robby-hoffman|Robby]]
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — Sam Fragoso; full telling.
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — Sam Fragoso; full telling.

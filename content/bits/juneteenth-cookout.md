@@ -24,4 +24,4 @@ A [[people/robby-hoffman|Robby]] story she returns to as a self-deprecating clas
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 How to Pull Rich Men and Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman]] — Nicole Byer; only telling captured so far.
+- [How to Pull Rich Men & Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman](https://www.youtube.com/watch?v=kKrxnRu_zGk) — Nicole Byer; only telling captured so far.

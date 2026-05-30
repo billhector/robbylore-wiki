@@ -32,7 +32,7 @@ A favorite [[people/robby-hoffman|Robby]] theme: dating mechanics, viewed from t
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 How to Pull Rich Men and Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman]] — primary source for the rules.
-- [[raw/transcripts/2026-05-29 Robby Hoffman DESTROYS Me and My Lifestyle WHGS Ep. 232 Full Episode]] — pre-Gabby Bachelorette dating mention.
-- [[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]] — "can't talk to hot men" bit.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]] — first-date moves, meeting Gabby.
+- [How to Pull Rich Men & Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman](https://www.youtube.com/watch?v=kKrxnRu_zGk) — primary source for the rules.
+- [Robby Hoffman DESTROYS Me and My Lifestyle | WHGS Ep. 232 | Full Episode](https://www.youtube.com/watch?v=qd34I1c65do) — pre-Gabby Bachelorette dating mention.
+- [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s) — "can't talk to hot men" bit.
+- [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — first-date moves, meeting Gabby.

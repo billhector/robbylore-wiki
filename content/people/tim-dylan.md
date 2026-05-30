@@ -23,4 +23,4 @@ Comedian; friend of [[people/robby-hoffman|Robby]]. Hero of [[people/schmuly-hof
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]].
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8).

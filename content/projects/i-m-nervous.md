@@ -20,4 +20,4 @@ Project credited to [[people/robby-hoffman|Robby Hoffman]] in pre-[[projects/wak
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]] — credit-list mention only.
+- [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — credit-list mention only.

@@ -47,9 +47,9 @@ Robby's stand-up identity is post-Orthodox but still culturally Lubavitch — he
 
 ## Sources
 
-- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT 2026; "heretic" self-framing, nightly-prayer admission, multiples-of-18 buying habit.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]] — Whitney Cummings; deepest dive on coming out + religious family.
-- [[raw/transcripts/2026-05-29 Robby Hoffman DESTROYS Me and My Lifestyle WHGS Ep. 232 Full Episode]] — mother's born-again turn, "Jesus loves me" bit.
-- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — first telling of the Florida → Montreal flight.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]] — Lubavitch boys/girls schooling note.
-- [[raw/transcripts/2026-05-29 How to Pull Rich Men and Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman]].
+- [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — FT 2026; "heretic" self-framing, nightly-prayer admission, multiples-of-18 buying habit.
+- [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — Whitney Cummings; deepest dive on coming out + religious family.
+- [Robby Hoffman DESTROYS Me and My Lifestyle | WHGS Ep. 232 | Full Episode](https://www.youtube.com/watch?v=qd34I1c65do) — mother's born-again turn, "Jesus loves me" bit.
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — first telling of the Florida → Montreal flight.
+- [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — Lubavitch boys/girls schooling note.
+- [How to Pull Rich Men & Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman](https://www.youtube.com/watch?v=kKrxnRu_zGk).

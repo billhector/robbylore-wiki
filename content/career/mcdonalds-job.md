@@ -35,5 +35,5 @@ publish: true
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]] — the apple-pie + fridge tellings.
-- [[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]] — Sheni + black socks; current Number 7 order.
+- [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s) — the apple-pie + fridge tellings.
+- [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — Sheni + black socks; current Number 7 order.

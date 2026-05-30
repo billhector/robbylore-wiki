@@ -46,10 +46,10 @@ Television personality and ICU nurse; wife of [[people/robby-hoffman|Robby Hoffm
 
 ## Sources
 
-- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT 2026; Bell Jar gift, separate bathrooms, no-kids, "if everything burns down" wedding line.
-- [[raw/transcripts/2026-05-29 The Robby Hoffman]] — Gabby hosts Robby on [[projects/long-winded|Long Winded]]; deepest joint material.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]] — Robby tells Alex Cooper the full how-they-met story.
-- [[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]] — the [[bits/proposing-via-crossword|crossword proposal]] story in full.
-- [[raw/transcripts/2026-05-29 Robby Hoffman DESTROYS Me and My Lifestyle WHGS Ep. 232 Full Episode]] — Gabby filming Traitors in Scotland reference.
-- [[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]] — *"Mexican queen"* line.
-- [[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]] — Gabby winning Traitors; stopping Robby from approaching Kris Jenner.
+- [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — FT 2026; Bell Jar gift, separate bathrooms, no-kids, "if everything burns down" wedding line.
+- [The Robby Hoffman](https://www.youtube.com/watch?v=p04Njv2QpKU) — Gabby hosts Robby on [[projects/long-winded|Long Winded]]; deepest joint material.
+- [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — Robby tells Alex Cooper the full how-they-met story.
+- [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s) — the [[bits/proposing-via-crossword|crossword proposal]] story in full.
+- [Robby Hoffman DESTROYS Me and My Lifestyle | WHGS Ep. 232 | Full Episode](https://www.youtube.com/watch?v=qd34I1c65do) — Gabby filming Traitors in Scotland reference.
+- [Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada | Full Interview](https://www.youtube.com/watch?v=92ovK37Vtew) — *"Mexican queen"* line.
+- [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — Gabby winning Traitors; stopping Robby from approaching Kris Jenner.

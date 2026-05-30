@@ -45,9 +45,9 @@ publish: true
 
 ## Sources
 
-- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT 2026; the father-Porsche-instead-of-child-support story; grandfather Nathan Letovsky paintings + LA-fire evacuation; sister Devorah photo; mother's "important to give" lesson.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]] — Kaya, Schmuly, Zadie Nathan, grandmother Lil.
-- [[raw/transcripts/2026-05-29 The Robby Hoffman]] — Uncle Eddie folklore from Gabby's questions.
-- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — first telling of the Florida → Montreal flight.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]] — bathroom-per-twelve-people, pest infestation.
-- [[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]] — Kaya at the Emmys, brother Schmuly + Steve Carell.
+- [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — FT 2026; the father-Porsche-instead-of-child-support story; grandfather Nathan Letovsky paintings + LA-fire evacuation; sister Devorah photo; mother's "important to give" lesson.
+- [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — Kaya, Schmuly, Zadie Nathan, grandmother Lil.
+- [The Robby Hoffman](https://www.youtube.com/watch?v=p04Njv2QpKU) — Uncle Eddie folklore from Gabby's questions.
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — first telling of the Florida → Montreal flight.
+- [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — bathroom-per-twelve-people, pest infestation.
+- [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — Kaya at the Emmys, brother Schmuly + Steve Carell.

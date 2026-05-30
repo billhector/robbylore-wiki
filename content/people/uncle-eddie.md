@@ -37,7 +37,7 @@ Uncle Eddie is the structural fact that allowed Robby's mother to leave the fath
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 The Robby Hoffman]] — Long Winded; deepest Eddie folklore.
-- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — picked them up off the plane in Montreal.
-- [[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]] — niece Teddy named after him.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]] — passing physical-description detail.
+- [The Robby Hoffman](https://www.youtube.com/watch?v=p04Njv2QpKU) — Long Winded; deepest Eddie folklore.
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — picked them up off the plane in Montreal.
+- [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s) — niece Teddy named after him.
+- [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — passing physical-description detail.

@@ -33,8 +33,8 @@ publish: true
 
 ## Sources
 
-- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT 2026; "if everything burns down" wedding quote, separate-bathrooms, no-kids, Bell Jar gift.
-- [[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]] — the crossword proposal told in full; pro-marriage argument vs Soresi.
-- [[raw/transcripts/2026-05-29 The Robby Hoffman]] — Gabby's POV.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]] — Call Her Daddy; meeting Gabby + 13-day mark.
-- [[raw/transcripts/2026-05-29 Robby Hoffman DESTROYS Me and My Lifestyle WHGS Ep. 232 Full Episode]] — monogamy + kosher argument.
+- [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — FT 2026; "if everything burns down" wedding quote, separate-bathrooms, no-kids, Bell Jar gift.
+- [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s) — the crossword proposal told in full; pro-marriage argument vs Soresi.
+- [The Robby Hoffman](https://www.youtube.com/watch?v=p04Njv2QpKU) — Gabby's POV.
+- [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — Call Her Daddy; meeting Gabby + 13-day mark.
+- [Robby Hoffman DESTROYS Me and My Lifestyle | WHGS Ep. 232 | Full Episode](https://www.youtube.com/watch?v=qd34I1c65do) — monogamy + kosher argument.

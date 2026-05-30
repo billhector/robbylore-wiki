@@ -49,9 +49,9 @@ Robby's stand-up persona is *materially* class-aware in a way many comedians' is
 
 ## Sources
 
-- [[raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex]] — FT 2026; Rolex cost-per-wear math, $65k first sale, mother's $5 generosity lesson, "I'm still screaming" wealth-style line.
-- [[raw/transcripts/2026-05-29 How to Pull Rich Men and Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman]] — the dating-up framework.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]] — twelve-people-one-bathroom, $1,000 HBO Canada beer.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]] — Robby's reading of the rich Jewish school.
-- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — *"I'm the last American dream."*; KPMG → comedy timeline.
-- [[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]] — McDonald's, SuperCuts, flying coach, Pod Hotel.
+- [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — FT 2026; Rolex cost-per-wear math, $65k first sale, mother's $5 generosity lesson, "I'm still screaming" wealth-style line.
+- [How to Pull Rich Men & Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman](https://www.youtube.com/watch?v=kKrxnRu_zGk) — the dating-up framework.
+- [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — twelve-people-one-bathroom, $1,000 HBO Canada beer.
+- [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — Robby's reading of the rich Jewish school.
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — *"I'm the last American dream."*; KPMG → comedy timeline.
+- [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — McDonald's, SuperCuts, flying coach, Pod Hotel.

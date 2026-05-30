@@ -23,5 +23,5 @@ Actor; lead and producer on [[projects/the-rooster|The Rooster]] (Bill Lawrence 
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]] — The Rooster casting details.
-- [[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]] — the Office anecdote.
+- [Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada | Full Interview](https://www.youtube.com/watch?v=92ovK37Vtew) — The Rooster casting details.
+- [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — the Office anecdote.

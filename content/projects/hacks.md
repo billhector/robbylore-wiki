@@ -29,8 +29,8 @@ Max (HBO Max) comedy series created by Lucia Aniello, Paul W. Downs, and Jen Sta
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 The Robby Hoffman]] — six-lines line.
-- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — Hacks in the year-of-Robby framing.
-- [[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]] — Season 5 return confirmed.
-- [[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]] — full Emmy-loss story, Kaya walk-out.
-- [[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]].
+- [The Robby Hoffman](https://www.youtube.com/watch?v=p04Njv2QpKU) — six-lines line.
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — Hacks in the year-of-Robby framing.
+- [Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada | Full Interview](https://www.youtube.com/watch?v=92ovK37Vtew) — Season 5 return confirmed.
+- [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — full Emmy-loss story, Kaya walk-out.
+- [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s).

@@ -26,5 +26,5 @@ Feature film. **[[people/steve-carell|Steve Carell]]** stars and produces. **Bil
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]] — primary source for casting and producer details.
-- [[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]] — Carell-and-The-Office anecdote.
+- [Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada | Full Interview](https://www.youtube.com/watch?v=92ovK37Vtew) — primary source for casting and producer details.
+- [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — Carell-and-The-Office anecdote.

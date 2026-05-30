@@ -35,4 +35,4 @@ Early in her career, [[people/robby-hoffman|Robby]] **snuck a script into HBO Ca
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]] — Not Skinny But Not Fat; only known full telling.
+- [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — Not Skinny But Not Fat; only known full telling.

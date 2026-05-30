@@ -45,9 +45,9 @@ publish: true
 
 ## Sources
 
-- [[raw/transcripts/2026-05-29 The Robby Hoffman]] — release-week conversation with [[people/gabby-windey|Gabby Windey]].
-- [[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]] — release-week deep dive.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]] — production lead-up.
-- [[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]] — Etalk post-release; Netflix scheduling color, Mulaney begging to direct.
-- [[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]] — tour stories around the special.
-- [[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]] — Call Her Daddy press; quit vaping note.
+- [The Robby Hoffman](https://www.youtube.com/watch?v=p04Njv2QpKU) — release-week conversation with [[people/gabby-windey|Gabby Windey]].
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — release-week deep dive.
+- [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — production lead-up.
+- [Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada | Full Interview](https://www.youtube.com/watch?v=92ovK37Vtew) — Etalk post-release; Netflix scheduling color, Mulaney begging to direct.
+- [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — tour stories around the special.
+- [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — Call Her Daddy press; quit vaping note.
