@@ -16,7 +16,14 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Cutive
+      # Cutive only ships at weight 400 on Google Fonts. Quartz's default
+      # header-role weight set is [400, 700], so the string form `header: Cutive`
+      # makes the build try to fetch Cutive @700 and emit a "Bad Request" warning
+      # on every build. The object form below explicitly pins weights so the
+      # Google Fonts URL only asks for what exists.
+      header:
+        name: Cutive
+        weights: [400]
       body: Source Sans Pro
       code: IBM Plex Mono
     # Palette is intentionally 4 colors only:
