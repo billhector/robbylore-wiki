@@ -2,7 +2,8 @@
 title: Proposing via Crossword
 source:
   - "[[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]]"
-compiled: 2026-05-29
+  - "[[raw/articles/2026-05-30 Inside 'The Traitors' Star Gabby Windey's Very Modest $5,000-a-Month Rental Home as She Announces Surprise Marriage to Robby Hoffman]]"
+compiled: 2026-05-30
 tags:
   - bit
   - marriage
@@ -34,7 +35,9 @@ publish: true
 ## What happened next
 
 - Gabby got the GABBY answer and looked up.
-- They eloped in [[career/vegas-elopement|Vegas]] shortly after, fleeing the LA fires; $799 chapel package, Reverend Nature in Yeezys, Wynn buffet (crab legs) for the engagement-night dinner.
+- The Realtor.com / Cosmopolitan version of the puzzle clue Robby commissioned: **"Will you marry me, Gabby?"** (per Realtor.com 2025-03-05).
+- They eloped in [[career/vegas-elopement|Vegas on January 11, 2025]] — $799 chapel package, Reverend Nature in Yeezys, Wynn buffet (crab legs) for the engagement-night dinner.
+- The proposal was prompted in part by Gabby — *"Robby was literally ready to propose three weeks in and I'm always the one pumping the brakes."* The Vegas evacuation accelerated the timing.
 
 ## Related
 
@@ -45,3 +48,4 @@ publish: true
 ## Sources
 
 - [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s) — primary, fullest telling.
+- [Inside 'The Traitors' Star Gabby Windey's Very Modest $5,000-a-Month Rental Home](https://www.realtor.com/news/celebrity-real-estate/traitors-gabby-windey-los-angeles-home-wedding-robby-hoffman/) — Realtor.com, Kelsi Karruli, 2025-03-05; *"Will you marry me, Gabby?"* puzzle text and the engagement-vs-three-weeks-in framing.

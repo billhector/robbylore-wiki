@@ -7,7 +7,9 @@ source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]]"
-compiled: 2026-05-29
+  - "[[raw/articles/2026-05-30 Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney]]"
+  - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
+compiled: 2026-05-30
 tags:
   - project
   - stand-up
@@ -20,7 +22,7 @@ publish: true
 
 # Wake Up
 
-[[people/robby-hoffman|Robby Hoffman]]'s debut Netflix stand-up special. Released **December 14, 2025** (a holiday slot Netflix slid her into between Matt Rife and Ricky Gervais). Directed by **[[people/john-mulaney|John Mulaney]]**.
+[[people/robby-hoffman|Robby Hoffman]]'s debut Netflix stand-up special. Released **December 14, 2025** (a holiday slot Netflix slid her into between Matt Rife and Ricky Gervais). Directed by **[[people/john-mulaney|John Mulaney]]**. Mulaney introduces her on stage: *"Once in a while, you get to see a legend at the absolute top of their game."*
 
 ## Key Takeaways
 
@@ -50,3 +52,5 @@ publish: true
 - [Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada | Full Interview](https://www.youtube.com/watch?v=92ovK37Vtew) — Etalk post-release; Netflix scheduling color, Mulaney begging to direct.
 - [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — tour stories around the special.
 - [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — Call Her Daddy press; quit vaping note.
+- [Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney](https://www.gq.com/story/robby-hoffman-interviewed-by-john-mulaney) — GQ, December 12 2025; Mulaney conducts; release-week framing piece.
+- ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; the Mulaney *"legend at the absolute top of their game"* intro line; the *"disgusting women"*, abortion, and pedophilia bit references; *"misinterpreted jokes"* defense.

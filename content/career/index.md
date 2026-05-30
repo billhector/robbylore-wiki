@@ -11,6 +11,7 @@ Timeline events, milestones, notable performances, awards, controversies, and pu
 ## Origin
 
 - [[career/montreal-flight|Montreal Flight (from Florida)]] — the family's foundational escape.
+- [[career/degrassi-audition|The Degrassi Audition That Didn't Happen]] — age 12-14; Robby's mother shut it down.
 - [[career/accounting-to-standup|Accounting to Stand-Up]] — KPMG to comedy; six-month runway.
 - [[career/mcdonalds-job|McDonald's Job]] — the teenage-Montreal bit library.
 - [[career/hbo-script-sneak|HBO Script Sneak]] — Word + Courier 12 + manila envelope.

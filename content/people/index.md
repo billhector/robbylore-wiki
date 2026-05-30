@@ -32,6 +32,24 @@ Robby Hoffman and the cast of characters who appear repeatedly across her work, 
 - [[people/rachel-kaly|Rachel Kaly]] — Too Far podcast co-host.
 - [[people/neal-brennan|Neal Brennan]] — host of Blocks; substantive top-surgery interview.
 
+## Hacks creators + cast
+
+- [[people/lucia-aniello|Lucia Aniello]] — Hacks co-creator; wrote Randi for Robby.
+- [[people/paul-w-downs|Paul W. Downs]] — Hacks co-creator; plays Jimmy.
+- [[people/jen-statsky|Jen Statsky]] — Hacks co-creator.
+- [[people/megan-stalter|Megan Stalter]] — plays Kayla; Robby's main agency-side scene partner.
+
+## The Rooster creators + cast
+
+- [[people/bill-lawrence|Bill Lawrence]] — co-creator; Scrubs / Ted Lasso showrunner.
+- [[people/matt-tarses|Matt Tarses]] — co-creator.
+- [[people/lauren-tsai|Lauren Tsai]] — plays Sunny, Robby's character's roommate.
+- [[people/charly-clive|Charly Clive]] — plays Carell's daughter Katie.
+
+## Canadian TV
+
+- [[people/stacy-farber|Stacy Farber]] — got the Degrassi role Robby was scouted for.
+
 ## Domestic
 
 - [[people/dog-nardo|Nardo]] — Robby + Gabby's dog.

@@ -4,7 +4,9 @@ source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]]"
   - "[[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]]"
-compiled: 2026-05-29
+  - "[[raw/transcripts/2026-05-30 Robby Hoffman is a grower, not a shower]]"
+  - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
+compiled: 2026-05-30
 tags:
   - career
   - accounting-to-standup
@@ -25,6 +27,10 @@ publish: true
 - **Stole the laptop on the way out** of KPMG. (Per Not Skinny But Not Fat.)
 - The accounting background is also why she did her own [[career/hbo-script-sneak|HBO script sneak]] using Word + Courier 12 instead of paying for screenwriting software — the bookkeeper's instinct, in her telling, never left.
 - **The choice was explicit class-escape:** *"As a kid I knew one thing: I gotta get out of here. When I got to school, I was like, 'What's the least amount of work, the most amount of payoff?' So I went into accounting and worked at KPMG. Had I stayed there, I would have made partner. I was determined not to be poor."* (FT 2026)
+- **School:** **[[themes/canada|McGill]] University** — accounting. Robby chose it explicitly because **the program comes with a free laptop**. *"You get a free laptop. You get a couple of bucks guaranteed. And then when you want to do comedy, you say, 'What's the best place to bomb?'"*
+- **First standup venue:** **George Braithwaite's loft** in Montreal — *"horrendous but also very cool at the same time… raw lofts… he lived with an artist who painted massive paintings."* Robby brought two high-school friends on a December night. Five jokes about her family.
+- **Robby's initial agent-management posture** (Q with Tom Power): she **refused 1-week and 2-week writers'-room gigs** because she wouldn't leave her stable KPMG paycheck for short contracts. The [[projects/odd-squad|Odd Squad]] gig — six months as writers' assistant — was the first thing long enough for her to say yes.
+- **"Comedy was foisted upon me, like Moses or something"** (Guardian, May 2026) — her preferred framing of the calling.
 
 ## Why it matters
 
@@ -44,3 +50,5 @@ publish: true
 - [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — Call Her Daddy; "the pivot from accounting to stand-up" framing.
 - [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — KPMG $32,500 + six months.
 - [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — KPMG salary; lifestyle math.
+- [Robby Hoffman is a grower, not a shower](https://www.youtube.com/watch?v=0UOb7skQWAI) — Q with Tom Power, 2025-07-24; McGill free-laptop framing, George Braithwaite's loft, the refused-short-contracts era before Odd Squad.
+- ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; *"Comedy was foisted upon me, like Moses"* framing.

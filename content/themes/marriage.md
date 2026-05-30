@@ -5,7 +5,9 @@ source:
   - "[[raw/transcripts/2026-05-29 The Robby Hoffman]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman DESTROYS Me and My Lifestyle WHGS Ep. 232 Full Episode]]"
-compiled: 2026-05-29
+  - "[[raw/articles/2026-05-30 In Bed With Lovebirds Gabby Windey and Robby Hoffman]]"
+  - "[[raw/articles/2026-05-30 Inside 'The Traitors' Star Gabby Windey's Very Modest $5,000-a-Month Rental Home as She Announces Surprise Marriage to Robby Hoffman]]"
+compiled: 2026-05-30
 tags:
   - theme
   - marriage
@@ -30,6 +32,8 @@ publish: true
 - **Anti-pressure stance:** Robby argues nobody should feel pressured to marry — but if you're going to do it, mean it. The pressure norm is *"a Catholic Church holdover."*
 - **One-hot-one-smart** is the operating model for her marriage. See [[bits/one-hot-one-smart]].
 - **First "I'm falling in love with you"** came 13 days into dating Gabby.
+- **Wedding date:** **January 11, 2025.** Robby had been planning to propose *"in six months."* Gabby pushed it into one day inside a Vegas evacuation.
+- **Reception:** they spent the evening dancing and taking pictures. Walk-down song: **Chappell Roan, "Hot To Go."** Gabby's framing: *"The best night of my life."*
 
 ## Sources
 
@@ -38,3 +42,5 @@ publish: true
 - [The Robby Hoffman](https://www.youtube.com/watch?v=p04Njv2QpKU) — Gabby's POV.
 - [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — Call Her Daddy; meeting Gabby + 13-day mark.
 - [Robby Hoffman DESTROYS Me and My Lifestyle | WHGS Ep. 232 | Full Episode](https://www.youtube.com/watch?v=qd34I1c65do) — monogamy + kosher argument.
+- [In Bed With Lovebirds Gabby Windey and Robby Hoffman](https://www.interviewmagazine.com/culture/in-bed-with-lovebirds-gabby-windey-and-robby-hoffman) — Interview, Emily Sandstrom, 2025-02-12; *"Double income, no kids"*; co-parenting cat and dog separately.
+- [Inside 'The Traitors' Star Gabby Windey's Very Modest $5,000-a-Month Rental Home](https://www.realtor.com/news/celebrity-real-estate/traitors-gabby-windey-los-angeles-home-wedding-robby-hoffman/) — Realtor.com, Kelsi Karruli, 2025-03-05; Jan 11 wedding, 20-minute ceremony, Chappell Roan walk-down, Gabby's *"best night of my life."*

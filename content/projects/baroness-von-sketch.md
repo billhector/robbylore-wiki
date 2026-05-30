@@ -13,12 +13,13 @@ publish: true
 
 # Baroness Von Sketch Show
 
-CBC sketch series. [[people/robby-hoffman|Robby]] has writing/appearance credit on the show, part of her [[themes/canada|Canadian]] TV résumé.
+CBC sketch series. [[people/robby-hoffman|Robby]] has writing/appearance credit on the show — but per her own Q with Tom Power telling, **it was a one-week punch-up gig** during the [[projects/odd-squad|Odd Squad]] or [[projects/working-moms|Working Moms]] era. *"I barely worked on Baroness, but I'm thrilled that it's still a credit attributed to me."*
 
 ## Key Takeaways
 
-- Part of the Canadian TV foundation of Robby's career.
+- One-week punch-up — Robby acknowledges the credit overstates her contribution.
+- Part of the Canadian TV foundation of Robby's career, alongside Odd Squad and Working Moms.
 
 ## Sources
 
-- Referenced in Robby's TV-writing/appearances list in multiple 2025 interviews.
+- [Robby Hoffman is a grower, not a shower](https://www.youtube.com/watch?v=0UOb7skQWAI) — Q with Tom Power, 2025-07-24; the *"I barely worked on Baroness"* clarification.

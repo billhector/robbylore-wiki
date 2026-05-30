@@ -22,3 +22,6 @@ Recurring jokes, signature bits, catchphrases, and segments that Robby revisits 
 - [[bits/supercuts-tuesday|Supercuts Tuesday]] — frugality discount-day bit.
 - [[bits/jesus-loves-me|"Jesus loves me"]] — counter-move with her born-again mother.
 - [[bits/i-dont-take-no-bait|"I don't take no bait"]] — don't-give-the-reaction frame.
+- [[bits/aids-popsicle|The AIDS popsicle]] — childhood paranoia bit; mother bought ten boxes.
+- [[bits/package-deal|"It's a package deal"]] — grandfather's line at the school interview.
+- [[bits/polo-lounge|The Polo Lounge $7 beer]] — early-LA frugality ritual.

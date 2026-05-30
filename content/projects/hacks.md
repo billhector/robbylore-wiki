@@ -6,7 +6,9 @@ source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]]"
   - "[[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]]"
-compiled: 2026-05-29
+  - "[[raw/transcripts/2026-05-30 Robby Hoffman is a grower, not a shower]]"
+  - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
+compiled: 2026-05-30
 tags:
   - project
   - tv
@@ -18,14 +20,18 @@ publish: true
 
 # Hacks
 
-Max (HBO Max) comedy series created by Lucia Aniello, Paul W. Downs, and Jen Statsky. [[people/robby-hoffman|Robby Hoffman]] plays a recurring role; was **Emmy-nominated** for the part despite having just **six lines** of dialogue across the season — a fact Robby returns to in nearly every interview.
+Max (HBO Max) comedy series created by **[[people/lucia-aniello|Lucia Aniello]]**, **[[people/paul-w-downs|Paul W. Downs]]**, and **[[people/jen-statsky|Jen Statsky]]**. [[people/robby-hoffman|Robby Hoffman]] plays **Randi**, a talent-agency assistant; was **Emmy-nominated** for the part despite having just **six lines** of dialogue across the season — a fact Robby returns to in nearly every interview.
 
 ## Key Takeaways
 
+- The **Randi role was created specifically for Robby** by Aniello, Downs and Statsky — drew on Robby's own background (ex-Lubavitch, Brooklyn, Montreal). Robby on this: *"Had they cast anyone else, they would have been cancelled."*
+- Randi's introduction line: *"Last week, I was a Hassidic Lubavitch Jew living in Crown Heights, New York. Now I'm in LA, I'm gay and probably an atheist."*
 - Robby was Emmy-nominated on six lines. She and her sister [[people/kaya-hoffman|Kaya]] flew in for the ceremony; Robby lost, and Kaya marched her out — *"We don't need this shit. I came all the way from Arizona for this."*
 - Robby still presented the Cinematography Emmy after losing her own category.
 - She has confirmed she's returning for **Season 5** with "more Robby."
 - The Emmy nomination + [[projects/wake-up|Wake Up]] is the one-two that Vogue used to frame 2025 as "the year of Robby Hoffman."
+- **Robby on auditioning** (Q with Tom Power): the creator told her she had to audition even though the part was written for her. *"It's so much worse the pressure to me… how humiliating. That's even worse."* She dunked it.
+- **Co-stars in publicity:** Robby appears alongside [[people/megan-stalter|Megan Stalter]] (Kayla) and [[people/paul-w-downs|Paul W. Downs]] (Jimmy) in the agency-side scenes.
 
 ## Sources
 
@@ -34,3 +40,5 @@ Max (HBO Max) comedy series created by Lucia Aniello, Paul W. Downs, and Jen Sta
 - [Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada | Full Interview](https://www.youtube.com/watch?v=92ovK37Vtew) — Season 5 return confirmed.
 - [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — full Emmy-loss story, Kaya walk-out.
 - [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s).
+- [Robby Hoffman is a grower, not a shower](https://www.youtube.com/watch?v=0UOb7skQWAI) — Q with Tom Power, 2025-07-24; the audition-was-horrifying telling, "Twilight Zone me" framing.
+- ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; names Aniello / Downs / Statsky as the Randi-role authors; Randi's first line.

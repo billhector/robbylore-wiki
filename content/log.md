@@ -8,6 +8,43 @@ publish: true
 
 Reverse-chronological record (newest first). Every compile, query, and lint pass logs here.
 
+## [2026-05-30] compile | 8 sources — Synagogue/Lovebirds/Realtor/Q-Tom-Power/GQ-Mulaney/People-Carell/Guardian (+ hollow IndieWire)
+
+Compiled 8 raw files: 7 articles + 1 transcript. Net: **16 new wiki pages**, ~18 heavy updates, all indexes refreshed, zero broken wikilinks.
+
+**Created (16):**
+- Projects (4): `projects/rivkah` (Showtime autobiographical series), `projects/unentitled` (Robby's first sold HBO show, post-WGA-speech), `projects/working-moms` (CBC; 1-week punch-up), `projects/everybodys-live` (Mulaney's Netflix talk show).
+- People (9): `people/lauren-tsai` (Rooster co-star — Sunny), `people/bill-lawrence` (Rooster co-creator), `people/matt-tarses` (Rooster co-creator), `people/charly-clive` (Carell's daughter Katie on Rooster), `people/lucia-aniello` (Hacks co-creator; wrote Randi for Robby), `people/paul-w-downs` (Hacks co-creator + Jimmy), `people/jen-statsky` (Hacks co-creator), `people/megan-stalter` (Hacks Kayla; Robby's agency-side scene partner), `people/stacy-farber` (got the Degrassi role Robby was scouted for).
+- Career (1): `career/degrassi-audition` (age 12-14; mother shut it down).
+- Bits (3): `bits/aids-popsicle` (childhood paranoia bit; mother bought ten boxes), `bits/package-deal` (grandfather's school-interview line), `bits/polo-lounge` (early-LA $7-beer ritual).
+
+**Updated (heavy hits):**
+- `people/robby-hoffman` — 7-of-10 confirmed, Bernie supporter, autism self-id no diagnosis, dad estrangement since early-20s, mom 5:30am routine, Mulaney intro via Dan Levy + Joe Mande, Mo-on-Rooster confirmed, Unentitled HBO sale named, writer's cabin added, new bits + sources.
+- `people/gabby-windey` — Semi-Tropic meeting venue, May 2023 dating start, Spanish-style $5K rental specs, Traitors supervised-call protocol, Shema prayer card, Lamictal/Gabapentin pills inventory, Bob-the-Drag-Queen parallel.
+- `people/john-mulaney` — first heard Robby at WGA assembly, Dan Levy / Joe Mande validation chain, September '24 text, Everybody's Live segment, road-tour hotel-coffee policy.
+- `people/steve-carell` — Greg Russo character; "botched every interaction" framing; Office-ensemble comparison.
+- `projects/wake-up` — Mulaney's "legend at the top of their game" stage intro line.
+- `projects/hacks` — Aniello/Downs/Statsky named as Randi authors; Randi's *"Last week I was a Hassidic Lubavitch Jew"* intro line.
+- `projects/the-rooster` — full cast (Tsai/Clive/Deadwyler/Dunster/McGinley/Britton), Mo/Sunny role names, Carell's Office quote.
+- `projects/odd-squad` — 2019 Daytime Emmy confirmed; backstory of why Robby said yes (six-month contract long enough vs 1-2 week gigs).
+- `projects/baroness-von-sketch` — clarified: 1-week punch-up only.
+- `projects/i-m-nervous` — 2019 Canadian special; Robby's *"doesn't even count"* dismissal vs Wake Up.
+- `career/wga-strike-speech` — full chronology (two questions, real-estate first then salaries, Carmen's prediction, Joe Mande validation, *Unentitled* sale outcome); "maybe my timing was autistic" reflection.
+- `career/vegas-elopement` — Jan 11 date, 20-min ceremony, Chappell Roan walk-down, evacuation cargo (cat + podcast gear + keepsakes), $799 package contents (limo + photos + minister).
+- `career/hbo-script-sneak` — clarified as separate sale from Unentitled; KPMG-stolen-supplies dialogue; first rep, not first show.
+- `career/accounting-to-standup` — McGill free-laptop framing; George Braithwaite's loft; *"Comedy was foisted upon me, like Moses"*; refused-short-contracts era.
+- `themes/family` — 7-of-10 placement; 5:30am-mom; early-20s dad estrangement; new GQ-Mulaney anecdotes.
+- `themes/orthodox-upbringing` — synagogue "ticking time bomb"; *"fanatic religious sect"* framing; current *"something larger than us"* belief.
+- `themes/canada` — Montreal-Toronto inferiority complex; 6-min JFL sellout; Schwartz's / Busan ritual.
+- `themes/marriage` — Jan 11 date, Hot To Go walk-down, *"best night of my life"*.
+- `bits/proposing-via-crossword` — *"Will you marry me, Gabby?"* full puzzle text; Gabby's three-weeks-in framing.
+
+**Indexes updated:** projects (split Stand-up / Television / In Development / Reality / Podcast; added 4 new entries); people (new Hacks-creators + Rooster-creators sections); career (degrassi-audition); bits (3 new entries).
+
+**Hollow flag:** IndieWire "Just Discovering Robby Hoffman" piece — only 119-char body (the IndieWire Honors promo blurb, no article text clipped). Compiled to tag-set only; no fabricated content. Queue for re-clip when the full article is available.
+
+**Heads up:** 1 brand-new raw arrived mid-compile — "Comedian Robby Hoffman Isn't Exactly Happy To Be Here.md" — left untouched (`compiled: false`) for next /wiki-ingest + /wiki-compile pass.
+
 ## [2026-05-30] lint | Wiki audit
 
 Full structural + content lint. Findings: 26 broken wikilinks (top: `projects/talk-easy` ×5, `bits/no-backsies-they-them` ×4, `projects/long-winded` ×3), 19 articles missing `## Key Takeaways`, 0 orphans, 0 uncompiled raws, 0 thin articles, 0 raw-wikilinks-in-body, all type indexes complete. Report saved to `output/lint-report-2026-05-30.md` (private repo only).

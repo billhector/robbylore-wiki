@@ -13,13 +13,16 @@ publish: true
 
 # Odd Squad
 
-PBS Kids series produced in Canada. [[people/robby-hoffman|Robby]] wrote in the writers' room for **3.5 years** during her pre-stand-up Canadian TV phase. She has also said she body-doubled as a 13–14-year-old on the show.
+PBS Kids series produced in Canada. [[people/robby-hoffman|Robby]] started as a **writers' assistant** on a six-month engagement she'd accepted because it was the longest job her agent had offered. The stint ended up being **3.5 years** and won her her **first Daytime Emmy** (2019, as a writer). She has also said she body-doubled as a 13–14-year-old on the show.
 
 ## Key Takeaways
 
-- Longest-running pre-comedy TV writing credit.
+- Robby's longest-running pre-stand-up TV gig — three and a half years, started as writers' assistant.
+- **2019 Daytime Emmy** for writing (per Guardian, May 2026).
+- The job she said yes to because it was the longest contract her agent had been able to offer her at the time (she'd been refusing one-week and two-week gigs to protect her KPMG paycheck).
 - Part of the [[themes/canada|Canadian]] TV career foundation, alongside her Nickelodeon writers' assistant stint.
 
 ## Sources
 
-- Referenced in multiple Wake Up–era interviews discussing Robby's Canadian TV start.
+- [Robby Hoffman is a grower, not a shower](https://www.youtube.com/watch?v=0UOb7skQWAI) — Q with Tom Power, 2025-07-24; the "six months turned into 3.5 years" telling and the agent-vs-stable-job framing.
+- ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; the 2019 Daytime Emmy.

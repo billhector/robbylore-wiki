@@ -6,7 +6,9 @@ source:
   - "[[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]]"
   - "[[raw/transcripts/2026-05-29 How to Pull Rich Men and Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman]]"
-compiled: 2026-05-29
+  - "[[raw/articles/2026-05-30 Robby Hoffman on Synagogue, Small Talk, and Psychoanalysis]]"
+  - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
+compiled: 2026-05-30
 tags:
   - theme
   - orthodox-upbringing
@@ -29,6 +31,9 @@ publish: true
 - **Kosher as metaphor:** Robby's framing of monogamy and self-discipline draws on growing up kosher. *"When you grow up kosher, you get good at temptation."* See [[themes/monogamy]].
 - **Mother's born-again turn re-introduced homophobia** into family dynamics that had previously settled into uneasy acceptance.
 - Robby's "Jesus-loves-me" counter-move with her born-again mother is a recurring [[bits/jesus-loves-me|bit]].
+- **Synagogue** is *"a ticking time bomb at this point"* (Interview, Spring 2024). When Robby tried to attend recently the security guard was sitting on a chair; Robby's response: *"Up, up, up."*
+- **"What's a cult":** Robby on her childhood community to the Guardian (May 2026) — *"I'm also loosey-goosey about what's a cult. I definitely would say it was a fanatic religious sect."*
+- **Where religion went next:** these days her only belief is *"there's something larger than us."* But the [[bits/multiples-of-18|18-as-life]] habits and [[themes/monogamy|kosher-as-restraint]] frame still operate.
 - **"I'm a heretic" framing:** *"Gabby thinks I'm the most religious person she's ever met. Of course, I don't feel that at all, because compared to where I'm coming from — a very rigid [Hasidic] world — I'm a heretic."*
 - **Nightly prayer.** Robby still prays: *"OK, I'm gay. I get to be a clown for a living. So I'm not gonna give up nightly prayer."* The bit folds into [[bits/testing-god-by-being-gay]].
 - **[[bits/multiples-of-18|18 = life]]** is the Hebrew numerology bit she invokes in everyday money decisions (e.g. negotiating her Rolex from $4,000 down to $3,600).
@@ -53,3 +58,5 @@ Robby's stand-up identity is post-Orthodox but still culturally Lubavitch — he
 - [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — first telling of the Florida → Montreal flight.
 - [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — Lubavitch boys/girls schooling note.
 - [How to Pull Rich Men & Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman](https://www.youtube.com/watch?v=kKrxnRu_zGk).
+- [Robby Hoffman on Synagogue, Small Talk, and Psychoanalysis](https://www.interviewmagazine.com/culture/robby-hoffman-on-synagogue-small-talk-and-psychoanalysis) — Interview, Spring 2024; the *"ticking time bomb"* synagogue line.
+- ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; *"fanatic religious sect"* framing + *"there's something larger than us"* current belief.

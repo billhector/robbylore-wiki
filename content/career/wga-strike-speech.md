@@ -2,7 +2,9 @@
 title: WGA Strike Speech (2023)
 source:
   - "[[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]]"
-compiled: 2026-05-29
+  - "[[raw/articles/2026-05-30 Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney]]"
+  - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
+compiled: 2026-05-30
 tags:
   - career
   - wga-strikes
@@ -25,16 +27,29 @@ In **Summer 2023**, with the WGA strike underway, [[people/robby-hoffman|Robby]]
 
 ## What happened
 
-- Robby had just sold a show to HBO; the strike began before she could write it.
-- At a general assembly, she rose with a question. Phrased politely; intent clear.
-- She was **booed** off-mic by the room.
-- **[[people/john-mulaney|John Mulaney]]** later called the moment *"one of the greatest show-business debuts in history."*
-- The episode became part of Robby's origin myth — *"I run for people's comedian."*
+- Robby had just sold her first show to HBO; the strike began before she could write it. Coming off COVID, the membership was told this would be a mandatory strike-kickoff Q&A.
+- **Robby actually read the WGA's public financial statements** before the meeting — *"I would be remiss as a former accountant."* — and noted the real-estate line items + the head's roughly $2.1M salary.
+- She rose with **two questions** at the mic:
+  1. *"Why do we have to strike this year and hold our wages when we have assets to offload? Why don't we sell all the buildings and divide it up among the members, give checks out?"* — this one got polite confusion, **not** boos.
+  2. *"The salaries of our board members…"* — followed by an argument that the union should be **funding top-tier lawyers and constant litigation** against the studios instead of striking. *"It's like bringing knives to a gunfight, us against the studios."* This is the question that got her booed.
+- The head told her to **sit down**. She sat. Booing intensified — *"3,000 of my peers, writers, booing me."*
+- Robby cried inside; her friend **Carmen** told her: *"This will be the greatest thing to happen. Give it a sec."*
+- **[[people/john-mulaney|John Mulaney]]** was in the room. He turned to **Joe Mande** and asked *"Who's that?"* Mande replied *"She's really, really funny."*
+- **Three months into the strike**, WGA members started DMing Robby asking where they could find the same financial information.
+- The booing turned into industry attention; Robby ultimately **sold her HBO show ***[[projects/unentitled|Unentitled]]*** in the wake of it.
+- Mulaney later told her: *"I gotta say — not that you hadn't done stuff already, but it was one of the greatest show-business debuts in history."*
+
+## Robby's reflection
+
+- Maintains the substantive point: *"I had so many people, hundreds of people in my DMs, saying: hey, what were you talking about?"*
+- On her timing: *"Maybe my timing was autistic and off."* (Guardian, May 2026)
+- Hindsight on how she should have framed it: *"I should have spoken the language of the room. I should have said, 'Oh, so a rich straight white man is telling a young queer girl to sit down, when she has a question?'"*
 
 ## Why it matters
 
 - It's the **2023 inflection point**: Robby moved from "a writer Hollywood has heard of" to "the comedian Mulaney told the room to watch."
 - It also signals Robby's preferred posture — direct, anti-pose, willing to be booed.
+- Causally linked to both the [[projects/unentitled|*Unentitled*]] HBO sale and the eventual [[projects/wake-up|*Wake Up*]] Mulaney directorship.
 
 ## Related
 
@@ -44,4 +59,6 @@ In **Summer 2023**, with the WGA strike underway, [[people/robby-hoffman|Robby]]
 
 ## Sources
 
-- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — Sam Fragoso; full telling.
+- [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — Sam Fragoso; first long-form telling.
+- [Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney](https://www.gq.com/story/robby-hoffman-interviewed-by-john-mulaney) — GQ, December 12 2025; full Mulaney-conducted reconstruction with Carmen's prediction, Joe Mande validation, *Unentitled* sale outcome.
+- ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; *"maybe my timing was autistic and off"* reflection + Bernie-Sanders political context.
