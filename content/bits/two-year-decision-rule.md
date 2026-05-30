@@ -15,6 +15,12 @@ publish: true
 
 [[people/robby-hoffman|Robby]]'s rule for permanent body decisions: **tattoo = one-year wait, surgery = two-year wait.** You don't get to make either decision impulsively.
 
+## Key Takeaways
+
+- Tattoo = 1 year, surgery = 2 years. Anti-impulse framework.
+- Applied to her own [[career/top-surgery|top surgery]] — full two-year wait.
+- Diplomatic shorthand when conversation drifts toward gender/identity debates — pro-deliberation, not prescriptive.
+
 ## The rule
 
 - *"Tattoo = one year. Surgery = two years."*

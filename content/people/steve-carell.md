@@ -16,6 +16,11 @@ publish: true
 
 Actor; lead and producer on [[projects/the-rooster|The Rooster]] (Bill Lawrence project) — the film Robby Hoffman is currently shooting. Robby plays a roommate to Lauren Tsai's character.
 
+## Key Takeaways
+
+- Lead + producer on [[projects/the-rooster|The Rooster]]; Robby's role expanded from one day to many on-set days.
+- Source of one of Robby's rare broken no-fanning-rule moments — she told Carell her brother [[people/schmuly-hoffman|Schmuly]] loved him in The Office.
+
 ## In Robby's world
 
 - Robby's role on [[projects/the-rooster|The Rooster]] was originally a one-day part; it expanded into many more days on set, which Robby attributes to her chemistry with Carell.

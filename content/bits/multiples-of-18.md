@@ -16,6 +16,12 @@ publish: true
 
 [[people/robby-hoffman|Robby]] tries to buy things in **multiples of 18**. In Jewish numerology, the letters of the word *chai* (חַי, "life") sum to 18, so 18 itself — and every multiple thereof — counts as a luck number.
 
+## Key Takeaways
+
+- Jewish gematria: *chai* (life) = 18; multiples = luck.
+- Working example: negotiated her Rolex Air-King from $4,000 → $3,600 ($3,600 = 200 × 18).
+- Reads as both [[themes/orthodox-upbringing|cultural inheritance]] and [[themes/money|negotiating tool]] — used unironically.
+
 ## The bit
 
 - *"Growing up Jewish, 18 means life. And multiples of 18 signify good luck. So 18, 36, 72, 90 — these are numbers that I buy things in."*

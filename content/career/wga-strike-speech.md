@@ -16,6 +16,13 @@ publish: true
 
 In **Summer 2023**, with the WGA strike underway, [[people/robby-hoffman|Robby]] stood up at a general-assembly meeting and asked the floor about the union's roughly **$2.1 million** head salary and the union's real-estate holdings. Her argument: the union should litigate, not strike — and the membership shouldn't be funding executive salaries during a work stoppage.
 
+## Key Takeaways
+
+- 2023 WGA general-assembly speech: questioned union salaries + real estate, got booed.
+- [[people/john-mulaney|John Mulaney]] called it *"one of the greatest show-business debuts in history."*
+- The inflection point from "writer Hollywood has heard of" to "comedian Mulaney told the room to watch."
+- Signals Robby's signature posture: direct, anti-pose, willing to be booed.
+
 ## What happened
 
 - Robby had just sold a show to HBO; the strike began before she could write it.

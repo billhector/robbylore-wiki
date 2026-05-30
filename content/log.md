@@ -8,6 +8,12 @@ publish: true
 
 Reverse-chronological record (newest first). Every compile, query, and lint pass logs here.
 
+## [2026-05-30] lint | Wiki audit
+
+Full structural + content lint. Findings: 26 broken wikilinks (top: `projects/talk-easy` ×5, `bits/no-backsies-they-them` ×4, `projects/long-winded` ×3), 19 articles missing `## Key Takeaways`, 0 orphans, 0 uncompiled raws, 0 thin articles, 0 raw-wikilinks-in-body, all type indexes complete. Report saved to `output/lint-report-2026-05-30.md` (private repo only).
+
+**Fixes applied (same day):** stripped 5 tangential broken links (themes/identity, people/robert-pattinson, people/leanne-morgan, people/horatia-harrod, career/wake-up-press-tour); created 22 stub pages (12 projects, 6 bits, 3 people, 1 theme) covering all remaining broken targets; added `## Key Takeaways` sections to 19 articles.
+
 ## [2026-05-29] compile | Robby Hoffman: 'I have the world's worst Rolex' (FT "Aesthete")
 
 Compiled the FT 2026-05-07 "Aesthete" profile by Horatia Harrod. Source: raw/articles/2026-05-29 Robby Hoffman I have the worlds worst Rolex.

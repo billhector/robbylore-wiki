@@ -17,6 +17,12 @@ publish: true
 
 [[people/robby-hoffman|Robby]] was Emmy-nominated for her role in [[projects/hacks|Hacks]] in 2025 — for **six lines of dialogue across the season**. She lost. Her sister **[[people/kaya-hoffman|Kaya]]** had flown in from Scottsdale for the ceremony.
 
+## Key Takeaways
+
+- Emmy-nominated for **six lines** in [[projects/hacks|Hacks]] — now Robby's signature credentialing bit.
+- Lost; sister [[people/kaya-hoffman|Kaya]] marched her out on the spot.
+- Robby returned later the same night to present the Cinematography Emmy.
+
 ## What happened
 
 - Robby and Kaya at the ceremony.

@@ -16,6 +16,12 @@ publish: true
 
 [[people/robby-hoffman|Robby]]'s bit about why she **won't fly to Japan**. The premise: she's already testing God enough by being a married lesbian. Long-haul flying would be pushing it.
 
+## Key Takeaways
+
+- The "won't fly to Japan" frame: gay-married is already maximum God-testing.
+- Lives at the intersection of [[themes/queerness|queerness]] and [[themes/orthodox-upbringing|orthodox upbringing]] — half-joking, half-real.
+- Toggles into Robby's "one of the last living American dreams" superstition register.
+
 ## The bit
 
 - *"It feels like we're testing God, and I test God more than enough. I'm already gay. And he's let me live such a weird amazing life. I can't — I can't — I have to be careful."*

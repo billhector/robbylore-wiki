@@ -33,15 +33,14 @@ publish: true
 
 ## Reception
 
-- Comedian [[people/leanne-morgan|Leanne Morgan]] is a fan.
+- Comedian Leanne Morgan is a fan.
 - Vogue's framing of 2025 as "the year of Robby Hoffman" hinged on this special plus the [[projects/hacks|Hacks]] Emmy nomination.
-- [[people/robert-pattinson|Robert Pattinson]] approached Robby at the Vanity Fair Oscar party to praise her stand-up.
+- Robert Pattinson approached Robby at the Vanity Fair Oscar party to praise her stand-up.
 
 ## Related
 
 - [[projects/too-far|Too Far]] — her podcast, which ran throughout the lead-up.
 - [[projects/hacks|Hacks]] — the other 2025 career signal.
-- [[career/wake-up-press-tour|Wake Up press tour]] — the run of interviews this wiki is largely built from.
 
 ## Sources
 

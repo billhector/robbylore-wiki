@@ -17,6 +17,13 @@ publish: true
 
 [[people/robby-hoffman|Robby]]'s most-quoted relationship rule. **Every relationship needs one hot person and one smart person.** That's the rule. How those two attributes get split between the two people in the relationship is up to them.
 
+## Key Takeaways
+
+- *"One hot, one smart. How you divvy it up I don't give a fuck."*
+- Robby + [[people/gabby-windey|Gabby]]: Gabby 90% hot, smarts 50/50.
+- JLo/Ben split = canonical failure mode (both hot, no smart-circle closure).
+- Universalist rule that lets Robby brag on Gabby while staying in her butch-spokesperson register.
+
 ## The bit
 
 - *"Per every relationship you need one hot person, one smart person. How you divvy it up I don't give a fuck."*

@@ -16,6 +16,12 @@ publish: true
 
 [[people/robby-hoffman|Robby]] worked at **McDonald's** as a teenager in Montreal. The job is the source of a small library of bits she still uses.
 
+## Key Takeaways
+
+- Teenage Montreal McDonald's gig is the well behind multiple recurring bits (fridge refusal, apple-pie throw, McFlurry sabotage).
+- Reads as Robby's working-class apprenticeship — the [[themes/money|class translation]] anchor for her stand-up.
+- Still orders the **Number 7** (two-cheeseburger meal) when traveling alone — the job left a brand-loyalty residue.
+
 ## Greatest hits
 
 - **The walk-in fridge refusal:** *"This Jew will not be going into that fridge."* Refused to enter the cold storage. Asked a coworker to retrieve buns instead.

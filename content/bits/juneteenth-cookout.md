@@ -15,6 +15,12 @@ publish: true
 
 A [[people/robby-hoffman|Robby]] story she returns to as a self-deprecating class snapshot from 2020.
 
+## Key Takeaways
+
+- Neighbor Kim invites Robby to a Juneteenth cookout circa 2020.
+- Contribution math: *"She brought the macaroni salads, I brought the flowers."*
+- A one-line [[themes/money|class-translation]] snapshot of the hot-plate-and-recliner era.
+
 ## The story
 
 - Robby's neighbor **Kim** invited her to a Juneteenth cookout.

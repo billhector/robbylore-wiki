@@ -16,3 +16,9 @@ Recurring jokes, signature bits, catchphrases, and segments that Robby revisits 
 - [[bits/two-year-decision-rule|The Two-Year Decision Rule]] — tattoo = 1 year, surgery = 2.
 - [[bits/multiples-of-18|Multiples of 18]] — Jewish "chai = 18 = life"; she negotiates in 18s.
 - [[bits/cost-per-wear|Cost-per-Wear]] — daily Rolex amortization, "dollar a day."
+- [[bits/no-backsies-they-them|"No backsies on they/them"]] — pronoun-economy bit.
+- [[bits/pull-rich-men|"How to pull rich men"]] — tutorial-style dating-up playbook.
+- [[bits/dora-the-explorer|"Dora the Explorer"]] — the opening line on Gabby.
+- [[bits/supercuts-tuesday|Supercuts Tuesday]] — frugality discount-day bit.
+- [[bits/jesus-loves-me|"Jesus loves me"]] — counter-move with her born-again mother.
+- [[bits/i-dont-take-no-bait|"I don't take no bait"]] — don't-give-the-reaction frame.

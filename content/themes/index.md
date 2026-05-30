@@ -15,3 +15,4 @@ What Robby talks about and how she talks about it. Recurring topics in her comed
 - [[themes/marriage|Marriage]] — Vegas elopement, pro-monogamy, kosher-as-restraint argument.
 - [[themes/dating|Dating]] — Jewish-school-slutty origins; pull-rich-men playbook; one hot, one smart.
 - [[themes/canada|Canada]] — Montreal-raised; Toronto-favorite; Mark Carney rivalry bit.
+- [[themes/monogamy|Monogamy]] — discipline practice; "kosher = good at temptation."

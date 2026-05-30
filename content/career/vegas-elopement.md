@@ -16,6 +16,13 @@ publish: true
 
 [[people/robby-hoffman|Robby]] and [[people/gabby-windey|Gabby Windey]] **eloped in Las Vegas** in January 2025, after the LA fires displaced them from home.
 
+## Key Takeaways
+
+- Triggered by the January 2025 LA wildfires evacuating them from home.
+- $799 Vegas chapel package, Reverend Nature in Yeezys, Wynn buffet engagement dinner.
+- The decisive line came from Gabby: *"If everything burns down, I just want to be married to you."*
+- Anchors Robby's [[themes/marriage|pro-marriage]] stance with [[themes/money|class-aware]] cheap-as-possible execution.
+
 ## What happened
 
 - **Displaced from LA** by the January 2025 wildfires.

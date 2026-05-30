@@ -15,6 +15,12 @@ publish: true
 
 Comedian; friend of [[people/robby-hoffman|Robby]]. Hero of [[people/schmuly-hoffman|Schmuly]] — Robby's brother.
 
+## Key Takeaways
+
+- At Robby's [[projects/wake-up|Wake Up]] watch party in Dec 2025.
+- Broke the news of [[people/rob-reiner|Rob Reiner]]'s death to the room — version retold on [[projects/talk-easy|Talk Easy]].
+- Hero of Robby's brother [[people/schmuly-hoffman|Schmuly]]; Schmuly was thrilled to hear bad news from his idol.
+
 ## In Robby's world
 
 - **Was at Robby's house** for the [[projects/wake-up|Wake Up]] Netflix release watch party in December 2025.

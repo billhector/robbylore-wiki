@@ -15,6 +15,12 @@ publish: true
 
 [[people/robby-hoffman|Robby]]'s pro-socks-during-sex take. The framing: *back in the day, with a boyfriend who wasn't getting it done, she tried leaving the socks on; the orgasms got better.* Placebo or otherwise, she now endorses socks on.
 
+## Key Takeaways
+
+- Pro-socks orgasm hack — placebo or not, it worked.
+- Pairs with Robby's broader feet-policing material (bare feet on planes, hotel decorative pillows).
+- The most-clipped Robby hot take from the [[projects/wake-up|Wake Up]] press tour.
+
 ## The bit
 
 - The hot-take version on [[projects/call-her-daddy|Call Her Daddy]]: *"Socks during sex — placebo or not, it helped."*

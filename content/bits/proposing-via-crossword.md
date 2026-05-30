@@ -16,6 +16,13 @@ publish: true
 
 [[people/robby-hoffman|Robby]] proposed to [[people/gabby-windey|Gabby Windey]] with a **custom crossword puzzle** built by puzzle constructor **David Kaplan** in Toronto, designed to look like a New York Times mini.
 
+## Key Takeaways
+
+- Commissioned a Toronto puzzle constructor (David Kaplan) to build a fake NYT mini.
+- Slipped to Gabby as a "wedding gift idea" cover story.
+- Final clue *"chatty or talkative"* = **GABBY** revealed the proposal.
+- Setup for the [[career/vegas-elopement|Vegas elopement]] shortly after.
+
 ## The setup
 
 - Robby asked Kaplan to ghost-write a puzzle. Specs: NYT-mini lookalike.

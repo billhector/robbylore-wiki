@@ -44,7 +44,7 @@ Married to [[people/gabby-windey|Gabby Windey]] (eloped Vegas, 2025).
 
 ### Name
 
-Given name **Rifka Hoffman**. Goes by **Robby**. Her family still calls her Rifka. The Rifka/Robby split is itself a [[themes/identity|recurring identity bit]].
+Given name **Rifka Hoffman**. Goes by **Robby**. Her family still calls her Rifka.
 
 ### Religion
 
@@ -123,7 +123,7 @@ See [[career/index|Career index]] for the timeline. Highlights:
 
 ## Sources
 
-- [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — FT "Aesthete" profile by [[people/horatia-harrod|Horatia Harrod]], 2026-05-07; the Rolex/Porsche/Moleskine/Bell Jar/Burberry/grandfather-paintings inventory plus the [[people/nathan-letovsky|Nathan Letovsky]] name spelling.
+- [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — FT "Aesthete" profile by Horatia Harrod, 2026-05-07; the Rolex/Porsche/Moleskine/Bell Jar/Burberry/grandfather-paintings inventory plus the [[people/nathan-letovsky|Nathan Letovsky]] name spelling.
 - [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — Whitney Cummings interview; childhood, autism framing, "no bait."
 - [Robby Hoffman DESTROYS Me and My Lifestyle | WHGS Ep. 232 | Full Episode](https://www.youtube.com/watch?v=qd34I1c65do) — Ashley Gavin; monogamy, mother's born-again turn, kosher-as-restraint.
 - [How to Pull Rich Men & Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman](https://www.youtube.com/watch?v=kKrxnRu_zGk) — Nicole Byer; "one hot, one smart," Juneteenth cookout, dating rules.

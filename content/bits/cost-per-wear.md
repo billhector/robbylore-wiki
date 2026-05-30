@@ -16,6 +16,12 @@ publish: true
 
 [[people/robby-hoffman|Robby]]'s ongoing internal math on her 1991 Rolex Air-King. She paid **$3,600** for it six years before the 2026 FT profile, when her [[career/hbo-script-sneak|first big show sale]] netted her **$65,000** — *"For me it was, like, a year's salary."*
 
+## Key Takeaways
+
+- Daily amortization habit on a $3,600 Rolex bought from a $65K windfall.
+- *"At this point, it's only a dollar a day."* — class-translation tell.
+- Pairs with [[bits/multiples-of-18|multiples-of-18]] (the $3,600 = 200 × 18 negotiated price).
+
 ## The bit
 
 - *"I thought about it for a year. It's the most I ever spent on anything, and I still do calculations, cost per wear. I wear it every day and, at this point, it's only a dollar a day. I'm still justifying it and still enjoying it."*

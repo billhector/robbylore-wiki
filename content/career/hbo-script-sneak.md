@@ -15,6 +15,13 @@ publish: true
 
 Early in her career, [[people/robby-hoffman|Robby]] **snuck a script into HBO Canada** by impersonating a courier. The story is one of her most-told.
 
+## Key Takeaways
+
+- Refused to pay $4.99 for Final Draft; wrote in Word + Courier 12 to fake the formatting.
+- Hand-delivered to HBO Canada in a stolen manila envelope, posing as a courier.
+- Got a $1,000 option — bought one beer to celebrate.
+- The [[themes/money|class-translation]] story Robby tells when explaining her hustle muscle.
+
 ## How it worked
 
 - Robby refused to spend **$4.99 on Final Draft** screenwriting software.

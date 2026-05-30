@@ -15,6 +15,12 @@ publish: true
 
 American filmmaker (*This Is Spinal Tap*, *When Harry Met Sally*, *The Princess Bride*, *Stand by Me*). Died December 2025. Robby Hoffman delivered an unscripted tribute to him on [[projects/talk-easy|Talk Easy with Sam Fragoso]] in the same week.
 
+## Key Takeaways
+
+- Died December 2025 — the same week as the [[projects/wake-up|Wake Up]] release.
+- Robby learned of his death at her own watch party via [[people/tim-dylan|Tim Dylan]].
+- Closing tribute on [[projects/talk-easy|Talk Easy]]: framed Reiner as the Sunday-afternoon-with-family comedy filmmaker.
+
 ## In Robby's world
 
 - Robby learned about Reiner's death during a watch party for [[projects/wake-up|Wake Up]] at her own house, when [[people/tim-dylan|Tim Dylan]] told the room. Her brother [[people/schmuly-hoffman|Schmuly]] — a Tim Dylan superfan — was particularly delighted to hear the news from his idol, even though the news itself was a death.

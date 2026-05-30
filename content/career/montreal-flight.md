@@ -16,6 +16,13 @@ publish: true
 
 The foundational [[themes/family|Hoffman family]] origin event — first told publicly by [[people/robby-hoffman|Robby]] on [[projects/talk-easy|Talk Easy with Sam Fragoso]] in December 2025.
 
+## Key Takeaways
+
+- Robby's mother fled her father in Florida with all ten kids; grandfather Zadie ([[people/nathan-letovsky|Nathan Letovsky]]) and his French-Canadian best friend Germaine ran the extraction.
+- Family flew to Montreal in February; [[people/uncle-eddie|Great-uncle Eddie]] picked them up.
+- The temporary plan became permanent — sets up [[themes/orthodox-upbringing|Lubavitch Montreal]], [[themes/canada|Canadian career]], one-bathroom-for-twelve material.
+- First told publicly on [[projects/talk-easy|Talk Easy]] in December 2025.
+
 ## What happened
 
 - Robby's family was in **Florida** because her grandfather Zadie (Nathan Lubovski) had offered her father a job.

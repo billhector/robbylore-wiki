@@ -29,3 +29,9 @@ Robby Hoffman and the cast of characters who appear repeatedly across her work, 
 - [[people/steve-carell|Steve Carell]] — co-star of The Rooster.
 - [[people/tim-dylan|Tim Dylan]] — comedian friend.
 - [[people/rob-reiner|Rob Reiner]] — late filmmaker; Robby tribute.
+- [[people/rachel-kaly|Rachel Kaly]] — Too Far podcast co-host.
+- [[people/neal-brennan|Neal Brennan]] — host of Blocks; substantive top-surgery interview.
+
+## Domestic
+
+- [[people/dog-nardo|Nardo]] — Robby + Gabby's dog.

@@ -17,6 +17,12 @@ publish: true
 
 Comedian, writer, director. Directed [[people/robby-hoffman|Robby Hoffman]]'s Netflix special [[projects/wake-up|Wake Up]] (Dec 14, 2025). Long-time Robby champion.
 
+## Key Takeaways
+
+- Directed [[projects/wake-up|Wake Up]] — per Robby, "begged" to direct once Netflix got interested.
+- Called Robby's [[career/wga-strike-speech|2023 WGA speech]] *"one of the greatest show-business debuts in history."*
+- Industry advocate routing opportunities her way; signed *Baby J* in Robby's house (FT 2026).
+
 ## In Robby's world
 
 - **Directed [[projects/wake-up|Wake Up]].** Per Robby, "begged" to direct it once Netflix got interested.
