@@ -199,6 +199,12 @@
       "commit": "a53cf02ce7faca400bcf3cfeed47eb860329e534",
       "installedAt": "2026-05-24T15:36:16.998Z"
     },
+    "quartz-schema-jsonld": {
+      "source": "github:billhector/quartz-schema-jsonld",
+      "resolved": "https://github.com/billhector/quartz-schema-jsonld.git",
+      "commit": "2bbe6a38ff65be4c0abd2fd8342f331e878450f1",
+      "installedAt": "2026-05-30T16:56:35.911Z"
+    },
     "quartz-themes": {
       "source": {
         "name": "quartz-themes",

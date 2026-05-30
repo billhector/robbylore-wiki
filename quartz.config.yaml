@@ -1,5 +1,4 @@
-# yaml-language-server: $schema=quartz/plugins/quartz-plugins.schema.json
-# robbylore.org — Robby Hoffman fan wiki
+# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Robby Lore
   pageTitleSuffix: ""
@@ -16,44 +15,36 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      # Cutive only ships at weight 400 on Google Fonts. Quartz's default
-      # header-role weight set is [400, 700], so the string form `header: Cutive`
-      # makes the build try to fetch Cutive @700 and emit a "Bad Request" warning
-      # on every build. The object form below explicitly pins weights so the
-      # Google Fonts URL only asks for what exists.
       header:
         name: Cutive
-        weights: [400]
+        weights:
+          - 400
       body: Source Sans Pro
-      # JetBrains Mono pinned to 400 — same rationale as Cutive: Quartz's default
-      # code-role weight set is [400, 600], object form lets us drop @600.
       code:
         name: JetBrains Mono
-        weights: [400]
-    # Palette is intentionally 4 colors only:
-    #   C1 #213448 navy   C2 #547792 steel   C3 #94B4C1 soft   C4 #EAE0CF cream
-    # Light mode anchors on C4; dark mode flips on C1.
+        weights:
+          - 400
     colors:
       lightMode:
-        light: "#EAE0CF"            # C4 — page bg
-        lightgray: "#94B4C1"        # C3 — subtle borders / dividers
-        gray: "#547792"              # C2 — muted text
-        darkgray: "#213448"          # C1 — body text
-        dark: "#213448"              # C1 — headings / strong
-        secondary: "#547792"         # C2 — accent / links (≈4.5:1 on cream)
-        tertiary: "#213448"          # C1 — link hover (darken)
-        highlight: rgba(0, 0, 0, 0)  # disable wikilink pill background
-        textHighlight: "rgba(84, 119, 146, 0.25)"  # ==marked== subtle steel tint
-      darkMode:
-        light: "#213448"             # C1 — page bg
-        lightgray: "#547792"         # C2 — subtle borders / dividers
-        gray: "#94B4C1"               # C3 — muted text
-        darkgray: "#EAE0CF"           # C4 — body text
-        dark: "#EAE0CF"               # C4 — headings / strong
-        secondary: "#94B4C1"          # C3 — accent / links (≈9:1 on navy)
-        tertiary: "#EAE0CF"           # C4 — link hover (lighten)
+        light: "#EAE0CF"
+        lightgray: "#94B4C1"
+        gray: "#547792"
+        darkgray: "#213448"
+        dark: "#213448"
+        secondary: "#547792"
+        tertiary: "#213448"
         highlight: rgba(0, 0, 0, 0)
-        textHighlight: "rgba(148, 180, 193, 0.25)"
+        textHighlight: rgba(84, 119, 146, 0.25)
+      darkMode:
+        light: "#213448"
+        lightgray: "#547792"
+        gray: "#94B4C1"
+        darkgray: "#EAE0CF"
+        dark: "#EAE0CF"
+        secondary: "#94B4C1"
+        tertiary: "#EAE0CF"
+        highlight: rgba(0, 0, 0, 0)
+        textHighlight: rgba(148, 180, 193, 0.25)
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -132,6 +123,12 @@ plugins:
     enabled: true
   - source: github:quartz-community/og-image
     enabled: true
+  - source: github:billhector/quartz-schema-jsonld
+    enabled: true
+    order: 80
+    options:
+      subjectName: Robby Hoffman
+      subjectUrl: https://robbylore.org/people/robby-hoffman
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
@@ -148,12 +145,7 @@ plugins:
       position: left
       priority: 50
     options:
-      # Sort all submenus alphabetically by displayName (default behavior),
-      # EXCEPT entries under /people/ which sort by last name instead.
-      # The function is serialized via .toString() and rebuilt client-side
-      # via `new Function(...)` in the explorer inline script, so a string
-      # form of an arrow function is what the plugin expects.
-      sortFn: |
+      sortFn: >
         (a, b) => {
           const lastName = (n) => {
             const name = (n.displayName || "").replace(/\s*\(.*\)\s*$/, "").trim();
@@ -254,7 +246,7 @@ plugins:
         - aliases
       excludedProperties: []
       hidePropertiesView: false
-      delimiters: "---"
+      delimiters: ---
       language: yaml
     order: 5
     layout:
@@ -265,10 +257,6 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    # DISABLED 2026-05-29: plugin's @layer obsidian-theme overrides Quartz's
-    # quartz-base CSS variables (--titleFont, --light, --secondary, etc),
-    # clobbering everything set in configuration.theme above. Re-enable only
-    # if we also accept the plugin's full Obsidian palette + typography.
     enabled: false
     options:
       theme: default
