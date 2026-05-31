@@ -1,5 +1,7 @@
 ---
 title: Blocks
+source:
+  - "[[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]]"
 compiled: 2026-05-30
 tags:
   - project

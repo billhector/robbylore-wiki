@@ -1,5 +1,7 @@
 ---
 title: Monogamy
+source:
+  - "[[raw/transcripts/2026-05-30 Bachelor Nation's Gabby Windey Talks Dating, Reality TV and Her Next Chapter Video Podcast]]"
 compiled: 2026-05-30
 tags:
   - theme
@@ -20,6 +22,11 @@ publish: true
 - A counter-position in a comedy/podcast world where polyamory is increasingly the default progressive line.
 - Lives at the intersection of [[themes/orthodox-upbringing|orthodox upbringing]], [[themes/marriage|marriage]], and [[themes/dating|dating]].
 
+## Gabby's framing
+
+Per [[people/gabby-windey|Gabby]] on Bethenny Frankel (Sept 2023): *"Lesbians are so monogamous; monogamy is for lesbians."* Both Robby and Gabby admit to mutual jealousy and treat it as a feature, not a flaw — *"we don't hide our jealousy."*
+
 ## Sources
 
 - Referenced on [[themes/orthodox-upbringing|orthodox-upbringing]] and across multiple 2025 interviews.
+- [Bachelor Nation's Gabby Windey Talks Dating, Reality TV & Her Next Chapter | Video Podcast](https://www.youtube.com/watch?v=WKnl8gmhiVY) — Bethenny Frankel, Sept 2023; the *"monogamy is for lesbians"* line; mutual jealousy as transparency tool.

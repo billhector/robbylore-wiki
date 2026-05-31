@@ -1,5 +1,7 @@
 ---
 title: Etalk
+source:
+  - "[[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]]"
 compiled: 2026-05-30
 tags:
   - project

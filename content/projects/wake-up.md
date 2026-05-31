@@ -9,6 +9,8 @@ source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]]"
   - "[[raw/articles/2026-05-30 Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney]]"
   - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
+  - "[[raw/transcripts/2026-05-30 Dont Need Feet, to Be in Step with Robby Hoffman My Favorite Lyrics with Devon Walker]]"
+  - "[[raw/transcripts/2026-05-30 RIP Jordan Jensen - Episode 60 Robby Hoffman]]"
 compiled: 2026-05-30
 tags:
   - project
@@ -38,6 +40,9 @@ publish: true
 - Comedian Leanne Morgan is a fan.
 - Vogue's framing of 2025 as "the year of Robby Hoffman" hinged on this special plus the [[projects/hacks|Hacks]] Emmy nomination.
 - Robert Pattinson approached Robby at the Vanity Fair Oscar party to praise her stand-up.
+- **Robby's own rating (RIP Jordan Jensen Ep. 60, March 2026):** *"Punch for punch one of the greatest stand-up comedy specials in recent history. I'm not here to lie to you. There's a reason they put it out between Ricky Gervais and Matt Rife and Robby Hoffman with the holiday spot. They're a business."*
+- **March 2026 secondary surge:** Wake Up generated a second media wave ~3 months after release — Robby on *The View* and *Seth Meyers* in the same week. Netflix flagged the renewed word-of-mouth as the trigger.
+- **January 2026 release-week press cluster:** Stavros Halkias' *Stavvy's World* Ep. 164 (Jan 19) and Howie Mandel's podcast (Jan 6) anchored the first 6 weeks of release-window coverage. Feb 2026 expanded into Beck Bennett + Kyle Mooney's *What's Our Podcast?* and Steph Tolev's *Steph Infection*.
 
 ## Related
 
@@ -54,3 +59,5 @@ publish: true
 - [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — Call Her Daddy press; quit vaping note.
 - [Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney](https://www.gq.com/story/robby-hoffman-interviewed-by-john-mulaney) — GQ, December 12 2025; Mulaney conducts; release-week framing piece.
 - ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; the Mulaney *"legend at the absolute top of their game"* intro line; the *"disgusting women"*, abortion, and pedophilia bit references; *"misinterpreted jokes"* defense.
+- [Don't Need Feet, to Be in Step with Robby Hoffman | My Favorite Lyrics with Devon Walker](https://www.youtube.com/watch?v=KjWRBo9Ym20) — Devon Walker, 2025-12-09 (release-week appearance); Robby asks Devon to help her clear Dolores O'Riordan's *Dreams* for the special opening — *"she's not even around, I think she would want me to have it."*
+- [RIP Jordan Jensen — Episode 60: Robby Hoffman](https://www.youtube.com/watch?v=s5IupO8t1Z4) — Jordan Jensen, 2026-03-23; the secondary press-surge context (View + Seth Meyers same week); the *"between Gervais and Rife"* holiday-slot self-rating.

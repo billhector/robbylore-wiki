@@ -1,5 +1,7 @@
 ---
 title: The Polo Lounge $7 Beer
+source:
+  - "[[raw/articles/2026-05-30 Robby Hoffman on Synagogue, Small Talk, and Psychoanalysis]]"
 compiled: 2026-05-30
 tags:
   - bit

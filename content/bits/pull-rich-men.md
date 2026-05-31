@@ -1,5 +1,7 @@
 ---
 title: '"How to pull rich men"'
+source:
+  - "[[raw/transcripts/2026-05-29 How to Pull Rich Men and Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman]]"
 compiled: 2026-05-30
 tags:
   - bit

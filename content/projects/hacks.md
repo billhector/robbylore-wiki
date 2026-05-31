@@ -8,6 +8,8 @@ source:
   - "[[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]]"
   - "[[raw/transcripts/2026-05-30 Robby Hoffman is a grower, not a shower]]"
   - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
+  - "[[raw/transcripts/2026-05-30 Robby Hoffman (Fitzdog Radio 1097) Greg Fitzsimmons]]"
+  - "[[raw/transcripts/2026-05-30 Robby Hoffman and Rachel Bloom on Jewish Stereotypes, Dying For Sex and The Stages of Marriage]]"
 compiled: 2026-05-30
 tags:
   - project
@@ -20,7 +22,7 @@ publish: true
 
 # Hacks
 
-Max (HBO Max) comedy series created by **[[people/lucia-aniello|Lucia Aniello]]**, **[[people/paul-w-downs|Paul W. Downs]]**, and **[[people/jen-statsky|Jen Statsky]]**. [[people/robby-hoffman|Robby Hoffman]] plays **Randi**, a talent-agency assistant; was **Emmy-nominated** for the part despite having just **six lines** of dialogue across the season — a fact Robby returns to in nearly every interview.
+Max (HBO Max) comedy series created by **[[people/lucia-aniello|Lucia Aniello]]**, **[[people/paul-w-downs|Paul W. Downs]]**, and **[[people/jen-statsky|Jen Statsky]]**. [[people/robby-hoffman|Robby Hoffman]] plays **Randi**, a talent-agency assistant, in **8 episodes across Seasons 4–5** (2025–present, per Wikipedia). She was **Primetime-Emmy-nominated** in 2025 (Outstanding Guest Actress in a Comedy Series) for the part despite having just **six lines** of dialogue across her debut season — a fact Robby returns to in nearly every interview.
 
 ## Key Takeaways
 
@@ -42,3 +44,5 @@ Max (HBO Max) comedy series created by **[[people/lucia-aniello|Lucia Aniello]]*
 - [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s).
 - [Robby Hoffman is a grower, not a shower](https://www.youtube.com/watch?v=0UOb7skQWAI) — Q with Tom Power, 2025-07-24; the audition-was-horrifying telling, "Twilight Zone me" framing.
 - ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; names Aniello / Downs / Statsky as the Randi-role authors; Randi's first line.
+- [Robby Hoffman (Fitzdog Radio #1097)](https://www.youtube.com/watch?v=6cQlmUeyypU) — Greg Fitzsimmons, 2025-05-21; Robby's *Hacks + Dying for Sex + Verified* career grouping in active-Season-press window.
+- [Robby Hoffman and Rachel Bloom on Jewish Stereotypes, Dying For Sex & The Stages of Marriage](https://www.youtube.com/watch?v=XOE7h4lXOU0) — Lovett or Leave It, Jon Lovett, 2025-04-13; Robby announcing *"I think I'm in almost every episode"* of the new Hacks season during the live-and-simultaneous Hulu/Max press week.

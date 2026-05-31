@@ -1,5 +1,7 @@
 ---
 title: Lauren Tsai
+source:
+  - "[[raw/articles/2026-05-30 Robby Hoffman Says She 'Botched' Every Interaction She Had with Steve Carell on 'Rooster' Set (Exclusive)]]"
 compiled: 2026-05-30
 tags:
   - person

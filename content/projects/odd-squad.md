@@ -1,5 +1,8 @@
 ---
 title: Odd Squad
+source:
+  - "[[raw/transcripts/2026-05-30 Robby Hoffman is a grower, not a shower]]"
+  - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
 compiled: 2026-05-30
 tags:
   - project

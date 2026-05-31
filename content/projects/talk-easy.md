@@ -1,5 +1,7 @@
 ---
 title: Talk Easy with Sam Fragoso
+source:
+  - "[[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]]"
 compiled: 2026-05-30
 tags:
   - project

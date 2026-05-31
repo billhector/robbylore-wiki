@@ -31,6 +31,10 @@ Robby Hoffman and the cast of characters who appear repeatedly across her work, 
 - [[people/rob-reiner|Rob Reiner]] — late filmmaker; Robby tribute.
 - [[people/rachel-kaly|Rachel Kaly]] — Too Far podcast co-host.
 - [[people/neal-brennan|Neal Brennan]] — host of Blocks; substantive top-surgery interview.
+- [[people/annie-lederman|Annie Lederman]] — host of Anniewood Podcast; recurring Robby guest, mutual-friend bridge.
+- [[people/jordan-jensen|Jordan Jensen]] — co-host of Bein' Ian with Jordan + host of RIP Jordan Jensen; gender-semantics sparring partner turned reconciled friend.
+- [[people/rachel-bloom|Rachel Bloom]] — comedian / Crazy Ex-Girlfriend creator; joint Lovett or Leave It guest with Robby.
+- [[people/steph-tolev|Steph Tolev]] — comedian, Bill Burr Friends Who Kill alum, Robby's former LA roommate; pre-Gabby era.
 
 ## Hacks creators + cast
 

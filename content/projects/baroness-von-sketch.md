@@ -1,5 +1,7 @@
 ---
 title: Baroness Von Sketch Show
+source:
+  - "[[raw/transcripts/2026-05-30 Robby Hoffman is a grower, not a shower]]"
 compiled: 2026-05-30
 tags:
   - project

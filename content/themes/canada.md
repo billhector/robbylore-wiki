@@ -36,6 +36,7 @@ publish: true
 - **The Just for Laughs (JFL) sold-out homecoming** in 2025 went in ~6 minutes — Robby's fastest sellout of any city.
 - **Schwartz's + Busan ritual:** post-show in Montreal, Robby goes to **Schwartz's** smoked-meat deli or **Busan** (Lebanese schwarma place across town). The Main, across from Schwartz's, closed down — *"It was because you and my mother were there."*
 - **Bagels:** *"Amazing. I'm from Montreal and New York, so, bagels."* (Interview, Spring 2024)
+- **Verdun, Montreal** is the specific neighborhood Robby's family settled in after the Florida → Montreal flight. Per Robby on Too Far Pod (Aug 2024): *"My sister Kaya 10 years before — we were the only Jews ever in Verdun, and now it's condos. That's progress."* The neighborhood was predominantly French-Canadian and *"they hated us there."* The Hoffman house was on the Metro line, walking distance from McGill.
 
 ## Sources
 
@@ -46,3 +47,4 @@ publish: true
 - [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — Montreal hockey scene.
 - [Robby Hoffman is a grower, not a shower](https://www.youtube.com/watch?v=0UOb7skQWAI) — Q with Tom Power, 2025-07-24; Montreal-vs-Toronto inferiority complex; JFL 6-minute sellout; Schwartz's / Busan; the Main closing.
 - [Robby Hoffman on Synagogue, Small Talk, and Psychoanalysis](https://www.interviewmagazine.com/culture/robby-hoffman-on-synagogue-small-talk-and-psychoanalysis) — Interview, Spring 2024; bagels.
+- [Robby's Former Roommate (Ft. Steph Tolev)](https://www.youtube.com/watch?v=2jblee-lpc4) — Too Far Pod, 2024-08-06; **Verdun** named as the Hoffman family's Montreal neighborhood; *"the only Jews ever in Verdun."*

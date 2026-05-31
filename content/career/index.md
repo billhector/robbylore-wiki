@@ -11,14 +11,16 @@ Timeline events, milestones, notable performances, awards, controversies, and pu
 ## Origin
 
 - [[career/montreal-flight|Montreal Flight (from Florida)]] — the family's foundational escape.
+- [[career/bialik-secondary-school|Bialik Secondary School]] — the Montreal private Jewish high school Robby attended on subsidy.
 - [[career/degrassi-audition|The Degrassi Audition That Didn't Happen]] — age 12-14; Robby's mother shut it down.
-- [[career/accounting-to-standup|Accounting to Stand-Up]] — KPMG to comedy; six-month runway.
+- [[career/accounting-to-standup|Accounting to Stand-Up]] — KPMG + McGill CPA grad program to comedy; six-month runway.
 - [[career/mcdonalds-job|McDonald's Job]] — the teenage-Montreal bit library.
 - [[career/hbo-script-sneak|HBO Script Sneak]] — Word + Courier 12 + manila envelope.
 
 ## Breakthrough
 
 - [[career/wga-strike-speech|WGA Strike Speech (2023)]] — the booed-into-fame moment.
+- [[career/comedy-store-passed|Passed at the Comedy Store]] — April 2025; the live-comedy gatekeeping that arrived after Netflix.
 
 ## Personal
 

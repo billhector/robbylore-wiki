@@ -4,6 +4,7 @@ source:
   - "[[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]]"
   - "[[raw/articles/2026-05-30 Inside 'The Traitors' Star Gabby Windey's Very Modest $5,000-a-Month Rental Home as She Announces Surprise Marriage to Robby Hoffman]]"
   - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
+  - "[[raw/transcripts/2026-05-30 Robby Hoffman has HUGE NEWS Anniewood Pod Ep. 127 - Annie Lederman]]"
 compiled: 2026-05-30
 tags:
   - career
@@ -42,6 +43,7 @@ publish: true
 - **Walk-down song:** **Chappell Roan, "Hot To Go."**
 - **Dress:** "tight" white lace; **bouquet of red roses.**
 - **Engagement-night dinner:** Wynn all-you-can-eat buffet. Crab legs.
+- **The May 1 ring that never happened** (per Tea Time, Jun 2025): Robby had been building a custom ring for Gabby for a planned proposal on **May 1, 2025** — *"which I think would have been the nicest ring anybody's ever seen, not to get Trump on you, but it's not a ring like I've ever seen."* The LA fires forced the January elopement, so the planned May proposal was abandoned. Robby has not said whether the custom ring she'd been building was ever completed or delivered.
 - **What pushed Robby over the line (the earlier framing):** Gabby during the evacuation — *"If everything burns down, I just want to be married to you."* Robby: *"All right."* (FT 2026)
 - **What they took from the house during the evacuation:** two of grandfather [[people/nathan-letovsky|Nathan Letovsky]]'s paintings, their **cat**, **Gabby's podcasting equipment**, and **several sentimental items including childhood keepsakes**.
 - **What survived:** the house. They returned married, picked up air purifiers + the cat, and went home.
@@ -63,3 +65,5 @@ publish: true
 - [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s) — full Soresi telling.
 - [Inside 'The Traitors' Star Gabby Windey's Very Modest $5,000-a-Month Rental Home](https://www.realtor.com/news/celebrity-real-estate/traitors-gabby-windey-los-angeles-home-wedding-robby-hoffman/) — Realtor.com, Kelsi Karruli, 2025-03-05; Jan 11 date, 20-minute ceremony, "Hot To Go" walk-down, evacuation cargo (cat + podcast gear + keepsakes), $799 package contents.
 - ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; *"Husband and wife!!"* Instagram-announcement caption framing.
+- [Robby Hoffman has HUGE NEWS | Anniewood Pod Ep. 127](https://www.youtube.com/watch?v=B6_B5tYAppo) — Annie Lederman, 2025-04-24; Annie was among the guests **in attendance at the Vegas wedding** ("we attended").
+- [Robby Hoffman! — Tea Time w/ Raven & Miranda](https://www.youtube.com/watch?v=wzyvMiqcwwo) — Raven-Symoné + Miranda Maday, 2025-06-26; the **May 1, 2025 planned proposal + custom ring** that the fire-driven January elopement preempted.
