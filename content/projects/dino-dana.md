@@ -7,7 +7,7 @@ tags:
   - tv
   - kids
 type: project
-description: Dino Dana — Canadian children's TV series. Robby Hoffman wrote the 2017 episode "Dino Matchmaker: Lost and Sound".
+description: 'Dino Dana — Canadian children''s TV series. Robby Hoffman wrote the 2017 episode "Dino Matchmaker: Lost and Sound".'
 publish: true
 ---
 
