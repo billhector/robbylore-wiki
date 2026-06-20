@@ -6,6 +6,7 @@ source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]]"
   - "[[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]]"
+  - "[[raw/transcripts/2026-06-20 Robby Hoffman South Beach Sessions with Dan Le Batard]]"
 compiled: 2026-05-29
 tags:
   - theme
@@ -31,6 +32,9 @@ Money — specifically class translation — is the through-line of [[people/rob
 - **Dating-up:** [[bits/pull-rich-men|"How to pull rich men"]] is a literal Robby tutorial — she frames her Lubavitch + class background as the training set.
 - **"I'm the last American dream."** — her closing line on [[projects/talk-easy|Talk Easy]] sits on top of this whole theme.
 - **Tipping rant:** says tipping is a residue of racism and employers should just pay people.
+- **"The calling is a nightmare"** (South Beach Sessions, May 2026): pursuing a calling while poor has *"no guarantee of payoff"* — *"you're extending your poverty for a very long time."* Accounting was the rational hedge: *"I could have gotten paid every 2 weeks. That to me is heaven."* The money fear is health-grade — *"I consider financial health and health."*
+- **Money trauma is collective.** *"Capitalism and money systems are extremely traumatizing… built on the backs of many… and it collapses often."* Her survival instinct thrives in the storm — she **sold her first show during COVID** and worked through the writers' strike.
+- **First-class "apartheid"** (South Beach Sessions): flying alone she sits in coach (*"they hate you in the back"*); the splurge she allows herself is **first class with [[people/gabby-windey|Gabby]]**. *"The fact that we even on a plane call things class… it's so dehumanizing"* — but *"having money is way better than I thought."*
 
 ## Why it matters
 
@@ -55,3 +59,4 @@ Robby's stand-up persona is *materially* class-aware in a way many comedians' is
 - [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — Robby's reading of the rich Jewish school.
 - [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — *"I'm the last American dream."*; KPMG → comedy timeline.
 - [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — McDonald's, SuperCuts, flying coach, Pod Hotel.
+- [Robby Hoffman | South Beach Sessions with Dan Le Batard](https://www.youtube.com/watch?v=aUAS9EYnDhM) — Dan Le Batard, 2026-05-28; "the calling is a nightmare," money-trauma-is-collective, first-class-"apartheid," "having money is way better than I thought."

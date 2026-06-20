@@ -51,3 +51,5 @@ Named works: TV shows, podcasts, specials, films, web series, books, tours.
 - [[projects/long-winded|Long Winded]] — Gabby Windey's podcast.
 - [[projects/call-her-daddy|Call Her Daddy]] — Alex Cooper; Wake Up press.
 - [[projects/not-skinny-but-not-fat|Not Skinny But Not Fat]] — Amanda Hirsch; Wake Up press.
+- [[projects/south-beach-sessions|South Beach Sessions with Dan Le Batard]] — confessional May 2026 interview; anxiety, money, the Mulaney text.
+- [[projects/working-it-out|Working It Out (Mike Birbiglia)]] — June 2026 "It's a New Dawn" episode; WGA origin, "marriage is a hack."

@@ -7,6 +7,7 @@ source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]]"
   - "[[raw/transcripts/2026-05-30 Bachelor Nation's Gabby Windey Talks Dating, Reality TV and Her Next Chapter Video Podcast]]"
   - "[[raw/transcripts/2026-05-30 Being Outed to Your Jewish Community (with Robby Hoffman)]]"
+  - "[[raw/transcripts/2026-06-20 The Robby Hoffman (again)]]"
 compiled: 2026-05-30
 tags:
   - theme
@@ -35,6 +36,11 @@ A favorite [[people/robby-hoffman|Robby]] theme: dating mechanics, viewed from t
 - **"I would never ghost a date"** (Made It Out, Jul 2024). Communication-as-respect ethos: Robby will leave a bad date after one drink saying *"I don't feel like this is a fit, I wish you all the best,"* but never disappear.
 - **The "U-Haul or You Ghost" game** (Mal Glowenke, 2024) — Mal's framing puts Robby's relationship choices on a U-Haul (move in fast) vs Ghost (cut off) spectrum. Robby U-Hauls.
 - **Bridget + Kyle** (per Gabby on Bethenny, Sept 2023): Bridget = Gabby's queer best friend who served as her Sherpa into LA's gay scene after DWTS; **Kyle (Bridget's girlfriend)** was the actual bar-doorway wingman who walked Robby over to Gabby.
+- **"Acquiesce 99%, die on 1%"** (Long Winded, Jun 2026): Robby's relationship maxim, surfaced in their design fights — give in on nearly everything, hold the line only where it genuinely matters. *"Fellas, do not be volunteering your opinion here and there."* See [[themes/marriage]].
+- **Call-in advice (Long Winded "again," Jun 2026)** — Robby + [[people/gabby-windey|Gabby]] field listener dating questions:
+  - *To a trans guy re-entering dating:* be upfront about identity early, then *"just treat it like dating"* — *"if you had game as a lesbian, that game did not go anywhere."* Drop the self-protective labels: *"you called into the show — you're not that shy,"* and *"you do want to date, so own it."*
+  - *To a newly-out divorcée torn between a great new partner and a "hoe phase":* be honest with the partner that you just got out of a marriage; *"you never know when you're going to fall in love,"* so weigh the real risk of losing someone you like against a phase that *"might not even be that available"* for lesbians anyway.
+- **Be honest, even when it's embarrassing** — the throughline of her call-in advice: *"be vulnerable, be uneasy, be embarrassed… welcome to everybody's life."*
 
 ## Sources
 
@@ -44,3 +50,4 @@ A favorite [[people/robby-hoffman|Robby]] theme: dating mechanics, viewed from t
 - [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — first-date moves, meeting Gabby.
 - [Bachelor Nation's Gabby Windey Talks Dating, Reality TV & Her Next Chapter | Video Podcast](https://www.youtube.com/watch?v=WKnl8gmhiVY) — Bethenny Frankel, Sept 2023; *"nobody explores this late in life"*; Bridget + Kyle wingman backstory; pre-Robby Gabby on Raya + Thursday queer line-dancing.
 - [Being Outed to Your Jewish Community (with Robby Hoffman)](https://www.youtube.com/watch?v=uRBnECCc9zU) — Made It Out, Mal Glowenke, Jul 2024; "I would never ghost" / Montreal-bookshop-girl one-drink exit; U-Haul-or-Ghost game.
+- [The Robby Hoffman (again)](https://www.youtube.com/watch?v=MtGONwT6698) — Long Winded with Gabby Windey, 2026-06-18; the "acquiesce 99%, die on 1%" maxim and two dating call-in advice segments (trans-guy dating; divorcée vs hoe-phase).

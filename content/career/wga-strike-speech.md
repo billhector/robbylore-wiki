@@ -5,6 +5,7 @@ source:
   - "[[raw/articles/2026-05-30 Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney]]"
   - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
   - "[[raw/articles/2026-05-30 Comedian Robby Hoffman Isn't Exactly Happy To Be Here]]"
+  - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
 compiled: 2026-05-30
 tags:
   - career
@@ -34,7 +35,9 @@ In **Summer 2023**, with the WGA strike underway, [[people/robby-hoffman|Robby]]
   1. *"Why do we have to strike this year and hold our wages when we have assets to offload? Why don't we sell all the buildings and divide it up among the members, give checks out?"* — this one got polite confusion, **not** boos.
   2. *"The salaries of our board members…"* — followed by an argument that the union should be **funding top-tier lawyers and constant litigation** against the studios instead of striking. *"It's like bringing knives to a gunfight, us against the studios."* This is the question that got her booed.
 - The head told her to **sit down**. She sat. Booing intensified — *"3,000 of my peers, writers, booing me."*
-- Robby cried inside; her friend **Carmen** told her: *"This will be the greatest thing to happen. Give it a sec."*
+- Robby cried inside; her friend — comedian **Carmen Christopher** (confirmed in full on Working It Out, Jun 2026) — told her: *"Rob, we got to get you out of here,"* and predicted *"this will be the greatest thing to happen. Give it a sec."*
+- **Her argument in full** (Working It Out, Jun 2026): the guild *"throws us out first"* before litigating; executive salaries come from **membership dues**; the union should pour its money into **Harvard/Stanford-tier lawyers** and be *"a revolving door in the courts"* rather than send *"a has-been writer to a gunfight."*
+- **2026 coda:** Robby reports the union's *own employees are now suing the union* over the same pay disparities she flagged — *"I stand with the employees."*
 - **[[people/john-mulaney|John Mulaney]]** was in the room. He turned to **Joe Mande** and asked *"Who's that?"* Mande replied *"She's really, really funny."*
 - **Three months into the strike**, WGA members started DMing Robby asking where they could find the same financial information.
 - The booing turned into industry attention; Robby ultimately **sold her HBO show ***[[projects/unentitled|Unentitled]]*** in the wake of it.
@@ -64,3 +67,4 @@ In **Summer 2023**, with the WGA strike underway, [[people/robby-hoffman|Robby]]
 - [Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney](https://www.gq.com/story/robby-hoffman-interviewed-by-john-mulaney) — GQ, December 12 2025; full Mulaney-conducted reconstruction with Carmen's prediction, Joe Mande validation, *Unentitled* sale outcome.
 - ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; *"maybe my timing was autistic and off"* reflection + Bernie-Sanders political context.
 - [Comedian Robby Hoffman Isn't Exactly Happy To Be Here](https://www.bustle.com/entertainment/robby-hoffman-interview) — Bustle, Lizzie Logan, 2023-10-26; **published during the strike's "excruciating final weeks"** — places Robby's speech roughly 4-5 months before the strike ended in late September 2023, and shows Robby still under strike-rule constraints (couldn't talk to her Rivkah producer about the project at the Frogtown lunch).
+- [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; the fullest blow-by-blow telling — reading the financial statements, the $2.1M salary question, Carmen Christopher's name, "revolving door in the courts," and the 2026 union-employees-suing-the-union coda.

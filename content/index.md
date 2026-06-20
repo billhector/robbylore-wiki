@@ -21,6 +21,10 @@ This is a fan site. Not affiliated with, endorsed by, or representative of Robby
 
 ## Recently added
 
+**2026-06-20 — 3-transcript compile (South Beach Sessions + Long Winded "again" + Birbiglia's Working It Out):**
+- New pages: [[projects/south-beach-sessions|South Beach Sessions with Dan Le Batard]], [[projects/working-it-out|Working It Out (Mike Birbiglia)]], [[bits/ai-is-autistic|"AI is autistic"]], [[bits/bros-before-hoes|"Bros before hoes"]].
+- Verbatim **[[people/john-mulaney|Mulaney]] text** that launched [[projects/wake-up|Wake Up]]; **[[people/gabby-windey|Gabby]] confirmed as an author** with a book deal (runs [[projects/long-winded|Long Winded]] solo); the fullest **[[career/wga-strike-speech|WGA-speech]]** telling (Carmen Christopher, union-employees-suing); *"marriage is a hack"* added to [[themes/marriage|marriage]]; anxiety-not-depression added to the [[people/robby-hoffman|hub]].
+
 **2026-05-30 — Final-batch compile #5 (Steph-Tolev-on-Too-Far + Steph-Infection + Stavvy's-World + Shank):**
 - New page: [[people/steph-tolev|Steph Tolev]] — Bill Burr Friends Who Kill alum, Robby's former LA roommate (pre-Gabby era), full roommate-breakup arc included.
 - Verdun, Montreal confirmed as the Hoffman family neighborhood; Kybella chin injections + considering hip-reduction surgery.

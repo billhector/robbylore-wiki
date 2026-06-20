@@ -6,6 +6,8 @@ source:
   - "[[raw/transcripts/2026-05-29 The Robby Hoffman]]"
   - "[[raw/articles/2026-05-30 Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney]]"
   - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
+  - "[[raw/transcripts/2026-06-20 Robby Hoffman South Beach Sessions with Dan Le Batard]]"
+  - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
 compiled: 2026-05-30
 tags:
   - person
@@ -30,6 +32,7 @@ Comedian, writer, director. Directed [[people/robby-hoffman|Robby Hoffman]]'s Ne
 - **Directed [[projects/wake-up|Wake Up]].** Per Robby, "begged" to direct it once Netflix got interested. Mulaney introduces her on the special: *"Once in a while, you get to see a legend at the absolute top of their game."*
 - **First heard of Robby at the [[career/wga-strike-speech|2023 WGA general assembly]]** — was in the room when she got booed. Texted her two summers later (**September 2024**). Vetted her in advance via comedian **Dan Levy** ("I asked Dan to find out if you thought I was funny"); was reassured by comedian **Joe Mande** in the room that night ("She's really, really funny").
 - Called the speech *"one of the greatest show-business debuts in history"* on tape with her later, in GQ.
+- **The text, read verbatim** (South Beach Sessions, May 2026 — Robby pulls it up on her phone): *"Hi Robby, this is John Mulaney. Dan Levy gave me your number. I hope that's okay. … I really enjoyed you on WTF. … if you'd ever want to talk about doing a special for Netflix, I make them, and would be very excited to work with you on one."* Robby sat on the message a full day, consulted [[people/gabby-windey|Gabby]], and replied that it was *"shocking, horrifying, anxiety-inducing, surreal, and thrilling."* (She notes it was **Dan Levy** — *"not that Dan Levy"* — who passed along her number.)
 - **Booked Robby on his Netflix talk show [[projects/everybodys-live|*Everybody's Live*]]** in May 2025 (with Andy Samberg, Ramy Youssef, and AAA's Aixa Diaz) — Robby vaped on camera, offered the vape around, and giant-stepped over Mulaney's couch arms to exit the segment.
 - Brought Robby on tour as feature act; paid for hotel coffee on the road ("you wouldn't pay $3 for coffee at home").
 - Robby cites Mulaney as the friend / industry advocate who routes opportunities her way.
@@ -46,3 +49,5 @@ Comedian, writer, director. Directed [[people/robby-hoffman|Robby Hoffman]]'s Ne
 - [The Robby Hoffman](https://www.youtube.com/watch?v=p04Njv2QpKU) — Long Winded mention.
 - [Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney](https://www.gq.com/story/robby-hoffman-interviewed-by-john-mulaney) — GQ, December 12 2025; full Mulaney-conducted interview. WGA introduction; Dan Levy vetting; Joe Mande validation; September '24 text.
 - ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; the Wake Up "legend at the top of their game" intro line.
+- [Robby Hoffman | South Beach Sessions with Dan Le Batard](https://www.youtube.com/watch?v=aUAS9EYnDhM) — Dan Le Batard, 2026-05-28; Robby reads the original Mulaney text verbatim — the most complete version of the Wake Up origin on record.
+- [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; Mulaney as "the classiest man I know" / the odd-couple dynamic; reconfirms he discovered Robby at the WGA meeting.

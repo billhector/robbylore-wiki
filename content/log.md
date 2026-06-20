@@ -8,6 +8,24 @@ publish: true
 
 Reverse-chronological record (newest first). Every compile, query, and lint pass logs here.
 
+## [2026-06-20] compile | 3 new transcripts (South Beach Sessions, Long Winded "again", Birbiglia's Working It Out)
+
+Compiled the three June-2026 transcripts ingested earlier today. All three are long-form (58k–98k chars), none hollow.
+
+**New pages (4):**
+- [[projects/south-beach-sessions|South Beach Sessions with Dan Le Batard]] — confessional May 2026 interview.
+- [[projects/working-it-out|Working It Out (Mike Birbiglia)]] — June 2026 "It's a New Dawn" episode.
+- [[bits/ai-is-autistic|"AI is autistic"]] — new 2026 touring premise.
+- [[bits/bros-before-hoes|"Bros before hoes"]] — joke name re: fundamentalist religion + women.
+
+**Updated (13):** [[people/robby-hoffman]] (anxiety-vs-depression neurotype, "PhD in me" self-parenting, "marriage is a hack," 2 new bits, 3 sources), [[people/gabby-windey]] (author/book deal, runs Long Winded solo, mood disorder, reality-TV co-viewing), [[people/john-mulaney]] (verbatim launch text via Dan Levy), [[people/nathan-letovsky]] (painting on Etsy; framed childhood painting in Gabby's bathroom), [[projects/wake-up]] (Mulaney-text origin), [[projects/hacks]] (audition reaffirmed), [[projects/too-far]] ("Not Too Far 1K" charity run), [[projects/long-winded]] (second episode + Gabby-as-host/author), [[career/wga-strike-speech]] (Carmen Christopher surname, "revolving door in courts," union-employees-suing coda), [[themes/marriage]] ("marriage is a hack," conflict cross-teaching, acquiesce-99/die-on-1), [[themes/money]] ("calling is a nightmare," first-class "apartheid"), [[themes/dating]] (acquiesce maxim, 2 call-in advice segments), [[themes/orthodox-upbringing]] (Lubavitch-vs-Chabad, kippah-as-ego).
+
+**Indexes:** [[projects/index]] (+2 podcasts), [[bits/index]] (+2 bits), [[index|homepage]] recent-additions.
+
+**Decisions:** no person pages for hosts Dan Le Batard / Mike Birbiglia (per host-page scope rule); the two podcasts get project pages per the existing podcast-she-appeared-on pattern (Blocks, Talk Easy, etc.). No contradiction between the 2019 Daytime Emmy *win* (Odd Squad) referenced in South Beach Sessions and the 2025 Primetime Emmy *loss* (Hacks) on [[career/losing-the-emmy]].
+
+**Flagged (not actioned):** 24 untracked `* 2.md` conflict-copy files in the wiki `content/` dir (e.g. `robby-hoffman 2.md`) — local Obsidian/sync cruft, never committed, never deployed. Recommend bulk-delete in a cleanup pass.
+
 ## [2026-05-30] cleanup | Tier-3 network backfill
 
 Ran three network-dependent backfills from the lint audit:

@@ -1,6 +1,8 @@
 ---
 title: Long Winded
-source: []
+source:
+  - "[[raw/transcripts/2026-05-29 The Robby Hoffman]]"
+  - "[[raw/transcripts/2026-06-20 The Robby Hoffman (again)]]"
 compiled: 2026-05-30
 tags:
   - project
@@ -24,6 +26,8 @@ Podcast **hosted by [[people/gabby-windey|Gabby Windey]]**. [[people/robby-hoffm
   - The vintage-shopping ritual; [[projects/wake-up|Wake Up]] release framing.
 - **Domestic-dynamic on tape:** Long Winded normalized the *"my wife is the famous one and I'm the other comedian"* framing for Gabby — flipping the Bachelorette dynamic where Gabby was the spectacle.
 - **Press-tour stop** during the Wake Up cycle and the Hacks / Dying for Sex simultaneous-streaming press wave.
+- **"The Robby Hoffman (again)" episode** (Jun 2026) — Robby's repeat appearance as *"the number one requested guest."* A loose, domestic episode: a running design argument (the leather-chair BOGO-scam story; *"I think I have better taste"*), dating-advice call-ins (a trans guy, a divorced woman wanting a "hoe phase"), and reality-TV breakdowns. Confirms **[[people/gabby-windey|Gabby]] runs the podcast entirely herself** and writes her book daily — *"this is all her."*
+- **Gabby-as-host, not sidekick:** the show is the vehicle where Gabby is the named host and Robby the guest — the inverse of Robby's other press.
 
 ## Related
 
@@ -34,3 +38,4 @@ Podcast **hosted by [[people/gabby-windey|Gabby Windey]]**. [[people/robby-hoffm
 ## Sources
 
 - [The Robby Hoffman](https://www.youtube.com/watch?v=p04Njv2QpKU) — Long Winded with Gabby Windey, December 2025; the deepest dual-perspective Robby + Gabby episode on tape.
+- [The Robby Hoffman (again)](https://www.youtube.com/watch?v=MtGONwT6698) — Long Winded with Gabby Windey, 2026-06-18; the repeat appearance — design argument, dating call-ins, RHORI breakdown, Gabby-as-novelist, Gabby runs the pod solo.

@@ -11,6 +11,8 @@ source:
   - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
   - "[[raw/transcripts/2026-05-30 Dont Need Feet, to Be in Step with Robby Hoffman My Favorite Lyrics with Devon Walker]]"
   - "[[raw/transcripts/2026-05-30 RIP Jordan Jensen - Episode 60 Robby Hoffman]]"
+  - "[[raw/transcripts/2026-06-20 Robby Hoffman South Beach Sessions with Dan Le Batard]]"
+  - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
 compiled: 2026-05-30
 tags:
   - project
@@ -29,7 +31,7 @@ publish: true
 ## Key Takeaways
 
 - Holiday release between Matt Rife and Ricky Gervais on Netflix — both of whom Robby reports were "sweeties."
-- Directed by [[people/john-mulaney|John Mulaney]], who Robby says "begged" to direct it once Netflix got interested.
+- Directed by [[people/john-mulaney|John Mulaney]], who Robby says "begged" to direct it once Netflix got interested. The pitch arrived as an **unsolicited text** Mulaney sent via Dan Levy — Robby read it verbatim on South Beach Sessions (May 2026); see [[people/john-mulaney]].
 - Robby calls the production a "stay ready, don't have to get ready" moment — *"by the time they said come do the special, it's like turning on the lights and walking into your apartment."*
 - Robby quit vaping for the taping. *"We vaped for the last time on my special."*
 - Watch party at Robby's house in December 2025 was where she learned of [[people/rob-reiner|Rob Reiner]]'s death — from [[people/tim-dylan|Tim Dylan]].
@@ -61,3 +63,5 @@ publish: true
 - ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; the Mulaney *"legend at the absolute top of their game"* intro line; the *"disgusting women"*, abortion, and pedophilia bit references; *"misinterpreted jokes"* defense.
 - [Don't Need Feet, to Be in Step with Robby Hoffman | My Favorite Lyrics with Devon Walker](https://www.youtube.com/watch?v=KjWRBo9Ym20) — Devon Walker, 2025-12-09 (release-week appearance); Robby asks Devon to help her clear Dolores O'Riordan's *Dreams* for the special opening — *"she's not even around, I think she would want me to have it."*
 - [RIP Jordan Jensen — Episode 60: Robby Hoffman](https://www.youtube.com/watch?v=s5IupO8t1Z4) — Jordan Jensen, 2026-03-23; the secondary press-surge context (View + Seth Meyers same week); the *"between Gervais and Rife"* holiday-slot self-rating.
+- [Robby Hoffman | South Beach Sessions with Dan Le Batard](https://www.youtube.com/watch?v=aUAS9EYnDhM) — Dan Le Batard, 2026-05-28; Robby reads the verbatim Mulaney text that set the special in motion.
+- [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; the WGA-meeting → Mulaney → Wake Up directorship chain retold for Birbiglia.

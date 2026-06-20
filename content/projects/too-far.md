@@ -7,6 +7,7 @@ source:
   - "[[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]]"
   - "[[raw/articles/2026-05-30 Comedian Robby Hoffman Isn't Exactly Happy To Be Here]]"
+  - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
 compiled: 2026-05-30
 tags:
   - project
@@ -28,6 +29,7 @@ Podcast co-hosted by [[people/robby-hoffman|Robby Hoffman]] and **Rachel Kaly**.
 - Won an award (per Ashley Gavin's WHGS billing: *"her award-winning podcast"*).
 - Migrated to Patreon-exclusive distribution — Robby uses it to keep editorial independence.
 - Co-host **Rachel Kaly** is a frequent reference point in Robby's other interviews; the dynamic is high-friction Jewish-comic / Jewish-comic.
+- **"Not Too Far 1K"** — the podcast's charity stunt: a ~1-kilometer run (announced for May 10, 2026, around the LA Netflix fest) where *"money goes to Mexicans… we don't take IDs, we don't look at papers"* — Robby's pay-what-you-can riff on indiscriminate ICE enforcement. Pitched on [[projects/working-it-out|Working It Out]] as the show's "working it out for a cause" segment.
 
 ## Sources
 
@@ -37,3 +39,4 @@ Podcast co-hosted by [[people/robby-hoffman|Robby Hoffman]] and **Rachel Kaly**.
 - [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8).
 - [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — Call Her Daddy callout.
 - [Comedian Robby Hoffman Isn't Exactly Happy To Be Here](https://www.bustle.com/entertainment/robby-hoffman-interview) — Bustle, Lizzie Logan, 2023-10-26; cites the NYT *"addictive"* line and the Bobbi-Althoff podcast-cohort grouping.
+- [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; the "Not Too Far 1K" charity-run pitch (money to Mexicans / ICE commentary); Too Far is Patreon-only.

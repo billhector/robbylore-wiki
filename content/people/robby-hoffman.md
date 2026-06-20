@@ -44,6 +44,9 @@ source:
   - "[[raw/transcripts/2026-05-30 Speed Walking Until 93 with ROBBY HOFFMAN]]"
   - "[[raw/transcripts/2026-05-30 Stavvy's World 164 - Robby Hoffman Full Episode]]"
   - "[[raw/transcripts/2026-05-30 Who is Decaf Coffee FOR w Comedian Robby Hoffman]]"
+  - "[[raw/transcripts/2026-06-20 Robby Hoffman South Beach Sessions with Dan Le Batard]]"
+  - "[[raw/transcripts/2026-06-20 The Robby Hoffman (again)]]"
+  - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
 compiled: 2026-05-30
 tags:
   - robby-hoffman
@@ -92,7 +95,7 @@ Queer. Came out as a teenager — mother's reaction: *"Does she want to come for
 
 ### Neurotype
 
-Self-describes as autistic, including a recurring claim that she has "cracked" or "beat" autism. **No formal autism diagnosis** (per Guardian, May 2026): *"But I will say that my wife, we watch Love on the Spectrum, and she feels like she understands me better with each episode."* On Prozac. **Formal OCD diagnosis confirmed** (per Senses Working Overtime with David Cross, Aug 2024): *"I have diagnosed OCD now."* Robby ties the OCD frame to her religious upbringing — *"the religion is OCD, you know, like the way that I put on my shoes in the morning I put the right shoe on absolutely."* Complex-PTSD diagnosis from her father.
+Self-describes as autistic, including a recurring claim that she has "cracked" or "beat" autism. **No formal autism diagnosis** (per Guardian, May 2026): *"But I will say that my wife, we watch Love on the Spectrum, and she feels like she understands me better with each episode."* On Prozac. **Formal OCD diagnosis confirmed** (per Senses Working Overtime with David Cross, Aug 2024): *"I have diagnosed OCD now."* Robby ties the OCD frame to her religious upbringing — *"the religion is OCD, you know, like the way that I put on my shoes in the morning I put the right shoe on absolutely."* Complex-PTSD diagnosis from her father. **Anxiety, not depression** (South Beach Sessions, May 2026): her baseline is *"comfortable nervous"* — an antidepressant once *"made me crazier"* because it lifts people who are already down, *"and I'm already up,"* so she needed *"a depressant… something to bring me down"* (frames a nightly glass of wine as a deliberate down-regulator). *"I'm simultaneously nervous and incredibly confident, always at the same time."*
 
 ### Politics
 
@@ -114,6 +117,8 @@ Bernie Sanders supporter. Believes *"everybody's entitled to dignity"* and resen
 - **The Bethenny Frankel maxim** she lives by: *"you roll it into the batter."*
 - **Glasses + hair:** both unchanged for 10+ years. *"Once I found them, that's it, I'm not looking for glasses again."*
 - **Agent:** *"Mark"* (first name only, Bustle 2023).
+- *"I am the expert in me. I am a PhD in me."* (South Beach Sessions, May 2026) — the self-parenting thesis: with nothing else to rely on as a kid, she invested in the one asset she had. *"Why would I mistreat me? I'm a paying customer… I'm the one who showed up."*
+- *"You don't choose your family — but with marriage, you do. One time, you get to pick your family."* (Working It Out, Jun 2026) — marriage as the family she chose; see [[themes/marriage]].
 
 ## Family
 
@@ -173,6 +178,8 @@ See [[career/index|Career index]] for the timeline. Highlights:
 - [[bits/polo-lounge|The Polo Lounge $7 beer]] — early-LA frugality bit; sat next to Ralph Lauren ("Lifshitz, if we're honest").
 - [[bits/supercuts-tuesday|Supercuts Tuesday]] — frugality discount-day bit.
 - [[bits/jesus-loves-me|"Jesus loves me"]] — counter-move with her born-again mother.
+- [[bits/ai-is-autistic|"AI is autistic"]] — 2026 touring premise; AI is on the spectrum because its architects are.
+- [[bits/bros-before-hoes|"Bros before hoes"]] — joke name for how fundamentalist religion subordinates women.
 
 ## Possessions she names
 
@@ -242,3 +249,6 @@ See [[career/index|Career index]] for the timeline. Highlights:
 - [Speed Walking Until 93 with ROBBY HOFFMAN](https://www.youtube.com/watch?v=HEdgA3bj6zA) — Steph Infection, Steph Tolev, 2026-02-25 (post-Wake-Up); Robby debating a **labiaplasty**; **Kybella chin injections** confirmed (acid-into-fat-cells; got chin + stomach done); **considering hip-reduction surgery** for further masculinization — *"truly mization surgery so I don't have hips anymore… I have child-rearing hips"*; HBO *Girls* helping Robby; *"I will hit 93, look in the mirror, and be like, I'm finally who I was when I could be."*
 - [Stavvy's World #164 — Robby Hoffman | Full Episode](https://www.youtube.com/watch?v=HLx_XYqpfr8) — Stavros Halkias, 2026-01-19 (5 weeks after Wake Up release); growing-up-poor-with-9-siblings rehearsal; **what she ate the first time she broke kosher** (Egg McMuffin, matches Live From Bed); accounting-to-comedy pivot; advice-segment callers including a fisherman + a $9M-inheritance club promoter.
 - [Who is Decaf Coffee FOR? w/ Comedian Robby Hoffman](https://www.youtube.com/watch?v=fjjr48KvUvk) — Shank with Sara Weinshenk + Kim Congdon, 2024-11-06, recorded at the Comedy Store; pre-Wake-Up press / pre-Vegas-elopement; one-off appearance.
+- [Robby Hoffman | South Beach Sessions with Dan Le Batard](https://www.youtube.com/watch?v=aUAS9EYnDhM) — Dan Le Batard, 2026-05-28 (Hacks finale week); the deepest anxiety-vs-depression, self-parenting ("PhD in me"), and money-trauma interview; verbatim Mulaney text; Ted Sarandos + Adam McKay anecdotes. See [[projects/south-beach-sessions]].
+- [The Robby Hoffman (again)](https://www.youtube.com/watch?v=MtGONwT6698) — [[projects/long-winded|Long Winded with Gabby Windey]], 2026-06-18; second Robby-on-Gabby's-pod episode; relationship/design dynamics, dating call-in advice, Gabby-as-novelist, helped a brother buy a home.
+- [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; fullest WGA-speech telling; "marriage is a hack"; Crown Heights/Lubavitch/kippah-as-ego; new material (AI-is-autistic, bros-before-hoes). See [[projects/working-it-out]].

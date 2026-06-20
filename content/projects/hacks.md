@@ -10,6 +10,7 @@ source:
   - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
   - "[[raw/transcripts/2026-05-30 Robby Hoffman (Fitzdog Radio 1097) Greg Fitzsimmons]]"
   - "[[raw/transcripts/2026-05-30 Robby Hoffman and Rachel Bloom on Jewish Stereotypes, Dying For Sex and The Stages of Marriage]]"
+  - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
 compiled: 2026-05-30
 tags:
   - project
@@ -32,7 +33,7 @@ Max (HBO Max) comedy series created by **[[people/lucia-aniello|Lucia Aniello]]*
 - Robby still presented the Cinematography Emmy after losing her own category.
 - She has confirmed she's returning for **Season 5** with "more Robby."
 - The Emmy nomination + [[projects/wake-up|Wake Up]] is the one-two that Vogue used to frame 2025 as "the year of Robby Hoffman."
-- **Robby on auditioning** (Q with Tom Power): the creator told her she had to audition even though the part was written for her. *"It's so much worse the pressure to me… how humiliating. That's even worse."* She dunked it.
+- **Robby on auditioning** (Q with Tom Power; reaffirmed on Working It Out, Jun 2026): the creator told her she had to audition even though the part was written for her. *"It's so much worse the pressure to me… how humiliating. That's even worse."* She dunked it. To Birbiglia she added the absurdity: *"You told me you wrote it for me… am I getting a writing credit? What kind of AI shit is this?"*
 - **Co-stars in publicity:** Robby appears alongside [[people/megan-stalter|Megan Stalter]] (Kayla) and [[people/paul-w-downs|Paul W. Downs]] (Jimmy) in the agency-side scenes.
 
 ## Sources
@@ -46,3 +47,4 @@ Max (HBO Max) comedy series created by **[[people/lucia-aniello|Lucia Aniello]]*
 - ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; names Aniello / Downs / Statsky as the Randi-role authors; Randi's first line.
 - [Robby Hoffman (Fitzdog Radio #1097)](https://www.youtube.com/watch?v=6cQlmUeyypU) — Greg Fitzsimmons, 2025-05-21; Robby's *Hacks + Dying for Sex + Verified* career grouping in active-Season-press window.
 - [Robby Hoffman and Rachel Bloom on Jewish Stereotypes, Dying For Sex & The Stages of Marriage](https://www.youtube.com/watch?v=XOE7h4lXOU0) — Lovett or Leave It, Jon Lovett, 2025-04-13; Robby announcing *"I think I'm in almost every episode"* of the new Hacks season during the live-and-simultaneous Hulu/Max press week.
+- [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; the "they wrote it for me, then made me audition" frustration, plus the Randi-vs-Rooster "different versions of me" acting frame.

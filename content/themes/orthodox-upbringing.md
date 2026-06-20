@@ -14,6 +14,7 @@ source:
   - "[[raw/transcripts/2026-05-30 Calling My Family with Robby Hoffman FULL Episode]]"
   - "[[raw/transcripts/2026-05-30 Great-Uncle Eddie with Robby Hoffman (Bless These Braces Episode 3)]]"
   - "[[raw/transcripts/2026-05-30 Robby Hoffman Senses Working Overtime with David Cross Headgum]]"
+  - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
 compiled: 2026-05-30
 tags:
   - theme
@@ -37,6 +38,10 @@ publish: true
 - **Kosher as metaphor:** Robby's framing of monogamy and self-discipline draws on growing up kosher. *"When you grow up kosher, you get good at temptation."* See [[themes/monogamy]].
 - **Mother's born-again turn re-introduced homophobia** into family dynamics that had previously settled into uneasy acceptance. Per Endless Honeymoon (Oct 2025), Robby names the specific affiliation: **Messianic Judaism / Jews for Jesus.** Her framing: *"My mother's addicted to cults just like people love to fall in love. She's just about due for a new religion."*
 - **Mother's AIDS-needles-in-cinema-seats paranoia (Anniewood, Jul 2024):** in 1980s/90s Montreal, mother read horror stories about HIV-contaminated needles being planted in movie theater seats; the Hoffman kids were trained to pat each seat first before sitting down, never pressing hard enough to be jabbed. *"You just get AIDS — you just touched it."* See related [[bits/aids-popsicle|AIDS popsicle]] bit.
+- **Lubavitch vs Chabad** (Working It Out, Jun 2026): Robby was born into the **Lubavitch** community of Crown Heights; she frames **Chabad** as a more outreach-oriented, *"more chill,"* relaxed branch of the same world — *"it might look as insane, but to me they seem more chill than what I was born into."* The sects' names trace to the figures who originated them in Eastern Europe around the turn of the last century.
+- **The kippah is an ego-check** (Working It Out): the hat is regional/traditional, but *"the kippah is to remind you of ego — that there's always something bigger than you."*
+- **"Bros before hoes"** (Working It Out): Robby's joke-name for how fundamentalist sects subordinate women — *"my parents had ten kids by 30… extremely reckless… it can be very oppressive, particularly of women."* See the [[bits/bros-before-hoes|bit]].
+- **Why the family left:** *"My mother left."* Robby: *"We all wanted to get out,"* citing the father's abuse and *"a terrible marriage."*
 - **"Châlent" (cholent)** is one of Robby's favorite foods — the sabbath stew. Mother was *"a horrendous cook, but cooked every day,"* with a fridge-sized bag of puffed wheat as the cereal default. As an adult Robby now loves the food she resented as a kid.
 - **Kosher till 19** (per Live From Bed, Aug 2025 + Bless These Braces, Mar 2024). The break point was a McGill 8am exam where Robby finished early at 10:00 a.m., was starving, and walked into the mall-across-the-street McDonald's to break kosher on an **Egg McMuffin**. See [[career/mcdonalds-job]].
 - **First girl in family to have a bat mitzvah** (Bless These Braces, Mar 2024). Older sisters had house-only with mother on guitar — *"maybe just like court, which they hated."* Robby's bat mitzvah was a proper party but still no Torah portion.
@@ -78,3 +83,4 @@ Robby's stand-up identity is post-Orthodox but still culturally Lubavitch — he
 - [Calling My Family with Robby Hoffman | FULL Episode](https://www.youtube.com/watch?v=pD63tRyOSyc) — Live From Bed, Aug 2025; *"kosher till 19, broke it on an Egg McMuffin"* / bris-anxiety + Jewish-stand-in-for-Jade material.
 - [Great-Uncle Eddie with Robby Hoffman (Bless These Braces Ep. 3)](https://www.youtube.com/watch?v=apNV3f_ytnE) — Funny Or Die / Tam, 2024-03-12; first-girl-in-family-bat-mitzvah; religious-weird-Ellie-Kemper-of-the-school positioning; Argentinian-Jewish-subsidy parallel; *"kosher till 19"* confirmation.
 - [Robby Hoffman | Senses Working Overtime with David Cross | Headgum](https://www.youtube.com/watch?v=oavQtYXGDRU) — David Cross, 2024-08-01; **mother's "new Daddy" framing of her Christian turn** (close-to-her-father → married-Robby's-father → both gone → found Jesus); **"if a knife touched something un-kosher you were burying the knife and un-burying"** kosher-extremity self-anchor; *religion-is-OCD* parallel.
+- [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; Lubavitch-vs-Chabad distinction; kippah-as-ego-reminder; "bros before hoes" on the subordination of women; "my mother left" as the exit.

@@ -26,3 +26,5 @@ Recurring jokes, signature bits, catchphrases, and segments that Robby revisits 
 - [[bits/package-deal|"It's a package deal"]] — grandfather's line at the school interview.
 - [[bits/polo-lounge|The Polo Lounge $7 beer]] — early-LA frugality ritual.
 - [[bits/trash-can-rant|Trash Can Rant]] — bathroom-bin philosophy; why pedal lids cause despair.
+- [[bits/ai-is-autistic|"AI is autistic"]] — 2026 touring premise; AI is on the spectrum because its architects are.
+- [[bits/bros-before-hoes|"Bros before hoes"]] — joke name for how fundamentalist religion subordinates women.

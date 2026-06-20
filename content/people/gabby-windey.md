@@ -14,6 +14,8 @@ source:
   - "[[raw/transcripts/2026-05-30 Bachelor Nation's Gabby Windey Talks Dating, Reality TV and Her Next Chapter Video Podcast]]"
   - "[[raw/transcripts/2026-05-30 Being Outed to Your Jewish Community (with Robby Hoffman)]]"
   - "[[raw/transcripts/2026-05-30 Buried Alive w Robby Hoffman Anniewood Pod Ep. 89 - Annie Lederman]]"
+  - "[[raw/transcripts/2026-06-20 The Robby Hoffman (again)]]"
+  - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
 compiled: 2026-05-30
 tags:
   - person
@@ -51,6 +53,9 @@ Television personality and ICU nurse; wife of [[people/robby-hoffman|Robby Hoffm
 ## Habits + recent
 
 - **Recently became an avid reader** (started "maybe two years ago" per FT 2026). Robby gave her an early edition of Sylvia Plath's *The Bell Jar* and plans to add a book per year to build a collection.
+- **Author with a book deal** (Long Winded "again," Jun 2026). Robby's framing: Gabby *"writes every day and it's really good… she's truly a writer,"* contrasting her with people who claim to write but *"have nothing to say."* Gabby started her proposal ~3 years ago and wrote three sample essays; publishers initially floated a **ghostwriter**, which both reject — *"a ghostwriter is for an incapacitated Britney Spears."* Gabby also **runs the [[projects/long-winded|Long Winded]] podcast entirely herself** — Robby: *"I don't do shit for the podcast. This is all her."*
+- **Self-described mood disorder** (Long Winded, Jun 2026) — *"I have a mood disorder,"* tied to the **Lamictal + Gabapentin** stabilizers already listed; Robby reassures her the occasional irrational pop-off *"is okay."*
+- **Watches reality TV with Robby** — they break down *Real Housewives of Rhode Island* (Rosie vs Kelsey, the "slam pig" / homeless-Alicia drama) and *Couples Therapy* together; an hour-a-week shared ritual. Robby also gets Gabby into climbing docs (*Free Solo*, *The Dark Wizard*).
 - **Separate bathrooms** in their LA rental — Gabby is serums-and-potions, Robby is one toothbrush.
 - **No kids planned.** They eat out heavily — *"we live in restaurants."* Robby: *"This is my baby and I'm her baby. We're taking a page from the gays: Double income, no kids."* (Per Bethenny Frankel Sept 2023: Gabby and Robby had **independently decided no-kids before meeting each other** — *"both of us didn't want them separately."*)
 - **Coming out together on *The View* (2023).** Per Made It Out (July 2024): Gabby insisted they had to make a public statement. Robby's framing — *"I realized I never came out. I was out. So now I'm coming out."* Both Robby and Gabby came out at the same moment.
@@ -90,3 +95,5 @@ The LA rental — **Spanish-style, three-bedroom, one-bathroom, $5,000/month**, 
 - [Buried Alive w/ Robby Hoffman | Anniewood Pod Ep. 89](https://www.youtube.com/watch?v=MincedWie34) — Annie Lederman, 2024-07-18; Bachelor-dud-season (Clayton) framing; "I gotta follow this girl, she's already following me"; Marie Kondo plan for Annie's house.
 - [Calling My Family with Robby Hoffman | FULL Episode](https://www.youtube.com/watch?v=pD63tRyOSyc) — Live From Bed, Jade Iovine, 2025-08-28; *"we're giving each other the childhood that we wanted"* no-kids framing; the cat Numb + Labradoodle dynamic.
 - [RIP Jordan Jensen — Episode 60: Robby Hoffman](https://www.youtube.com/watch?v=s5IupO8t1Z4) — Jordan Jensen, 2026-03-23; Gabby's chronic-lateness ("debutante" frame); Jordan's *"she's the best, Gabby"*.
+- [The Robby Hoffman (again)](https://www.youtube.com/watch?v=MtGONwT6698) — Long Winded with Gabby Windey, 2026-06-18; Gabby-as-novelist (book deal, ghostwriter rejection, runs the pod solo); self-described mood disorder; relationship/design dynamics; dating call-in advice; RHORI + Couples Therapy co-viewing.
+- [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; "marriage is a hack," and the conflict cross-teaching (Robby taught Gabby conflict isn't dangerous; Gabby taught Robby to care less what others think).

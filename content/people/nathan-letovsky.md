@@ -6,6 +6,7 @@ source:
   - "[[raw/transcripts/2026-05-29 The Robby Hoffman]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]]"
   - "[[raw/transcripts/2026-05-30 Block, Delete, Ignore, Ghost with Robby Hoffman (Episode 333)]]"
+  - "[[raw/transcripts/2026-06-20 The Robby Hoffman (again)]]"
 compiled: 2026-05-30
 tags:
   - person
@@ -32,6 +33,7 @@ publish: true
 - **Best friend Germaine** — French-Canadian former cop. The two of them flew to Florida in February with two cabs to extract Robby's mother and the ten Hoffman children from Robby's abusive father. See [[career/montreal-flight|Montreal Flight (from Florida)]].
 - **Maroon cashmere scarf incident** — at age 17, in -30°C Montreal, Nathan saw teenage Robby without a scarf and threw a small maroon cashmere scarf from the back of his closet onto her. (From Holt Renfrew Ogilvy, originally.) She wore it for years, lost it, and recently bought herself a Burberry checked scarf as the replacement.
 - **The paintings are the only things Robby took** when the LA wildfires forced her and [[people/gabby-windey|Gabby]] to evacuate the [[career/vegas-elopement|January 2025 LA fire]] period. *"He didn't sell a lot but he made painting after painting, so when he would come visit, if there was a square inch spare, my mother would find a space for another."*
+- **His paintings still circulate.** Per Long Winded (Jun 2026), someone emailed Robby to say they'd spotted one of his paintings **for sale on Etsy** — *"which is really cool."* Robby's own framed childhood painting (a tree-and-valley landscape Nathan insisted on framing immediately when she was ~8) now hangs in [[people/gabby-windey|Gabby]]'s bathroom.
 - **Died at 88.** Per Robby on Endless Honeymoon (Oct 2025): grandfather's dying advice — *"You don't have to make the world's last dollar"* and *"never take a vacation without your family — a vacation without your family is not a vacation."* He was suspicious of men who travelled without their wives. The line is one Robby quotes in advice contexts: leisure as a deliberate priority, not a default.
 
 ## Sources
@@ -41,3 +43,4 @@ publish: true
 - [The Robby Hoffman](https://www.youtube.com/watch?v=p04Njv2QpKU) — Paris painting contest.
 - [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — post-war butcher.
 - [Block, Delete, Ignore, Ghost with Robby Hoffman (Episode 333)](https://www.youtube.com/watch?v=BtCHTzceThU) — Endless Honeymoon, Oct 2025; died at 88; *"prioritize leisure"* deathbed advice; butcher-then-painter career arc; *"vacation without your family is not a vacation."*
+- [The Robby Hoffman (again)](https://www.youtube.com/watch?v=MtGONwT6698) — Long Winded with Gabby Windey, 2026-06-18; a fan emails Robby that one of Nathan's paintings is for sale on Etsy; her framed childhood painting hangs in Gabby's bathroom.
