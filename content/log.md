@@ -8,6 +8,19 @@ publish: true
 
 Reverse-chronological record (newest first). Every compile, query, and lint pass logs here.
 
+## [2026-06-20] cleanup | Deleted 24 conflict-copy files
+
+Tier-1 fix from the lint audit. Removed all 24 untracked `* 2.md` Obsidian/sync conflict copies from `wiki/` content (people 10, projects 12, bits 1, career 1) plus `.github/workflows/deploy 2.yml` in the public repo. All were untracked + never deployed, so no git history or live-site change. Vault `* 2.md` count now 0.
+
+## [2026-06-20] lint | Wiki audit
+
+Post-compile health check. Report: `output/lint-report-2026-06-20.md`.
+
+- **Clean:** 0 broken links, 0 true orphans, 0 uncompiled raws, 0 hollow raws, 0 missing Key Takeaways / publish / description, 100% type-index completeness.
+- **One critical:** 24 untracked `* 2.md` conflict-copy files in `wiki/` (Obsidian/sync duplicates; never committed or deployed). Flagged for Tier-1 bulk-delete.
+- **Stats:** 104 real pages (people 26, projects 31, bits 20, themes 8, career 11) · 47 raws all compiled.
+- **Tooling note:** cached-index orphan/broken-link checks misfire on this vault's `[[folder/slug|alias]]` links (reported all 127 as orphans + flagged the working `[[log]]` link); used a path-aware resolver instead. Candidate fix for the shared lint skill.
+
 ## [2026-06-20] compile | 3 new transcripts (South Beach Sessions, Long Winded "again", Birbiglia's Working It Out)
 
 Compiled the three June-2026 transcripts ingested earlier today. All three are long-form (58k–98k chars), none hollow.
