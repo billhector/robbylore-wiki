@@ -8,6 +8,19 @@ publish: true
 
 Reverse-chronological record (newest first). Every compile, query, and lint pass logs here.
 
+## [2026-06-28] compile | NYT The Interview ("Growing Up Poor Never Leaves You")
+
+Compiled the single uncompiled transcript ingested earlier today — the NYT *The Interview* episode (Lulu Garcia-Navarro, 2026-06-27, two-sitting, ~17k-char body, not hollow).
+
+**New page (1):**
+- [[projects/the-interview|The Interview (The New York Times)]] — NYT audio/video podcast; the two-sitting format, filmed-in-her-home gag, comfort-is-rich + classism framing.
+
+**Updated (6):** [[people/robby-hoffman|hub]] (source line + "being offended isn't the worst thing" stated direct, rich-weird, comedy-chooses-you quote-bank); [[themes/money|money]] (rich-weird-vs-poor-weird, $7.99 raspberries, comfort-is-a-rich-concept, classism-affects-everybody, Uncle-Eddie $1 gas); [[themes/orthodox-upbringing|orthodox-upbringing]] (**net-new:** mother took on the male commandments — kiddush + havdalah — after the father left; becoming-secular as slow transition); [[projects/hacks|Hacks]] (the "botched its Yiddish line" criticism + mother-sourced defense); [[people/gabby-windey|Gabby Windey]] (cabinet-open healing dynamic, "choose your family" loophole, faithful-not-traitor); [[people/uncle-eddie|Uncle Eddie]] ($1-gas refusal).
+
+**Infra fix:** the `wiki/` symlink was stale — pointed at the pre-migration `~/Documents/Claude/Projects/robbylore-wiki/content`. Repointed to `~/Claude/Projects/robbylore-wiki/content` (per the 2026-06-28 TCC repo move). All wiki reads/writes now resolve.
+
+**All 48 raws now compiled.**
+
 ## [2026-06-20] cleanup | Deleted 24 conflict-copy files
 
 Tier-1 fix from the lint audit. Removed all 24 untracked `* 2.md` Obsidian/sync conflict copies from `wiki/` content (people 10, projects 12, bits 1, career 1) plus `.github/workflows/deploy 2.yml` in the public repo. All were untracked + never deployed, so no git history or live-site change. Vault `* 2.md` count now 0.

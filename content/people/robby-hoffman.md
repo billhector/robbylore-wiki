@@ -47,6 +47,7 @@ source:
   - "[[raw/transcripts/2026-06-20 Robby Hoffman South Beach Sessions with Dan Le Batard]]"
   - "[[raw/transcripts/2026-06-20 The Robby Hoffman (again)]]"
   - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
+  - "[[raw/transcripts/2026-06-27 Robby Hoffman Growing Up Poor Never Leaves You The Interview]]"
 compiled: 2026-05-30
 tags:
   - robby-hoffman
@@ -119,6 +120,9 @@ Bernie Sanders supporter. Believes *"everybody's entitled to dignity"* and resen
 - **Agent:** *"Mark"* (first name only, Bustle 2023).
 - *"I am the expert in me. I am a PhD in me."* (South Beach Sessions, May 2026) — the self-parenting thesis: with nothing else to rely on as a kid, she invested in the one asset she had. *"Why would I mistreat me? I'm a paying customer… I'm the one who showed up."*
 - *"You don't choose your family — but with marriage, you do. One time, you get to pick your family."* (Working It Out, Jun 2026) — marriage as the family she chose; see [[themes/marriage]].
+- *"I don't think being offended is the worst thing. I think being poor is."* (NYT The Interview, Jun 2026) — *"I was born offended. My whole circumstance was offensive."* The line that titles the Guardian profile, stated direct.
+- *"The rich weird is way weirder and worse… there's a humanity that's missing."* (NYT The Interview, Jun 2026) — poor households share the fridge ("take, take"); rich houses have the biggest fridge but nobody's allowed in. Generosity as the class tell. See [[themes/money]].
+- *"Comedy chooses you."* (NYT The Interview / 2014 TEDx) — and the stage as home: *"when everything goes black in the room and the lights are on me, I feel like I'm in a womb."* She paints in Jackson-Pollock scale now, working theaters.
 
 ## Family
 
@@ -252,3 +256,4 @@ See [[career/index|Career index]] for the timeline. Highlights:
 - [Robby Hoffman | South Beach Sessions with Dan Le Batard](https://www.youtube.com/watch?v=aUAS9EYnDhM) — Dan Le Batard, 2026-05-28 (Hacks finale week); the deepest anxiety-vs-depression, self-parenting ("PhD in me"), and money-trauma interview; verbatim Mulaney text; Ted Sarandos + Adam McKay anecdotes. See [[projects/south-beach-sessions]].
 - [The Robby Hoffman (again)](https://www.youtube.com/watch?v=MtGONwT6698) — [[projects/long-winded|Long Winded with Gabby Windey]], 2026-06-18; second Robby-on-Gabby's-pod episode; relationship/design dynamics, dating call-in advice, Gabby-as-novelist, helped a brother buy a home.
 - [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; fullest WGA-speech telling; "marriage is a hack"; Crown Heights/Lubavitch/kippah-as-ego; new material (AI-is-autistic, bros-before-hoes). See [[projects/working-it-out]].
+- [Robby Hoffman: Growing Up Poor Never Leaves You | The Interview](https://www.youtube.com/watch?v=GNPDXbpaXlE) — NYT The Interview, Lulu Garcia-Navarro, 2026-06-27; "being offended isn't the worst thing, being poor is" stated direct; rich-weird-vs-poor-weird; mother taking on the male religious commandments after the father left; the Hacks Yiddish-line criticism; "choose your family" via Gabby; "comedy chooses you." See [[projects/the-interview]].

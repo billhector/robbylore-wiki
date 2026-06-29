@@ -11,6 +11,7 @@ source:
   - "[[raw/transcripts/2026-05-30 Robby Hoffman (Fitzdog Radio 1097) Greg Fitzsimmons]]"
   - "[[raw/transcripts/2026-05-30 Robby Hoffman and Rachel Bloom on Jewish Stereotypes, Dying For Sex and The Stages of Marriage]]"
   - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
+  - "[[raw/transcripts/2026-06-27 Robby Hoffman Growing Up Poor Never Leaves You The Interview]]"
 compiled: 2026-05-30
 tags:
   - project
@@ -35,6 +36,7 @@ Max (HBO Max) comedy series created by **[[people/lucia-aniello|Lucia Aniello]]*
 - The Emmy nomination + [[projects/wake-up|Wake Up]] is the one-two that Vogue used to frame 2025 as "the year of Robby Hoffman."
 - **Robby on auditioning** (Q with Tom Power; reaffirmed on Working It Out, Jun 2026): the creator told her she had to audition even though the part was written for her. *"It's so much worse the pressure to me… how humiliating. That's even worse."* She dunked it. To Birbiglia she added the absurdity: *"You told me you wrote it for me… am I getting a writing credit? What kind of AI shit is this?"*
 - **Co-stars in publicity:** Robby appears alongside [[people/megan-stalter|Megan Stalter]] (Kayla) and [[people/paul-w-downs|Paul W. Downs]] (Jimmy) in the agency-side scenes.
+- **The Yiddish-line controversy** (NYT The Interview, Jun 2026): a Jewish publication ran a piece headlined *"how Hacks botched its Yiddish line"* over a few-second cutaway gag where Randi delivers a line in Yiddish, calling it grammatically incorrect *"as any fluent Yiddish speaker will confirm."* Robby's defense: she asked her fluent mother for the word (*"machinum"* for "free"); the contested part was *"a comedia"* — *"not a very used word in Yiddish… an Englishism."* What annoyed her was the source: *"they want me to speak about antisemitism, we get Yiddish onto the show, and then this Jewish publication has an issue with the Yiddish."* Said it *"bothered"* not *"hurt"* — and folds it into her bigger fame-brings-scrutiny frame (her little sister cheers each hater as proof *"we're going up up up"*).
 
 ## Sources
 
@@ -48,3 +50,4 @@ Max (HBO Max) comedy series created by **[[people/lucia-aniello|Lucia Aniello]]*
 - [Robby Hoffman (Fitzdog Radio #1097)](https://www.youtube.com/watch?v=6cQlmUeyypU) — Greg Fitzsimmons, 2025-05-21; Robby's *Hacks + Dying for Sex + Verified* career grouping in active-Season-press window.
 - [Robby Hoffman and Rachel Bloom on Jewish Stereotypes, Dying For Sex & The Stages of Marriage](https://www.youtube.com/watch?v=XOE7h4lXOU0) — Lovett or Leave It, Jon Lovett, 2025-04-13; Robby announcing *"I think I'm in almost every episode"* of the new Hacks season during the live-and-simultaneous Hulu/Max press week.
 - [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; the "they wrote it for me, then made me audition" frustration, plus the Randi-vs-Rooster "different versions of me" acting frame.
+- [Robby Hoffman: Growing Up Poor Never Leaves You | The Interview](https://www.youtube.com/watch?v=GNPDXbpaXlE) — NYT The Interview, 2026-06-27; the "how Hacks botched its Yiddish line" criticism and Robby's mother-sourced defense; "six lines, an Emmy by the grace of God." See [[projects/the-interview]].

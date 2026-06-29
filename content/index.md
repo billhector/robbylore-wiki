@@ -21,6 +21,10 @@ This is a fan site. Not affiliated with, endorsed by, or representative of Robby
 
 ## Recently added
 
+**2026-06-28 — NYT *The Interview* compile:**
+- New page: [[projects/the-interview|The Interview (The New York Times)]] — Lulu Garcia-Navarro's June 2026 two-sitting episode.
+- Net-new to [[themes/money|money]] (rich-weird-vs-poor-weird, "comfort is a rich concept," "classism affects everybody"), [[themes/orthodox-upbringing|orthodox-upbringing]] (mother taking on the male religious commandments after the father left), [[projects/hacks|Hacks]] (the Yiddish-line criticism), [[people/gabby-windey|Gabby]] (the cabinet-open healing dynamic + "choose your family"), [[people/uncle-eddie|Uncle Eddie]] ($1-gas refusal), and the [[people/robby-hoffman|hub]].
+
 **2026-06-20 — 3-transcript compile (South Beach Sessions + Long Winded "again" + Birbiglia's Working It Out):**
 - New pages: [[projects/south-beach-sessions|South Beach Sessions with Dan Le Batard]], [[projects/working-it-out|Working It Out (Mike Birbiglia)]], [[bits/ai-is-autistic|"AI is autistic"]], [[bits/bros-before-hoes|"Bros before hoes"]].
 - Verbatim **[[people/john-mulaney|Mulaney]] text** that launched [[projects/wake-up|Wake Up]]; **[[people/gabby-windey|Gabby]] confirmed as an author** with a book deal (runs [[projects/long-winded|Long Winded]] solo); the fullest **[[career/wga-strike-speech|WGA-speech]]** telling (Carmen Christopher, union-employees-suing); *"marriage is a hack"* added to [[themes/marriage|marriage]]; anxiety-not-depression added to the [[people/robby-hoffman|hub]].

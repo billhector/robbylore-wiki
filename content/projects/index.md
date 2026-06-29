@@ -53,3 +53,4 @@ Named works: TV shows, podcasts, specials, films, web series, books, tours.
 - [[projects/not-skinny-but-not-fat|Not Skinny But Not Fat]] — Amanda Hirsch; Wake Up press.
 - [[projects/south-beach-sessions|South Beach Sessions with Dan Le Batard]] — confessional May 2026 interview; anxiety, money, the Mulaney text.
 - [[projects/working-it-out|Working It Out (Mike Birbiglia)]] — June 2026 "It's a New Dawn" episode; WGA origin, "marriage is a hack."
+- [[projects/the-interview|The Interview (The New York Times)]] — NYT podcast; June 2026 two-sitting episode on poverty, fame, comedy, marriage.

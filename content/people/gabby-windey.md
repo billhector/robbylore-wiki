@@ -16,6 +16,7 @@ source:
   - "[[raw/transcripts/2026-05-30 Buried Alive w Robby Hoffman Anniewood Pod Ep. 89 - Annie Lederman]]"
   - "[[raw/transcripts/2026-06-20 The Robby Hoffman (again)]]"
   - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
+  - "[[raw/transcripts/2026-06-27 Robby Hoffman Growing Up Poor Never Leaves You The Interview]]"
 compiled: 2026-05-30
 tags:
   - person
@@ -64,6 +65,9 @@ Television personality and ICU nurse; wife of [[people/robby-hoffman|Robby Hoffm
 - **Finances split 50/50.** Gabby rejects the idea that Robby's masculine presentation means Robby should pay (*"I don't really want to buy into gender norms"*).
 - **Pet integration is a project.** Per Bethenny (Sept 2023) and Annie Lederman (July 2024): Gabby's dog and Robby's cat *"don't get along right now,"* prompting them to read material and consider a pet therapist. Robby has since become primary handler of the Labradoodle while preferring the cat.
 - **Gabby's framing of the Vegas wedding** during the LA fire evacuation: *"If everything burns down, I just want to be married to you."*
+- **The cabinet-open healing dynamic** (NYT The Interview, Jun 2026): because Gabby grew up without consistency (an often-absent parent), she used to swallow small grievances — *"if I left the cabinet open… she just wouldn't say, because she wouldn't want me to go away."* Robby's counter: *"Babe, I'll close the cabinets. I'm not leaving. Try me."* Robby's frame for the marriage: *"It's not our job to heal each other… but through the relationship we are healing each other. It's the cherry."* Both grew up *"meager"*; Robby calls that shared class background *"literally dating inside our faith."*
+- **"Choose your family" loophole** (NYT The Interview): as a kid Robby complained about her brothers and her mother said *"you don't choose your family."* Robby's realization: *"there's a loophole. If I marry Gabby, I choose my family. That's the one time you choose your family."* See [[themes/marriage]].
+- **A faithful, not a traitor** (NYT The Interview): Robby thought Gabby was always going to play [[projects/the-traitors|Traitors]] as a faithful — *"she doesn't need all the stress of lying. The problem is we can't really lie."* Robby says she herself would be *"out first"* and lacks the temperament for the show.
 - **Traitors filming protocol:** weekly **supervised** phone call with the show's producer in the room — Robby compares the constraint to prison. Gabby cried every week ("so cold, nothing to eat, challenges really hard"); Robby would coach her through 10 minutes.
 - **Shema prayer card:** Robby gave Gabby a card with the Shema (*"Hear me"*) for the Traitors shoot in Scotland. Gabby said it every night.
 - Considering conversion to Judaism — *"I say I will over Zoom."*
@@ -97,3 +101,4 @@ The LA rental — **Spanish-style, three-bedroom, one-bathroom, $5,000/month**, 
 - [RIP Jordan Jensen — Episode 60: Robby Hoffman](https://www.youtube.com/watch?v=s5IupO8t1Z4) — Jordan Jensen, 2026-03-23; Gabby's chronic-lateness ("debutante" frame); Jordan's *"she's the best, Gabby"*.
 - [The Robby Hoffman (again)](https://www.youtube.com/watch?v=MtGONwT6698) — Long Winded with Gabby Windey, 2026-06-18; Gabby-as-novelist (book deal, ghostwriter rejection, runs the pod solo); self-described mood disorder; relationship/design dynamics; dating call-in advice; RHORI + Couples Therapy co-viewing.
 - [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; "marriage is a hack," and the conflict cross-teaching (Robby taught Gabby conflict isn't dangerous; Gabby taught Robby to care less what others think).
+- [Robby Hoffman: Growing Up Poor Never Leaves You | The Interview](https://www.youtube.com/watch?v=GNPDXbpaXlE) — NYT The Interview, 2026-06-27; the cabinet-open healing dynamic; "not our job to heal each other"; the "choose your family" loophole; Gabby-as-faithful read on Traitors. See [[projects/the-interview]].

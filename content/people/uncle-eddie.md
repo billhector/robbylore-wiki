@@ -5,6 +5,7 @@ source:
   - "[[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]]"
   - "[[raw/transcripts/2026-05-29 I Stand Corrected with Robby Hoffman The Downside with Gianmarco Soresi 274 Podcast]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]]"
+  - "[[raw/transcripts/2026-06-27 Robby Hoffman Growing Up Poor Never Leaves You The Interview]]"
 compiled: 2026-05-29
 tags:
   - person
@@ -30,6 +31,7 @@ publish: true
 - **Dropped Robby's birthday cake** once. Joked-about, never recovered.
 - **Friends? "Friends is for kids."** Robby quotes Eddie on this.
 - **Robby's little sister Y'hudis** was particularly close to him.
+- **The $1-gas refusal** (NYT The Interview, Jun 2026): when Montreal gas reached a dollar (up from ~70 cents), Eddie *"didn't leave the house."* Robby's retelling: *"'Uncle Eddie, could you take me to my friend's house?' 'Are you kidding? Gas is a dollar. I'm going to be downstairs.'"* Robby cites it as the lived poverty logic that still shapes her own spending. See [[themes/money]].
 
 ## Why it matters
 
@@ -41,3 +43,4 @@ Uncle Eddie is the structural fact that allowed Robby's mother to leave the fath
 - [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — picked them up off the plane in Montreal.
 - [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s) — niece Teddy named after him.
 - [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — passing physical-description detail.
+- [Robby Hoffman: Growing Up Poor Never Leaves You | The Interview](https://www.youtube.com/watch?v=GNPDXbpaXlE) — NYT The Interview, 2026-06-27; the $1-gas "I'm going to be downstairs" refusal. See [[projects/the-interview]].
