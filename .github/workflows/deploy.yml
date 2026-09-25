@@ -19,6 +19,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          # Full history: Quartz's created-modified-date plugin reads git dates for
+          # sitemap <lastmod>. A shallow clone stamps every page with HEAD's commit time.
+          fetch-depth: 0
 
       - name: Setup Node 22
         uses: actions/setup-node@v6
@@ -42,3 +46,31 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           wranglerVersion: "4"
           command: deploy
+
+      # Ping Bing/Yandex/Seznam/Naver/Yep with pages changed in this push.
+      # Google does not support IndexNow. Key file lives at content/<key>.txt
+      # (Quartz copies it to the site root). Never fails the deploy.
+      - name: IndexNow ping
+        if: github.event_name == 'push'
+        continue-on-error: true
+        env:
+          INDEXNOW_KEY: ae84a6f630c1e39bc682c9f5655a3594
+          HOST: robbylore.org
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: |
+          if ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            echo "No usable previous commit ($BEFORE); skipping."; exit 0
+          fi
+          git diff --name-only "$BEFORE" "$AFTER" -- 'content/*.md' \
+            | sed -E 's#^content/##; s#\.md$##; s#(^|/)index$##' \
+            | sed -E "s#^#https://$HOST/#" > urls.txt
+          if [ ! -s urls.txt ]; then echo "No content changes; skipping."; exit 0; fi
+          echo "Submitting $(wc -l < urls.txt) URL(s):"; cat urls.txt
+          jq -Rn --arg host "$HOST" --arg key "$INDEXNOW_KEY" \
+            '{host: $host, key: $key, keyLocation: "https://\($host)/\($key).txt", urlList: [inputs]}' \
+            < urls.txt > payload.json
+          code=$(curl -sS -o resp.txt -w '%{http_code}' -X POST https://api.indexnow.org/indexnow \
+            -H 'Content-Type: application/json; charset=utf-8' --data @payload.json)
+          echo "IndexNow HTTP $code"; cat resp.txt
+          case "$code" in 200|202) ;; *) echo "::warning::IndexNow returned HTTP $code" ;; esac
