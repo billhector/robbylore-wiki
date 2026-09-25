@@ -20,7 +20,6 @@ Comedian and [[people/robby-hoffman|Robby Hoffman]]'s co-host on the Patreon pod
 ## Key Takeaways
 
 - **Co-hosts [[projects/too-far|Too Far]] with Robby** — a Patreon-only podcast that the New York Times in October 2023 called *"addictive,"* grouping Rachel + Robby with Bobbi Althoff as a wave of new podcast voices (per Bustle, Oct 2023).
-- **Cystic acne** — Robby on the Bless These Braces episode (March 2024) names Rachel by reference: *"My co-host for my Too Far Pod has cystic acne. I think it's a lifelong battle."*
 - **Booking failure event:** Office Hours Live (Tim Heidecker, July 2024) originally booked Robby + Rachel as a pair; Rachel "flopped" (couldn't make it), and the producers reached for Robby solo — Robby's framing: *"You're like let's get the real star."*
 - **Episode formats:** Too Far runs ~3 episodes/month, $5/month Patreon-only, *"we do not accept corporate dollars as they won't give them to us."*
 
@@ -32,4 +31,4 @@ Comedian and [[people/robby-hoffman|Robby Hoffman]]'s co-host on the Patreon pod
 ## Sources
 
 - Referenced on the [[people/robby-hoffman|Robby Hoffman]] page in the Podcast section.
-- Cited in [[projects/too-far|Too Far]]'s page; covered in compiled sources Bustle 2023, Bless These Braces 2024, Office Hours Live 2024.
+- Cited in [[projects/too-far|Too Far]]'s page; covered in compiled sources Bustle 2023, Office Hours Live 2024.
