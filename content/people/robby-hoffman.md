@@ -152,23 +152,13 @@ Bernie Sanders supporter. Believes *"everybody's entitled to dignity"* and resen
 
 Robby is the **seventh of ten children** (per Guardian, May 2026). The ten kids were born across roughly **12.5 years** — densely grouped, not spread out. The family fled their father in Florida (where he'd briefly worked for grandfather Zadie) and ended up in Montreal under the care of great-uncle Eddie. Her mother **divorced** the father and moved the kids back to Montreal "between the ages of five and 11" — Robby is hazy on the exact age. **Robby has not spoken to her father since her early 20s.** Her mother woke at **5:30am** every morning to cook, clean and care for the kids — "emotionally absent" but "definitely physically present." See [[themes/family]] for the broader family dynamics.
 
-Named relatives mentioned across sources:
+Key relatives (full detail, the named sibling list, and sourcing on [[themes/family|the Family page]]):
 
-- **Mother (Constance / "Connie")** — born in Montreal, joined the Lubavitch movement in the 1970s, had ten kids by age 30, later became born-again Christian. Lives in or near Montreal. Per Tea Time (Jun 2025), full name is **Constance** — Robby wishes her happy birthday on-air using the full name: *"Her name is Constance. Happy birthday, Constance."* **Doesn't own a cell phone or follow pop culture** (per Anniewood Ep. 20, Mar 2023) — once mailed Robby six Cosby records + three CDs after they went on sale at HMV (years after the Cosby scandal broke; Connie hadn't heard). David Cross 2024 framing of her religious arc: *"My mother grew up with a very very close relationship with her father, then she married my father so she lived under a man… then they divorced and then her father died and now she found Jesus so she has a new Daddy and she loves it."*
-- **Father** — American, charismatic, charming, alcoholic, abusive; rarely seen; died after the parents had been divorced 15–20 years.
-- **Sister Kaya** — oldest. Lives in Scottsdale, Arizona with husband **Bruno**. Walked Robby out of the Emmys after Robby lost. Got the apartment-keeping-neat gene.
-- **Brother Schmuly** — security guard at a mall in Canada. Calls Gabby "toots." Idolizes [[people/tim-dylan|Tim Dylan]].
-- **Brother Manakim** — Robby borrows his pants.
-- **Brother (color-blind)** — works at FedEx.
-- **Sister D'vorah** — younger, meddler.
-- **Brother "Shanaer"** (phonetic, exact spelling unclear) — corporate-office worker who in March 2023 called Robby outraged that his employer had a Pride-month luncheon: *"The gay agenda is alive and well at work."* Robby cut him off: *"You know it's me. I'm a gay person."* His response: *"Well, not you — you're my flesh and blood; I'm talking about [other gay people]."*
-- **Sister [[people/yehudis-hoffman|Yehudis]]** *(earlier transcripts: "Y'hudis")* — younger; close to Uncle Eddie, Nicole Byer fan. **Now works as Robby's assistant** (We Got Company, Sep 2026) — *"literally living her life as Randi, who I play on Hacks."* See [[people/yehudis-hoffman|her page]].
-- **Sister Chaya** — in Scottsdale (named with Kaya in some tellings; possibly same person told differently).
-- **Niece Teddy** — named after great-uncle Eddie.
-- **Great-uncle Eddie ("Zadie Eddie," "Uncle Eddie")** — Montreal, took the mother and ten kids in on a moment's notice; diabetic, lived in a basement, died there in his 70s or 80s. The Hoffman family folk hero. See [[people/uncle-eddie|Uncle Eddie]].
-- **Grandfather Zadie / [[people/nathan-letovsky|Nathan Letovsky]]** — Canadian painter (Canadian landscape oils); arrived in Florida with French-Canadian ex-cop best friend Germaine to extract the family. *(Earlier transcripts spelled his name phonetically as "Lubovski"; FT 2026 print spelling is "Letovsky" — see [[people/nathan-letovsky|his page]].)*
-- **Sister Devorah** — appears in the bathroom photo in the FT profile. Likely the same sister transcribed phonetically as "D'vorah" in audio elsewhere. **Possibly also "Debs,"** the sister who drove the spare key through a whiteout on Robby's first night at [[career/country-house|the country house]] (Here To Make Friends, Sep 2026) — Devorah → Deborah → Debs is a natural reduction, but the source never connects them, so this is inference, not fact.
-- **Uncle Rob** — Vermont. The uncle whose name Robby took professionally. See [[people/uncle-rob]].
+- **Mother, Constance ("Connie")**: born in Montreal, joined the Lubavitch movement in the 1970s, had ten kids by age 30, later became a born-again Christian. Lives in Canada with one of Robby's brothers. Robby has said her mother is autistic.
+- **Father**: American, charismatic, alcoholic, abusive, mostly absent. Estranged since Robby's early 20s; living as of Robby's 2026 accounts (*"He's somewhere in Nevada,"* RIP Jordan Jensen, Mar 2026). *Correction (2026-09-24): this page previously said he had died; that line came from a misattributed Blocks transcript. See the [[themes/family#father|Family page]].*
+- **Siblings**: nine, six older and three younger. Named in interviews: [[people/kaya-hoffman|Kaya]] (oldest), [[people/schmuly-hoffman|Schmuly]], Menachem, D'vorah, [[people/yehudis-hoffman|Yehudis]] (now Robby's assistant) and others. Full list: [[themes/family#siblings|Family → Siblings]].
+- **Grandfather ("Zadie") [[people/nathan-letovsky|Nathan Letovsky]]**, a Canadian painter who got the family out of Florida; **great-uncle [[people/uncle-eddie|Eddie]]**, who took them in, in Montreal; **[[people/uncle-rob|Uncle Rob]]** in Vermont, whose name Robby took professionally; **niece Teddy**, named after Eddie.
+- **Children**: none. *"I'm not having kids. This is what I do"* ([[projects/south-beach-sessions|South Beach Sessions]], May 2026).
 - **Cat Nam.**
 - **Dog Nardo** — nearly nine, has an autoimmune condition (initially misdiagnosed as cancer); peanut-butter delivery for meds.
 

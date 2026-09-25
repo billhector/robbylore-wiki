@@ -8,6 +8,12 @@ publish: true
 
 Reverse-chronological record (newest first). Every compile, query, and lint pass logs here.
 
+## [2026-09-24] correction | Robby's father is living; family page restructured
+
+**Correction:** [[themes/family]] and [[people/robby-hoffman]] said Robby's father had died 15–20 years after the divorce. The claim traced to one unlabeled line in the [[projects/blocks|Blocks]] transcript, *"my dad died… they had been divorced 15 years earlier,"* spoken while Robby and [[people/neal-brennan|Neal Brennan]], both one of ten, compared families. It was most likely Neal about his own father. Robby's own statements contradict it: *"He's somewhere in Nevada"* (RIP Jordan Jensen, Mar 2026) and *"my father, who I don't speak to, so I can't ask him this"* (Here To Make Friends, Sep 2026). Both pages now carry a visible correction note.
+
+**Restructure:** [[themes/family]] reorganized around what readers search for (parents, siblings, kids), based on the Search Console baseline: an answer-first intro, six Key Takeaways, then Parents (Mother / Father), Siblings, Does Robby have kids?, Extended family, Growing up and Family today. No content was cut. The named sibling list moved here from the hub, which now keeps a summary and links to it. New sourced additions: the "not having kids" statements (South Beach Sessions; Tea Time), plus mother details (full name Constance, no cell phone, the David Cross religious-arc quote) moved over from the hub.
+
 ## [2026-09-24] structure | Grouped the bits index by theme
 
 `bits/` had grown to 27 pages under the standing write-a-page-per-bit rule, presented as one flat alphabetical list. Regrouped into six themed sections, each with a one-line framing note.
