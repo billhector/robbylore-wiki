@@ -14,7 +14,10 @@ source:
   - "[[raw/transcripts/2026-05-30 Is Top Surgery Right for You w Robby Hoffman AnnieWood Podcast Ep. 20 - Annie Lederman]]"
   - "[[raw/transcripts/2026-05-30 Calling My Family with Robby Hoffman FULL Episode]]"
   - "[[raw/transcripts/2026-05-30 Great-Uncle Eddie with Robby Hoffman (Bless These Braces Episode 3)]]"
-compiled: 2026-05-30
+  - "[[raw/transcripts/2026-09-24 Robby Hoffman Says Get a Girl a Gift]]"
+  - "[[raw/transcripts/2026-09-24 We Got Company Robby Hoffman]]"
+  - "[[raw/transcripts/2026-09-24 Robby Hoffman isn't filtering her comedy no matter who gets mad Newsmakers]]"
+compiled: 2026-09-24
 tags:
   - theme
   - family
@@ -51,6 +54,16 @@ publish: true
 - **Niece Teddy** is named after [[people/uncle-eddie|Uncle Eddie]].
 - The family found out about Robby's career in TV one project at a time; her brother Schmuly's biggest excitement was [[people/steve-carell|Steve Carell]] from The Office and [[people/tim-dylan|Tim Dylan]] from comedy.
 - Robby and Gabby host her brother in their LA house. Gabby's mother helps with the house.
+- **Her mother is autistic** (Here To Make Friends, Sep 2026). Robby says it directly, and cites her mother's own answer when asked what made her vulnerable to the religious recruitment: *"Well, if you're asking if I had any friends, the answer is no."* A loner who *"likes books and music"* in a decade when *"everybody was getting into something."* Robby calls her a **seeker** — *"if you are at the end of an escalator with a pamphlet, she will take it"* — and identifies with it: *"I'm like my mother in many ways."* See [[themes/orthodox-upbringing]].
+- **Her father, assembled secondhand** (Here To Make Friends): *"very charismatic and very popular and cool,"* and he had a car — which is how her mother tells the origin story: *"and he liked me."* Robby can't verify any of it: *"my father, who I don't speak to, so I can't ask him this."* She does claim the resemblance: *"I definitely feel a lot like him."*
+- **The mother's housing, offered and declined** (Here To Make Friends). Her mother lives in Canada with Robby's brother — a **single father** — and his **six-year-old daughter**, three people and **one bathroom**, the mother squabbling with the niece over mirror time. Robby offered the down payment on a three-bedroom two-bath if they'd carry the mortgage. Her mother rejected the house **over its bus route**: she needs to board early enough to get a seat and read on the way to the library. *"So that's not good enough."*
+- **The family is a mutual-aid network, not a one-way rescue.** *"A lot of my family is successful. It's not just me… my older siblings did this too. Now I feel like I'm rising up and it's time for me to step up. We all step up when we can."* Also the professional version, on [[projects/we-got-company|We Got Company]]: siblings in sales are told to use her name — *"why can't I nepo my family if I can?"*
+- **[[people/yehudis-hoffman|Yehudis]] now works for Robby** as her assistant, and books the cheapest flights available — *"we're still in that mentality."*
+- **The snowstorm rescue** (Here To Make Friends): her sister **Debs** drove a whiteout mountain route in a Nissan Versa to bring a spare key on Robby's first night at [[career/country-house|the country house]]. Robby's response to the offer of help was guilt, not relief — *"I sacrificed my sister for the car."* Possibly the sister recorded elsewhere as Devorah; unconfirmed.
+- **Nobody watched her perform as a kid**, and it shaped her nerves permanently (We Got Company). A single mother of ten didn't make recitals, plays or parent-teacher nights — at one point a teacher demanded proof a parent existed. *"I'm like, unless I'm failing, she's not coming."* Her mother came, was told there was no problem, and asked: *"How do you drag me to the school and there's no problem?"* Consequence: *"I got very comfortable not being watched… 10,000 people I don't know, I take that any day over you and my sister just there."*
+- **Her mother's note on the material** (We Got Company): *"you never tell them I tried, you never tell them I did the best I could."* Robby: *"Ma, that's not the joke."* Then, for the record: *"that's the best she could. I wouldn't tell anyone that. It wasn't great."* She is also *"extremely proud"* and lets Robby use whatever she needs.
+- **A little sister's late walk home from Starbucks** (NPR Newsmakers, Sep 2026) — the sister closed a Starbucks open until at least midnight and walked or took the last subway through *"a really sketchy few blocks,"* getting through them by imitating a physical disability or carrying an umbrella rain or shine to read as unwell. Robby was genuinely worried about her and also found it funny: *"they were heartbreaking at the time."* She made it a bit and later retired it — the only bit she's said on record that she stopped doing. *"It's offensive and it also sucks to be poor."* See [[projects/newsmakers]].
+- **Moved out at 17**, as most of the siblings did (We Got Company). The line she gave a 19-year-old sister at her wits' end: *"just 'cause you don't have a kid doesn't mean you don't have a dependent. You have a 19-year-old kid that you have to keep fed, educated, fulfilled. It is a thankless job."*
 
 ## Why it matters
 
@@ -63,6 +76,9 @@ publish: true
 - [[themes/money]]
 - [[people/uncle-eddie]]
 - [[career/montreal-flight]]
+- [[people/yehudis-hoffman]]
+- [[people/uncle-rob]]
+- [[career/country-house]]
 
 ## Sources
 
@@ -80,3 +96,6 @@ publish: true
 - [Calling My Family with Robby Hoffman | FULL Episode](https://www.youtube.com/watch?v=pD63tRyOSyc) — Live From Bed, Jade Iovine, 2025-08-28; Schmuly in Saskatchewan; pro-German-Shepherd advocacy; Labradoodle as *"useless"*; cat **Numb** named.
 - [Great-Uncle Eddie with Robby Hoffman (Bless These Braces Ep. 3)](https://www.youtube.com/watch?v=apNV3f_ytnE) — Funny Or Die / Tam, 2024-03-12; *"first girl in family to have a bat mitzvah"*; mother on guitar for older sisters' coming-of-age; the long-tunic + turtleneck uniform.
 - [RIP Jordan Jensen — Episode 60: Robby Hoffman](https://www.youtube.com/watch?v=s5IupO8t1Z4) — Jordan Jensen, 2026-03-23; the **annual-doctor-checkup-in-underwear** scene; **Menachem flagged underweight**; **Khaya's *"if the queen invited you for dinner"* line.**
+- [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, Liz Feldman + Jessi Klein, 2026-09-15; **mother named as autistic** and as a "seeker"; the father's charisma and car, reconstructed secondhand; the **declined down payment** and the bus-route reason; the brother-as-single-father + six-year-old-niece household; the **Debs snowstorm rescue**; family-as-mutual-aid framing. See [[projects/here-to-make-friends]].
+- [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; **[[people/yehudis-hoffman|Yehudis]] as Robby's assistant** and the "nepo my family" policy; nobody-watched-her-perform and its effect on her nerves; the mother's "you never tell them I tried" note; moved out at 17; sister [[people/kaya-hoffman|Kaya]] + husband Bruno as Maniscalco fans. See [[projects/we-got-company]].
+- [Robby Hoffman isn't filtering her comedy — no matter who gets mad | Newsmakers](https://www.youtube.com/watch?v=4Xm4GhA9eSs) — NPR, Juana Summers, 2026-09-03; the mother's 12-year degree retold with a sibling's *"definition of putting one foot in front of the other"* summation; the mother's not-emotionally-available-but-present register; the **little sister's late Starbucks walk home**. See [[projects/newsmakers]].

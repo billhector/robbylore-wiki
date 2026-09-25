@@ -33,3 +33,4 @@ publish: true
 - [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — Whitney intro; Arizona.
 - [Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner | Talk Easy](https://www.youtube.com/watch?v=GEN-gQ8sJx8) — gave Robby the sheets.
 - [How to Pull Rich Men & Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman](https://www.youtube.com/watch?v=kKrxnRu_zGk) — passing reference.
+- [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; Kaya and her French husband **Bruno** as [[people/sebastian-maniscalco|Maniscalco]] fans — they made shirts, bought VIP tickets, and his show was the first stand-up Bruno ever saw. Robby cites it as the reason she broke her own rule against approaching comedians. See [[projects/we-got-company]].

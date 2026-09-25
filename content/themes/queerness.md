@@ -10,7 +10,10 @@ source:
   - "[[raw/articles/2026-05-30 Comedian Robby Hoffman Isn't Exactly Happy To Be Here]]"
   - "[[raw/transcripts/2026-05-30 Being Outed to Your Jewish Community (with Robby Hoffman)]]"
   - "[[raw/transcripts/2026-05-30 Bein' Ian With Jordan Ep115 The In-between W Robby Hoffman]]"
-compiled: 2026-05-30
+  - "[[raw/transcripts/2026-09-24 Robby Hoffman isn't filtering her comedy no matter who gets mad Newsmakers]]"
+  - "[[raw/transcripts/2026-09-24 Robby Hoffman Says Get a Girl a Gift]]"
+  - "[[raw/transcripts/2026-09-24 We Got Company Robby Hoffman]]"
+compiled: 2026-09-24
 tags:
   - theme
   - queerness
@@ -40,6 +43,13 @@ publish: true
 - **First girlfriend** — graffitied buildings in Montreal, smoked weed, wore layered clothing; pressured Robby to come out to her conservative Jewish-school friend group. Held Robby's hand on Metro platforms; Robby would jump trains to avoid being seen. First breakup at 19 — Robby lost 9 lbs.
 - **"Adam and Steve" sister anecdote** — at 12-13, when Robby asked an older sister about gay people, the sister replied: *"Well, if Hashem wanted there to be gay people, he would have made Adam and Steve, not Adam and Eve."* Pre-coming-out Robby thought this was airtight logic.
 - **They/them pronouns "are not seamless"** (Tom Papa, Breaking Bread, Aug 2025) — extended segment where Robby argues the singular *they* trips on grammar in a way that makes the politeness ask harder than its advocates claim. Continues the Bein' Ian *"Jihad against semantics"* line but framed more conciliatorily.
+- **"If I can't talk about it, who can?"** (NPR Newsmakers, Sep 2026) — the fullest engagement with the criticism, including the *dangerous*-not-merely-offensive version of it, which she partly concedes. Her claim of standing: *"somebody who's clearly in the queer space, who cut my tits off, who could be they/them at the drop of a hat."* Full treatment on [[bits/no-backsies-they-them]].
+- **The outing, mechanism confirmed** (Here To Make Friends, Sep 2026). A second independent telling matches the Made It Out account — student-bar bathroom, the *end* of an embrace seen by a classmate, one person told, *"it spread like wildfire."* New in this version: her mother's approach was to write her **two rhyming poems** asking if she was gay; her father then sent her to a psychiatrist, and Robby went only on the condition he came too. The therapist said Robby didn't need therapy and recommended the parents stay on. Now broken out to [[career/outed-at-17]].
+- **She never came out, and probably never would have.** *"I realized when Gabby came out, my wife came out. I never came out. I was outed."* On the counterfactual: *"I don't know if I would have come out really. I probably just would have got gay enough that you knew"* — the comparison offered is someone who never announces a pregnancy and just *"gets pregnant enough."*
+- **"In the early '90s, boy, did I not want to be gay."** (Here To Make Friends) — and the timing compounds: *"every year at that time… every year is like a decade of that."* People knew before she did: *"People said I'm gay before I said I'm gay, 'cause I didn't want to be."*
+- **Boyfriends first, including a male model** (Here To Make Friends) — *"guys liked me."* Consistent with the pre-outing self-monitoring she describes on [[projects/the-political-scene]]: sitting "more girly" as a teenager specifically to keep a boyfriend in play.
+- **Lesbian cultural taxonomy as a running bit.** The potluck is *"very lesbian and we started a bad thing"* ([[bits/bring-nothing]]); so is a ring pop as a girlfriend-ask ([[bits/ring-pop]]); so is an incantation circle at a birthday. *"Lesbians love that."*
+- **The "protective class" argument, first aimed at bisexuals.** (We Got Company, Sep 2026) — coming up in Toronto the pushback was *"why are you making fun of bisexuals?"*, and her answer already contained the current one: *"even me as a dyke somewhere on the gender spectrum… why are we this protective class of, oh, I'm so delicate?"*
 
 ## Why it matters
 
@@ -52,6 +62,8 @@ Robby's queerness reads as **proud, butch, and old-school** in a wave of comedy 
 - [[career/top-surgery]]
 - [[bits/testing-god-by-being-gay]]
 - [[bits/no-backsies-they-them]]
+- [[career/outed-at-17]]
+- [[bits/ring-pop]]
 
 ## Sources
 
@@ -64,3 +76,6 @@ Robby's queerness reads as **proud, butch, and old-school** in a wave of comedy 
 - [Comedian Robby Hoffman Isn't Exactly Happy To Be Here](https://www.bustle.com/entertainment/robby-hoffman-interview) — Bustle, Lizzie Logan, 2023-10-26; the *"I never got to come out gay"* framing and androgyny-as-announcement argument.
 - [Being Outed to Your Jewish Community (with Robby Hoffman)](https://www.youtube.com/watch?v=uRBnECCc9zU) — Made It Out, Mal Glowenke, 2024-07-16; the *Walk-to-Remember* outing scene; Ally + Malay loyalty; "ashamed to the day I die" anti-Pride core; "Adam and Steve" sister logic; first-girlfriend graffitier; almost-married-rich temptation; joint *View* coming-out framing.
 - [Bein' Ian With Jordan Ep115](https://www.youtube.com/watch?v=N4pKDysxY_s) — Bein' Ian with Jordan, 2024-10-09; Robby's "Jihad against semantics" on pronouns + gender labels — *"I cut my tits off. I'm biologically a woman. I just like to feel how I want to feel for myself."*
+- [Robby Hoffman isn't filtering her comedy — no matter who gets mad | Newsmakers](https://www.youtube.com/watch?v=4Xm4GhA9eSs) — NPR, Juana Summers, 2026-09-03; the *"if I can't talk about it, who can?"* defense and the "dangerous" concession. See [[projects/newsmakers]].
+- [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, 2026-09-15; second independent telling of the outing (plus the **two rhyming poems** and the father-mandated psychiatrist), the *"got gay enough that you knew"* counterfactual, the early-'90s timing, and the male-model boyfriend. See [[career/outed-at-17]] and [[projects/here-to-make-friends]].
+- [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; the Toronto-era bisexual-jokes pushback as the first version of the protective-class argument. See [[projects/we-got-company]].

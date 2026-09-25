@@ -22,6 +22,8 @@ Robby Hoffman and the cast of characters who appear repeatedly across her work, 
 - [[people/uncle-eddie|Uncle Eddie]] — the great-uncle who took in the family in Montreal.
 - [[people/kaya-hoffman|Kaya Hoffman]] — oldest sister.
 - [[people/schmuly-hoffman|Schmuly Hoffman]] — older brother.
+- [[people/yehudis-hoffman|Yehudis Hoffman]] — younger sister; now Robby's assistant.
+- [[people/uncle-rob|Uncle Rob]] — the Vermont uncle whose name became her stage name.
 
 ## Collaborators + orbit
 
@@ -35,6 +37,7 @@ Robby Hoffman and the cast of characters who appear repeatedly across her work, 
 - [[people/jordan-jensen|Jordan Jensen]] — co-host of Bein' Ian with Jordan + host of RIP Jordan Jensen; gender-semantics sparring partner turned reconciled friend.
 - [[people/rachel-bloom|Rachel Bloom]] — comedian / Crazy Ex-Girlfriend creator; joint Lovett or Leave It guest with Robby.
 - [[people/steph-tolev|Steph Tolev]] — comedian, Bill Burr Friends Who Kill alum, Robby's former LA roommate; pre-Gabby era.
+- [[people/sebastian-maniscalco|Sebastian Maniscalco]] — comedian, host of We Got Company; one of Robby's stated idols.
 
 ## Hacks creators + cast
 

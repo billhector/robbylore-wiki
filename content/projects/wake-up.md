@@ -13,7 +13,10 @@ source:
   - "[[raw/transcripts/2026-05-30 RIP Jordan Jensen - Episode 60 Robby Hoffman]]"
   - "[[raw/transcripts/2026-06-20 Robby Hoffman South Beach Sessions with Dan Le Batard]]"
   - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
-compiled: 2026-05-30
+  - "[[raw/transcripts/2026-07-15 The New Yorker's The Political Scene Everything Funny Hurts a Little Cascade PBS Ideas Festival]]"
+  - "[[raw/transcripts/2026-09-24 Robby Hoffman Says Get a Girl a Gift]]"
+  - "[[raw/transcripts/2026-09-24 We Got Company Robby Hoffman]]"
+compiled: 2026-09-24
 tags:
   - project
   - stand-up
@@ -34,7 +37,12 @@ publish: true
 - Directed by [[people/john-mulaney|John Mulaney]], who Robby says "begged" to direct it once Netflix got interested. The pitch arrived as an **unsolicited text** Mulaney sent via Dan Levy — Robby read it verbatim on South Beach Sessions (May 2026); see [[people/john-mulaney]].
 - Robby calls the production a "stay ready, don't have to get ready" moment — *"by the time they said come do the special, it's like turning on the lights and walking into your apartment."*
 - Robby quit vaping for the taping. *"We vaped for the last time on my special."*
-- Watch party at Robby's house in December 2025 was where she learned of [[people/rob-reiner|Rob Reiner]]'s death — from [[people/tim-dylan|Tim Dylan]].
+- Watch party at Robby's house in December 2025 was where she learned of [[people/rob-reiner|Rob Reiner]]'s death — from [[people/tim-dylan|Tim Dylan]]. **She threw it instead of a premiere** (Here To Make Friends, Sep 2026): family and friends at her apartment, a **private bartender in the living room**, food in the kitchen, and the instruction *"bring nothing"* — see [[bits/bring-nothing]]. She'd banked the idea years earlier from a friend's party and assumed a home bar cost **$10,000**; it cost **$400** for the evening. Her reasoning for skipping the premiere: *"Guys, we need money."*
+- **"Mulaney begged me to direct"** is now something Robby actively corrects on the record (We Got Company, Sep 2026): *"People are going to say, how did I get Mulaney? But really, the story is Mulaney, how did he get me?"* See [[people/john-mulaney]].
+- **The production had no budget and no venue choice.** *"They're like, we have no dollars, you're filming it here."* She was fine with it — *"I don't need the pyrotechnics. I just need to do great work"* — and was surprised by how much the stage designer delivered anyway: *"they were like, do you like this stage or this stage?"*
+- **A limited vinyl pressing** is coming (Here To Make Friends, Sep 2026). Robby hand-signed five and *"screwed up a couple of them. It is what it is. This is a limited edition. You either get it or you don't."*
+- **It's what made [[people/sebastian-maniscalco|Sebastian Maniscalco]] a fan** — he says he didn't know who she was before the special and, against his own five-minute rule for unproven comedians, watched the whole thing.
+- **The backlash inventory:** of everything in the special, the only group that organized against her was **the pit bull community** — the abortion-age-of-10 joke drew nothing (The Political Scene, Jul 2026). The pedophilia joke is the one she says she wishes she didn't have: *"I wish I never knew what it was, but alas, I do."*
 - Press tour included [[projects/call-her-daddy|Call Her Daddy]], [[projects/talk-easy|Talk Easy]], [[projects/long-winded|Long Winded]], [[projects/etalk|Etalk]], [[projects/blocks|Blocks]], [[projects/not-skinny-but-not-fat|Not Skinny But Not Fat]], and a Kimmel couch appearance the week of release.
 
 ## Reception
@@ -65,3 +73,6 @@ publish: true
 - [RIP Jordan Jensen — Episode 60: Robby Hoffman](https://www.youtube.com/watch?v=s5IupO8t1Z4) — Jordan Jensen, 2026-03-23; the secondary press-surge context (View + Seth Meyers same week); the *"between Gervais and Rife"* holiday-slot self-rating.
 - [Robby Hoffman | South Beach Sessions with Dan Le Batard](https://www.youtube.com/watch?v=aUAS9EYnDhM) — Dan Le Batard, 2026-05-28; Robby reads the verbatim Mulaney text that set the special in motion.
 - [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; the WGA-meeting → Mulaney → Wake Up directorship chain retold for Birbiglia.
+- [The New Yorker's The Political Scene: Everything Funny Hurts a Little | Cascade PBS Ideas Festival](https://www.youtube.com/watch?v=MjMildeau0k) — Cascade PBS, Tyler Foggatt, 2026-07-07; the backlash inventory (pit bulls organized, pro-lifers didn't) and the pedophilia joke she wishes she didn't have. See [[projects/the-political-scene]].
+- [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, 2026-09-15; the watch-party-instead-of-a-premiere with the $400 bartender, and the hand-signed limited vinyl. See [[projects/here-to-make-friends]].
+- [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; *"Mulaney begged me to direct the special"*; the no-budget production and the stage designer; Maniscalco's own discovery of Robby through the special. See [[projects/we-got-company]].

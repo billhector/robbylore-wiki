@@ -48,7 +48,11 @@ source:
   - "[[raw/transcripts/2026-06-20 The Robby Hoffman (again)]]"
   - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
   - "[[raw/transcripts/2026-06-27 Robby Hoffman Growing Up Poor Never Leaves You The Interview]]"
-compiled: 2026-05-30
+  - "[[raw/transcripts/2026-07-15 The New Yorker's The Political Scene Everything Funny Hurts a Little Cascade PBS Ideas Festival]]"
+  - "[[raw/transcripts/2026-09-24 Robby Hoffman Says Get a Girl a Gift]]"
+  - "[[raw/transcripts/2026-09-24 Robby Hoffman isn't filtering her comedy no matter who gets mad Newsmakers]]"
+  - "[[raw/transcripts/2026-09-24 We Got Company Robby Hoffman]]"
+compiled: 2026-09-24
 tags:
   - robby-hoffman
   - person
@@ -74,13 +78,22 @@ Married to [[people/gabby-windey|Gabby Windey]] (eloped Vegas, 2025).
 - 2025: Netflix special [[projects/wake-up|Wake Up]] (Dec 14, directed by [[people/john-mulaney|John Mulaney]]). Emmy nomination for [[projects/hacks|Hacks]] (six lines of dialogue) — the **Randi** role was written specifically for her by Hacks creators [[people/lucia-aniello|Lucia Aniello]], [[people/paul-w-downs|Paul W. Downs]] and [[people/jen-statsky|Jen Statsky]].
 - Married [[people/gabby-windey|Gabby Windey]] (former [[projects/the-bachelorette|Bachelorette]], [[projects/the-traitors|Traitors]] winner, ICU nurse) — proposed via [[bits/proposing-via-crossword|crossword puzzle]], eloped Vegas with the $799 chapel package.
 - [[career/top-surgery|Top surgery]] in her early 30s; held to her self-imposed [[bits/two-year-decision-rule|"two-year rule"]] for permanent decisions.
-- Self-described as autistic: *"I'm to autism what Magic Johnson is to AIDS — undetectable."*
+- Self-described as autistic: *"I'm to autism what Magic Johnson is to AIDS — undetectable."* **Her mother is autistic** too, per Here To Make Friends (Sep 2026) — stated plainly, with the mother's own corroboration.
+- **Rents in the city, owns in the country** — see [[career/country-house]]. *"You rent in the city and you buy out."*
+- **First stage time was one minute long** and she was refused the other four — see [[career/first-open-mic]]. She came back the next week.
+- **Worked the pandemic out of a $1,500 van** — see [[career/pandemic-van-tour]].
+- **Outed at 17; says she never came out** — see [[career/outed-at-17]].
 
 ## Identity
 
 ### Name
 
-Full legal name: **Rivkah Sarah Hoffman** (per Wikipedia + Robby's verified Instagram, August 2024). Goes by **Robby** publicly; family still uses **Rifka** / **Rivkah** at home. *"Robby"* is the diminutive that stuck once she started writing professionally.
+Full legal name: **Rivkah Sarah Hoffman** (per Wikipedia + Robby's verified Instagram, August 2024). Goes by **Robby** publicly; family still uses **Rifka** / **Rivkah** at home. She also addresses her own childhood self as *"little Riv"* and *"Lil Rob"* — see [[bits/lil-rob]].
+
+**"Robby" is [[people/uncle-rob|Uncle Rob]]'s name.** Per We Got Company (Sep 2026): *"That's why I went by Robby, 'cause I was born with my Jewish name… So I took my uncle's name, Uncle Rob. Nobody ever said anything bad about my Uncle Rob. Lived in Vermont. Nice guy."* The choice was practical — she was still at the accounting firm and stand-up was a fireable secret, so the name was cover. It failed: a short write-up in a Montreal paper got back to the firm. *"Is this you?"*
+
+> [!warning] Contradiction — superseded
+> This page previously stated that *"Robby"* was *"the diminutive that stuck once she started writing professionally."* That was an inference. Robby's own 2026 account is a deliberate adoption of a specific relative's name, made **before** the writing career and for a concrete reason. Treat the first-person account as authoritative.
 
 ### Born
 
@@ -100,7 +113,7 @@ Self-describes as autistic, including a recurring claim that she has "cracked" o
 
 ### Politics
 
-Bernie Sanders supporter. Believes *"everybody's entitled to dignity"* and resents being held up as a poverty-to-success exception: *"You shouldn't have to be this special, you shouldn't have to be this talented."*
+Bernie Sanders supporter. Believes *"everybody's entitled to dignity"* and resents being held up as a poverty-to-success exception: *"You shouldn't have to be this special, you shouldn't have to be this talented."* Her fullest statement of position is the July 2026 [[projects/the-political-scene|Political Scene]] live taping — *"I've never been red or blue. I am for the people, by the people, of the people to the day I die"* — now broken out to [[themes/politics]].
 
 ### Operating posture (running quote bank)
 
@@ -116,13 +129,23 @@ Bernie Sanders supporter. Believes *"everybody's entitled to dignity"* and resen
 - *"My audience is very obedient to me, the way I like them."*
 - **Comedy style she names:** *"small grievances"* — issues she can leave on stage and then go enjoy her life.
 - **The Bethenny Frankel maxim** she lives by: *"you roll it into the batter."*
-- **Glasses + hair:** both unchanged for 10+ years. *"Once I found them, that's it, I'm not looking for glasses again."*
+- **Glasses + hair:** both unchanged for 10+ years. *"Once I found them, that's it, I'm not looking for glasses again."* Worn **since the fourth grade**; prescription is **-3.5 and -3.0** and the sunglasses are prescription too (*"a massive issue"*). She wore contacts for a while and quit — partly laziness, partly stretching the solution to make it last. Underneath: *"I have beautiful green eyes. A lot of people don't know this."*
 - **Agent:** *"Mark"* (first name only, Bustle 2023).
 - *"I am the expert in me. I am a PhD in me."* (South Beach Sessions, May 2026) — the self-parenting thesis: with nothing else to rely on as a kid, she invested in the one asset she had. *"Why would I mistreat me? I'm a paying customer… I'm the one who showed up."*
 - *"You don't choose your family — but with marriage, you do. One time, you get to pick your family."* (Working It Out, Jun 2026) — marriage as the family she chose; see [[themes/marriage]].
 - *"I don't think being offended is the worst thing. I think being poor is."* (NYT The Interview, Jun 2026) — *"I was born offended. My whole circumstance was offensive."* The line that titles the Guardian profile, stated direct.
 - *"The rich weird is way weirder and worse… there's a humanity that's missing."* (NYT The Interview, Jun 2026) — poor households share the fridge ("take, take"); rich houses have the biggest fridge but nobody's allowed in. Generosity as the class tell. See [[themes/money]].
 - *"Comedy chooses you."* (NYT The Interview / 2014 TEDx) — and the stage as home: *"when everything goes black in the room and the lights are on me, I feel like I'm in a womb."* She paints in Jackson-Pollock scale now, working theaters.
+- *"I literally only had me… It's not ideal. It's not great… but it's not nothing. It's close."* (We Got Company, Sep 2026) — the fullest version of the self-as-only-asset thesis. Its corollary, on early empty rooms: *"they're the ones who came. Why are we mad at them? … That's how I felt about me. I was here. I'm not going to be hard on me."*
+- *"He gave me this one… I got a weird car and I'm like, you know what? I think I can drive this thing."* (We Got Company) — on being assigned an unusual self. *"Not everybody could be given this and work it out."*
+- *"Starting stand-up was my voice. So then the material came after."* (We Got Company) — the inversion of the ten-years-to-find-your-voice advice. Whatever the subject, it *"went through me… like an Instagram filter."*
+- *"It's like Plinko. I have a slot for all the things I can do and I don't have to lose them."* (We Got Company) — on stand-up, scripts, acting and animation as destinations for ideas.
+- *"Every day I don't wake up with the alarm and have to take the subway to work is a miracle… it's not gotten old."* (We Got Company) — the luxury she actually names. She won't queue for ice cream and gets *"depressed for them"* watching people who do.
+- *"It's a thankless job to take care of yourself… you have a 19-year-old kid that you have to keep fed, educated, fulfilled."* (We Got Company) — advice given to a struggling younger sister; the self-as-dependent frame. See [[bits/lil-rob]].
+- *"If I can't talk about it, who can?"* (NPR Newsmakers, Sep 2026) — the core defense of her non-binary material. See [[bits/no-backsies-they-them]].
+- *"That was the same me in third grade… And you know what, baby? We've monetized it."* (NPR Newsmakers) — on a lifetime of getting in trouble for talking.
+- *"I don't talk about beach balls. I don't have anything on beach balls."* (NPR Newsmakers) — her formulation for the difference between off-limits and simply untouched.
+- *"I would love to. I'd be excellent at it. Call me."* (NPR Newsmakers) — on hosting a network late-night show. Caveats: she can't read a teleprompter (vision, and *"I just go off"*), so *"if you're going to hire me, it's at your own risk."*
 
 ## Family
 
@@ -138,12 +161,13 @@ Named relatives mentioned across sources:
 - **Brother (color-blind)** — works at FedEx.
 - **Sister D'vorah** — younger, meddler.
 - **Brother "Shanaer"** (phonetic, exact spelling unclear) — corporate-office worker who in March 2023 called Robby outraged that his employer had a Pride-month luncheon: *"The gay agenda is alive and well at work."* Robby cut him off: *"You know it's me. I'm a gay person."* His response: *"Well, not you — you're my flesh and blood; I'm talking about [other gay people]."*
-- **Sister Y'hudis** — younger, close to Uncle Eddie, Nicole Byer fan.
+- **Sister [[people/yehudis-hoffman|Yehudis]]** *(earlier transcripts: "Y'hudis")* — younger; close to Uncle Eddie, Nicole Byer fan. **Now works as Robby's assistant** (We Got Company, Sep 2026) — *"literally living her life as Randi, who I play on Hacks."* See [[people/yehudis-hoffman|her page]].
 - **Sister Chaya** — in Scottsdale (named with Kaya in some tellings; possibly same person told differently).
 - **Niece Teddy** — named after great-uncle Eddie.
 - **Great-uncle Eddie ("Zadie Eddie," "Uncle Eddie")** — Montreal, took the mother and ten kids in on a moment's notice; diabetic, lived in a basement, died there in his 70s or 80s. The Hoffman family folk hero. See [[people/uncle-eddie|Uncle Eddie]].
 - **Grandfather Zadie / [[people/nathan-letovsky|Nathan Letovsky]]** — Canadian painter (Canadian landscape oils); arrived in Florida with French-Canadian ex-cop best friend Germaine to extract the family. *(Earlier transcripts spelled his name phonetically as "Lubovski"; FT 2026 print spelling is "Letovsky" — see [[people/nathan-letovsky|his page]].)*
-- **Sister Devorah** — appears in the bathroom photo in the FT profile. Likely the same sister transcribed phonetically as "D'vorah" / "Y'hudis" in audio elsewhere.
+- **Sister Devorah** — appears in the bathroom photo in the FT profile. Likely the same sister transcribed phonetically as "D'vorah" in audio elsewhere. **Possibly also "Debs,"** the sister who drove the spare key through a whiteout on Robby's first night at [[career/country-house|the country house]] (Here To Make Friends, Sep 2026) — Devorah → Deborah → Debs is a natural reduction, but the source never connects them, so this is inference, not fact.
+- **Uncle Rob** — Vermont. The uncle whose name Robby took professionally. See [[people/uncle-rob]].
 - **Cat Nam.**
 - **Dog Nardo** — nearly nine, has an autoimmune condition (initially misdiagnosed as cancer); peanut-butter delivery for meds.
 
@@ -184,6 +208,13 @@ See [[career/index|Career index]] for the timeline. Highlights:
 - [[bits/jesus-loves-me|"Jesus loves me"]] — counter-move with her born-again mother.
 - [[bits/ai-is-autistic|"AI is autistic"]] — 2026 touring premise; AI is on the spectrum because its architects are.
 - [[bits/bros-before-hoes|"Bros before hoes"]] — joke name for how fundamentalist religion subordinates women.
+- [[bits/zero-personality-disorder|Zero personality disorder]] — the diagnosis for weekend hobbyists.
+- [[bits/eggs-on-the-bus|Boiled eggs on the bus]] — sustenance, and a guaranteed empty seat.
+- [[bits/crispy-towels|Crispy towels]] — the towel that exfoliates; you don't inherit a towel.
+- [[bits/girls-need-gifts|Girls need gifts]] — against the birthday charity donation; bring back cash in a card.
+- [[bits/bring-nothing|Bring nothing]] — the hosting doctrine and the anti-potluck position.
+- [[bits/ring-pop|The ring pop]] — thirteen days in, the girlfriend ask.
+- [[bits/lil-rob|Lil Rob]] — reporting back to her childhood self on the progress.
 
 ## Possessions she names
 
@@ -195,7 +226,9 @@ See [[career/index|Career index]] for the timeline. Highlights:
 - **Signed copy of John Mulaney's *Baby J* comedy special.**
 - **Sylvia Plath, *The Bell Jar* (early edition)** — her recent gift to [[people/gabby-windey|Gabby]].
 - **Old cars** — currently on her third. First was a 1983 Toyota Corolla.
-- **A little house / writer's cabin in the mountains** — bought 2023 (per Interview, Feb 2025). Robby raking and clearing brush; [[people/gabby-windey|Gabby]] sunbathing nude in a "Carrie in the country from *Sex and the City*" reference Robby made her watch.
+- **A little house / writer's cabin in the mountains** — bought 2023 (per Interview, Feb 2025). Robby raking and clearing brush; [[people/gabby-windey|Gabby]] sunbathing nude in a "Carrie in the country from *Sex and the City*" reference Robby made her watch. Per Here To Make Friends (Sep 2026) this is very likely **[[career/country-house|the country house]]** she describes buying after years of saving — first thing she ever owned, and the site of her sister's snowstorm rescue. **The city apartment is a rental** — *"you rent in the city and you buy out"* — independently confirmed by a landlord calling her mid-interview on NPR.
+- **A $1,500 van** — bought during the pandemic, bed in the back, driven through the South for gigs when everything else was closed. See [[career/pandemic-van-tour]].
+- **Prada shoes** — a Christmas present from [[people/gabby-windey|Gabby]], *"something I've always wanted since a kid."* Her second-ever Christmas; by Sep 2026 she's done three.
 - **Nalgene water bottle from A24.**
 - **BB gun** — Christmas gift from [[people/gabby-windey|Gabby]]. Kept at the writer's cabin.
 - **Cat named Numb** (per Live From Bed, Aug 2025) — *"I don't know how I got that name."*
@@ -203,7 +236,7 @@ See [[career/index|Career index]] for the timeline. Highlights:
 
 ## Themes she returns to
 
-[[themes/orthodox-upbringing]] · [[themes/family]] · [[themes/queerness]] · [[themes/money]] · [[themes/marriage]] · [[themes/dating]] · [[themes/canada]]
+[[themes/orthodox-upbringing]] · [[themes/family]] · [[themes/queerness]] · [[themes/money]] · [[themes/marriage]] · [[themes/dating]] · [[themes/canada]] · [[themes/politics]]
 
 ## Sources
 
@@ -257,3 +290,7 @@ See [[career/index|Career index]] for the timeline. Highlights:
 - [The Robby Hoffman (again)](https://www.youtube.com/watch?v=MtGONwT6698) — [[projects/long-winded|Long Winded with Gabby Windey]], 2026-06-18; second Robby-on-Gabby's-pod episode; relationship/design dynamics, dating call-in advice, Gabby-as-novelist, helped a brother buy a home.
 - [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; fullest WGA-speech telling; "marriage is a hack"; Crown Heights/Lubavitch/kippah-as-ego; new material (AI-is-autistic, bros-before-hoes). See [[projects/working-it-out]].
 - [Robby Hoffman: Growing Up Poor Never Leaves You | The Interview](https://www.youtube.com/watch?v=GNPDXbpaXlE) — NYT The Interview, Lulu Garcia-Navarro, 2026-06-27; "being offended isn't the worst thing, being poor is" stated direct; rich-weird-vs-poor-weird; mother taking on the male religious commandments after the father left; the Hacks Yiddish-line criticism; "choose your family" via Gabby; "comedy chooses you." See [[projects/the-interview]].
+- [The New Yorker's The Political Scene: Everything Funny Hurts a Little | Cascade PBS Ideas Festival](https://www.youtube.com/watch?v=MjMildeau0k) — Cascade PBS, Tyler Foggatt, 2026-07-07; the fullest political statement (classism-is-the-conversation, people-versus-power, Mamdani/Bernie, Trump-is-funny-but-dumb); the pit-bull and celiac backlashes; *Hacks* arc credit ("nothing") and the Adam-Sandler-not-Meryl-Streep acting self-assessment; the other Robby Hoffman running for president. See [[projects/the-political-scene]] and [[themes/politics]].
+- [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, Liz Feldman + Jessi Klein, 2026-09-15; **parents were Conservative, not Reform** (correction); **mother named as autistic**; father's charisma; fullest [[career/outed-at-17|outing-at-17]] account (two rhyming poems, the father-mandated psychiatrist); the [[bits/ring-pop|ring-pop]] girlfriend ask at 13 days; [[career/country-house|the country house]] purchase and the snowstorm rescue; the $400 Wake-Up-watch-party bartender; mother's refusal of a down-payment over a bus route. See [[projects/here-to-make-friends]].
+- [Robby Hoffman isn't filtering her comedy — no matter who gets mad | Newsmakers](https://www.youtube.com/watch?v=4Xm4GhA9eSs) — NPR, Juana Summers, 2026-09-03; the they/them "dangerous" exchange and *"if I can't talk about it, who can?"*; the **retired Starbucks bit** (her only one on record); fullest [[career/wga-strike-speech|WGA-meeting]] telling; [[career/first-open-mic|first open mic]] (Morgan O'Shea's loft); the late-night-hosting pitch; braces-as-class-tell; mid-interview landlord call. See [[projects/newsmakers]].
+- [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — [[people/sebastian-maniscalco|Sebastian Maniscalco]], 2026-09-24; **stage-name origin ([[people/uncle-rob|Uncle Rob]], Vermont)**; [[career/pandemic-van-tour|the $1,500 pandemic van]]; *"Mulaney begged me to direct the special"*; [[projects/i-m-nervous|I'm Nervous]] commission terms (CAD $25k, six weeks, first-ever hour); the anti-clipping stance and "I'm huge on TikTok, I don't have TikTok"; [[projects/odd-squad|Odd Squad]] as film school; the fine-arts-school refusal; [[people/yehudis-hoffman|Yehudis]] as her assistant; glasses prescription; date-in-your-class; no-alarm-clock luxury. See [[projects/we-got-company]].

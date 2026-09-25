@@ -26,3 +26,4 @@ publish: true
 ## Sources
 
 - [Comedian Robby Hoffman, One of the Funniest People Living, Interviewed by Her Friend, John Mulaney](https://www.gq.com/story/robby-hoffman-interviewed-by-john-mulaney) — GQ, December 12 2025; Robby names *Unentitled* as the show the WGA speech ultimately sold.
+- [The New Yorker's The Political Scene: Everything Funny Hurts a Little | Cascade PBS Ideas Festival](https://www.youtube.com/watch?v=MjMildeau0k) — Cascade PBS, Tyler Foggatt, 2026-07-07; **still sealed as of July 2026.** Asked for any update at all, Robby gives a flat *"I can't… Nothing."* Pressed on whether she'd at least tie it back to poverty: *"Oh, you watch. You almost got me… I think it's best to save it as a surprise. I think everybody will enjoy it."* See [[projects/the-political-scene]].

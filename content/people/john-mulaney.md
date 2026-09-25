@@ -8,7 +8,8 @@ source:
   - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
   - "[[raw/transcripts/2026-06-20 Robby Hoffman South Beach Sessions with Dan Le Batard]]"
   - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
-compiled: 2026-05-30
+  - "[[raw/transcripts/2026-09-24 We Got Company Robby Hoffman]]"
+compiled: 2026-09-24
 tags:
   - person
   - john-mulaney
@@ -36,6 +37,8 @@ Comedian, writer, director. Directed [[people/robby-hoffman|Robby Hoffman]]'s Ne
 - **Booked Robby on his Netflix talk show [[projects/everybodys-live|*Everybody's Live*]]** in May 2025 (with Andy Samberg, Ramy Youssef, and AAA's Aixa Diaz) — Robby vaped on camera, offered the vape around, and giant-stepped over Mulaney's couch arms to exit the segment.
 - Brought Robby on tour as feature act; paid for hotel coffee on the road ("you wouldn't pay $3 for coffee at home").
 - Robby cites Mulaney as the friend / industry advocate who routes opportunities her way.
+- **"Mulaney, how did he get me?"** (We Got Company, Sep 2026) — Robby has started actively correcting the assumed direction of the favor, and says she's been *"clearing this up on this podcast circuit that I'm on"*: *"John Mulaney begged me to direct the special."* Her analogy for how credit misattributes itself is the song *"Hurt"* — *"everybody attributes it to Johnny Cash, but actually it was a Nine Inch Nails song that he covered. He made it way bigger, but that's how I feel with this. People are going to say, how did I get Mulaney? But really, the story is Mulaney, how did he get me?"*
+- Her characterization of him stays warm throughout: *"he's just beyond a doll. This is somebody who found me out of nowhere… he decided to throw his weight, by the grace of God, behind me."* Her reply to the offer: *"I'm ready when you are. You tell me the day, I'll be ready. I will not let you down."*
 
 ## In Robby's house
 
@@ -51,3 +54,4 @@ Comedian, writer, director. Directed [[people/robby-hoffman|Robby Hoffman]]'s Ne
 - ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; the Wake Up "legend at the top of their game" intro line.
 - [Robby Hoffman | South Beach Sessions with Dan Le Batard](https://www.youtube.com/watch?v=aUAS9EYnDhM) — Dan Le Batard, 2026-05-28; Robby reads the original Mulaney text verbatim — the most complete version of the Wake Up origin on record.
 - [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; Mulaney as "the classiest man I know" / the odd-couple dynamic; reconfirms he discovered Robby at the WGA meeting.
+- [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; Robby's **direct correction of the power dynamic** — *"John Mulaney begged me to direct the special"* — and the Johnny Cash / Nine Inch Nails analogy for who gets the credit. See [[projects/we-got-company]].

@@ -8,6 +8,30 @@ publish: true
 
 Reverse-chronological record (newest first). Every compile, query, and lint pass logs here.
 
+## [2026-09-24] compile | 4 transcripts — Political Scene, Newsmakers, Here To Make Friends, We Got Company
+
+Compiled the four uncompiled transcripts ingested earlier today. None hollow (bodies 29.7k / 37.2k / 61.3k / 63.9k chars). Scope confirmed with the user before writing; `people/debs-hoffman` was proposed and dropped on naming uncertainty.
+
+**New pages (20):**
+- *Projects (4):* [[projects/the-political-scene|The Political Scene (The New Yorker)]] · [[projects/newsmakers|Newsmakers (NPR)]] · [[projects/here-to-make-friends|Here To Make Friends]] · [[projects/we-got-company|We Got Company]]
+- *Theme (1):* [[themes/politics|Politics]] — split out of [[themes/money|money]]; the institutional half of the class argument.
+- *Career (4):* [[career/outed-at-17|Outed at 17]] · [[career/pandemic-van-tour|The Pandemic Van Tour]] · [[career/country-house|The Country House]] · [[career/first-open-mic|First Open Mic]]
+- *People (3):* [[people/uncle-rob|Uncle Rob]] · [[people/yehudis-hoffman|Yehudis Hoffman]] · [[people/sebastian-maniscalco|Sebastian Maniscalco]]
+- *Bits (7):* [[bits/zero-personality-disorder|zero personality disorder]] · [[bits/eggs-on-the-bus|boiled eggs on the bus]] · [[bits/crispy-towels|crispy towels]] · [[bits/girls-need-gifts|girls need gifts]] · [[bits/bring-nothing|bring nothing]] · [[bits/ring-pop|the ring pop]] · [[bits/lil-rob|Lil Rob]]
+- *Not written:* the **retired Starbucks bit** was proposed as an 8th and dropped per user — the material lives on [[projects/newsmakers]] and [[themes/family]] instead. Retired bits get no page in this vault.
+
+**Contradictions flagged (2):**
+1. **Parents were Conservative, not Reform.** [[themes/orthodox-upbringing]] carried *"both parents were originally Reform Jews"* from the May 2026 Wikipedia reconcile. Robby corrects the premise on-air: *"they weren't reformed… I would say they were conservative."* Her account adds the missing generation — post-Holocaust first-gen American/Canadian grandparents, not kosher, high-holidays-only, *"all about assimilation"* — with the parents *"radicalized"* into Lubavitch out of that. Resolved toward the first-person account; callout left on the page.
+2. **"Robby" is [[people/uncle-rob|Uncle Rob]]'s name.** The hub asserted it was *"the diminutive that stuck once she started writing professionally"* — an inference. Robby: she took her Vermont uncle's name deliberately as cover for the accounting job, *before* the writing career, and got caught anyway by a Montreal newspaper write-up. Callout added to [[people/robby-hoffman]].
+
+**Cross-references reconciled (3):** the hub's existing *"writer's cabin in the mountains"* (bought 2023) is almost certainly [[career/country-house|the country house]] — noted as one property on both pages. The hub's phonetic *"Sister Y'hudis"* is [[people/yehudis-hoffman|Yehudis]] — merged. *"Debs"* of the snowstorm rescue is plausibly the existing sister **Devorah**, flagged as inference on both pages rather than asserted.
+
+**Updated (23):** [[people/robby-hoffman|hub]] (name origin, glasses Rx, mother's autism, rents-vs-owns, 11 new quote-bank entries, 9 bit links) · [[themes/money]] (*"I love money"* + the marketing-worked-on-me mechanism, date-in-your-class, no-alarm-clock luxury, $400 bartender, art-school refusal) · [[themes/family]] (mother autistic + seeker, father secondhand, the declined down payment and its bus route, family-as-mutual-aid, nobody-watched-her-perform) · [[themes/orthodox-upbringing]] (the correction + *baal teshuva* mechanics + vows-of-poverty reading) · [[themes/queerness]] (the outing confirmed independently, *"got gay enough that you knew"*, protective-class argument) · [[career/wga-strike-speech]] (fullest telling: 1.5% dues, board of six or seven, *"how dare you question our supreme leader"*, group-think, *"it's hard to be right early"*) · [[bits/no-backsies-they-them]] (was a 3-bullet stub with no source URLs — rewritten around the NPR "dangerous" exchange and the Toronto precedent) · [[career/accounting-to-standup]] (name-as-cover, face-time culture, the fine-arts acceptance she declined) · [[projects/wake-up]] (watch-party-not-premiere, no-budget production, limited vinyl, backlash inventory) · [[projects/i-m-nervous]] (CAD $25k, six weeks, first-ever hour) · [[projects/odd-squad]] (*"that was my film school"*, 80 eps/season) · [[people/john-mulaney]] (*"Mulaney, how did he get me?"* + the Johnny Cash analogy) · [[projects/hacks]] · [[people/gabby-windey]] · [[people/kaya-hoffman]] · [[people/nathan-letovsky]] · [[themes/marriage]] · [[themes/canada]] · [[projects/the-rooster]] · [[projects/dying-for-sex]] · [[projects/unentitled]] · [[projects/call-her-daddy]] · [[bits/cost-per-wear]]
+
+**Indexes:** all five type indexes updated (projects, bits, people, career, themes) plus [[index|homepage]] recent-additions.
+
+**All 52 raws now compiled.**
+
 ## [2026-06-28] compile | NYT The Interview ("Growing Up Poor Never Leaves You")
 
 Compiled the single uncompiled transcript ingested earlier today — the NYT *The Interview* episode (Lulu Garcia-Navarro, 2026-06-27, two-sitting, ~17k-char body, not hollow).
@@ -32,7 +56,7 @@ Post-compile health check. Report: `output/lint-report-2026-06-20.md`.
 - **Clean:** 0 broken links, 0 true orphans, 0 uncompiled raws, 0 hollow raws, 0 missing Key Takeaways / publish / description, 100% type-index completeness.
 - **One critical:** 24 untracked `* 2.md` conflict-copy files in `wiki/` (Obsidian/sync duplicates; never committed or deployed). Flagged for Tier-1 bulk-delete.
 - **Stats:** 104 real pages (people 26, projects 31, bits 20, themes 8, career 11) · 47 raws all compiled.
-- **Tooling note:** cached-index orphan/broken-link checks misfire on this vault's `[[folder/slug|alias]]` links (reported all 127 as orphans + flagged the working `[[log]]` link); used a path-aware resolver instead. Candidate fix for the shared lint skill.
+- **Tooling note:** cached-index orphan/broken-link checks misfire on this vault's `folder/slug|alias` wikilinks (reported all 127 as orphans + flagged the working `[[log]]` link); used a path-aware resolver instead. Candidate fix for the shared lint skill.
 
 ## [2026-06-20] compile | 3 new transcripts (South Beach Sessions, Long Winded "again", Birbiglia's Working It Out)
 

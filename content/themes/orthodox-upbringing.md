@@ -16,7 +16,8 @@ source:
   - "[[raw/transcripts/2026-05-30 Robby Hoffman Senses Working Overtime with David Cross Headgum]]"
   - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
   - "[[raw/transcripts/2026-06-27 Robby Hoffman Growing Up Poor Never Leaves You The Interview]]"
-compiled: 2026-05-30
+  - "[[raw/transcripts/2026-09-24 Robby Hoffman Says Get a Girl a Gift]]"
+compiled: 2026-09-24
 tags:
   - theme
   - orthodox-upbringing
@@ -28,7 +29,14 @@ publish: true
 
 # Orthodox Upbringing
 
-[[people/robby-hoffman|Robby]] was raised **Lubavitch Hasidic** in Crown Heights, Brooklyn and later Montreal. **Both parents were originally Reform Jews** who later became *baal teshuva* (newly Orthodox / Hasidic) — Robby's framing: *"They're two people who joined a Hasidic cult and had ten kids, and I'm the product of it."* Her father was American and abusive; the mother fled to Montreal with all ten kids. Religion lapsed for most of the family — but Robby's mother eventually swung back, this time as a **born-again Christian** ("Jews for Jesus").
+[[people/robby-hoffman|Robby]] was raised **Lubavitch Hasidic** in Crown Heights, Brooklyn and later Montreal. **Both parents grew up Conservative** and later became *baal teshuva* (newly Orthodox / Hasidic) — Robby's framing: *"They're two people who joined a Hasidic cult and had ten kids, and I'm the product of it."* Her father was American and abusive; the mother fled to Montreal with all ten kids. Religion lapsed for most of the family — but Robby's mother eventually swung back, this time as a **born-again Christian** ("Jews for Jesus").
+
+> [!warning] Contradiction — resolved toward Conservative, not Reform
+> This page previously stated that **both parents were originally Reform Jews**, sourced from the Wikipedia reconcile pass of May 2026. On *Here To Make Friends* (Sep 2026) Robby corrects the premise directly when a host offers it: *"Well, they weren't reformed. I think you could call them reformed now. I think reform is a much newer thing than when my parents were younger… I would say they were **conservative**."*
+>
+> Her account adds a generation the earlier claim skipped. Her **grandparents** were post-Holocaust first-generation American and Canadian Jews — *"not kosher,"* synagogue on the high holidays only, and *"all about assimilation, succeeding, working hard."* Her **parents** grew up inside that Conservative household and were, in her word, *"radicalized"* into the Lubavitch sect. On the mechanics of that conversion she notes it isn't conversion at all: *"it's called baal teshuva — you're already Jewish and then you decide to be even more Jewish."*
+>
+> The 2026 first-person account supersedes the earlier third-party summary. Note Robby's own caveat about the label: Reform as a movement was, in her read, *"probably just the generation after them."*
 
 ## Key Takeaways
 
@@ -53,6 +61,9 @@ publish: true
 - Robby's "Jesus-loves-me" counter-move with her born-again mother is a recurring [[bits/jesus-loves-me|bit]].
 - **Synagogue** is *"a ticking time bomb at this point"* (Interview, Spring 2024). When Robby tried to attend recently the security guard was sitting on a chair; Robby's response: *"Up, up, up."*
 - **"What's a cult":** Robby on her childhood community to the Guardian (May 2026) — *"I'm also loosey-goosey about what's a cult. I definitely would say it was a fanatic religious sect."*
+- **Her mother is autistic** (Here To Make Friends, Sep 2026). Robby states it plainly, with her mother's own corroboration when asked how she got pulled in: *"Well, if you're asking if I had any friends, the answer is no."* A loner who *"likes books and music,"* in a decade when *"everybody was getting into something."* Robby's word for her is a **seeker** — *"if you are at the end of an escalator with a pamphlet, she will take it"* — and she reads the religious recruitment as an offer of inclusion: a table to sit at for Shabbos, and a man who *"liked me"* and *"had a car."* Robby adds that she shares the trait: *"I'm like my mother in many ways."* See [[themes/family]].
+- **Her father, reconstructed from stories** (Here To Make Friends): *"very charismatic and very popular and cool."* He had *"a larger calling"* and moved to become a more radical Jew — Robby's comparison: *"it's like joining ISIS but maybe less violent."* She does not speak to him, so she can't ask. *"He was fanatic."*
+- **The vow-of-poverty reading:** *"they kind of made us poor, join this cult, had 10 kids with no income, kind of these vows of poverty."* Both sets of grandparents were middle class or did well; the poverty was downstream of the choice, not inherited. *"But they didn't really grow up how I grew up."*
 - **Where religion went next:** these days her only belief is *"there's something larger than us."* But the [[bits/multiples-of-18|18-as-life]] habits and [[themes/monogamy|kosher-as-restraint]] frame still operate.
 - **"I'm a heretic" framing:** *"Gabby thinks I'm the most religious person she's ever met. Of course, I don't feel that at all, because compared to where I'm coming from — a very rigid [Hasidic] world — I'm a heretic."*
 - **Nightly prayer.** Robby still prays: *"OK, I'm gay. I get to be a clown for a living. So I'm not gonna give up nightly prayer."* The bit folds into [[bits/testing-god-by-being-gay]].
@@ -88,3 +99,4 @@ Robby's stand-up identity is post-Orthodox but still culturally Lubavitch — he
 - [Robby Hoffman | Senses Working Overtime with David Cross | Headgum](https://www.youtube.com/watch?v=oavQtYXGDRU) — David Cross, 2024-08-01; **mother's "new Daddy" framing of her Christian turn** (close-to-her-father → married-Robby's-father → both gone → found Jesus); **"if a knife touched something un-kosher you were burying the knife and un-burying"** kosher-extremity self-anchor; *religion-is-OCD* parallel.
 - [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; Lubavitch-vs-Chabad distinction; kippah-as-ego-reminder; "bros before hoes" on the subordination of women; "my mother left" as the exit.
 - [Robby Hoffman: Growing Up Poor Never Leaves You | The Interview](https://www.youtube.com/watch?v=GNPDXbpaXlE) — NYT The Interview, 2026-06-27; mother taking on the male commandments (kiddush + havdalah) after the father left; becoming-secular-as-slow-transition (kosher till 19); the mother's English-vs-Yiddish reasoning for leaving the sect. See [[projects/the-interview]].
+- [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, Liz Feldman + Jessi Klein, 2026-09-15; **the Reform→Conservative correction** and the grandparents' assimilationist Conservative household; *baal teshuva* mechanics ("you decide to be even more Jewish"); **mother named as autistic**; the father's charisma and his "larger calling"; the vows-of-poverty reading. See [[projects/here-to-make-friends]].

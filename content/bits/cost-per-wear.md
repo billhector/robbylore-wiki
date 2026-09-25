@@ -37,3 +37,4 @@ publish: true
 ## Sources
 
 - [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — FT, 2026-05-07.
+- [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; **the watch at seven years** — *"I've had it seven years, I've worn it every day. It's getting cheaper and cheaper by the day."* Plus the deliberation that preceded it: *"I talked about it for a year. I did my research for a year,"* weighed against the $65,000 script fee that made $3,600 thinkable. Robby names the method outright: *"Now I'm at the cost per use… if I wear it, then it was like a cent a day."* See [[projects/we-got-company]].

@@ -14,6 +14,8 @@ Timeline events, milestones, notable performances, awards, controversies, and pu
 - [[career/bialik-secondary-school|Bialik Secondary School]] — the Montreal private Jewish high school Robby attended on subsidy.
 - [[career/degrassi-audition|The Degrassi Audition That Didn't Happen]] — age 12-14; Robby's mother shut it down.
 - [[career/accounting-to-standup|Accounting to Stand-Up]] — KPMG + McGill CPA grad program to comedy; six-month runway.
+- [[career/first-open-mic|First Open Mic]] — a Montreal comedy loft; one minute in, refused the other four.
+- [[career/outed-at-17|Outed at 17]] — the student-bar bathroom, two rhyming poems, and a psychiatrist on her terms.
 - [[career/mcdonalds-job|McDonald's Job]] — the teenage-Montreal bit library.
 - [[career/hbo-script-sneak|HBO Script Sneak]] — Word + Courier 12 + manila envelope.
 
@@ -21,11 +23,13 @@ Timeline events, milestones, notable performances, awards, controversies, and pu
 
 - [[career/wga-strike-speech|WGA Strike Speech (2023)]] — the booed-into-fame moment.
 - [[career/comedy-store-passed|Passed at the Comedy Store]] — April 2025; the live-comedy gatekeeping that arrived after Netflix.
+- [[career/pandemic-van-tour|The Pandemic Van Tour]] — a $1,500 van with a bed in it, and whatever the South had open.
 
 ## Personal
 
 - [[career/top-surgery|Top Surgery]] — the two-year-rule application.
 - [[career/vegas-elopement|Vegas Elopement (2025)]] — $799 package, Reverend Nature in Yeezys.
+- [[career/country-house|The Country House]] — rents in the city, owns in the country; the snowstorm rescue.
 
 ## Awards
 

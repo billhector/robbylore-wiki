@@ -8,7 +8,11 @@ source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]]"
   - "[[raw/transcripts/2026-06-20 Robby Hoffman South Beach Sessions with Dan Le Batard]]"
   - "[[raw/transcripts/2026-06-27 Robby Hoffman Growing Up Poor Never Leaves You The Interview]]"
-compiled: 2026-05-29
+  - "[[raw/transcripts/2026-07-15 The New Yorker's The Political Scene Everything Funny Hurts a Little Cascade PBS Ideas Festival]]"
+  - "[[raw/transcripts/2026-09-24 Robby Hoffman Says Get a Girl a Gift]]"
+  - "[[raw/transcripts/2026-09-24 Robby Hoffman isn't filtering her comedy no matter who gets mad Newsmakers]]"
+  - "[[raw/transcripts/2026-09-24 We Got Company Robby Hoffman]]"
+compiled: 2026-09-24
 tags:
   - theme
   - money
@@ -41,6 +45,17 @@ Money — specifically class translation — is the through-line of [[people/rob
 - **"Comfort is a rich concept"** (NYT The Interview): the episode's spine. *"I've never heard the word growing up. Comfortable. We're not comfortable — there's roaches in the sink, the snow's coming through the window."* The rich are the ones uncomfortable; they don't talk about money or politics, while Robby's mother *"was screaming about money on that phone from morning till night"* in a one-phone, thin-walled apartment.
 - **"Classism affects everybody"** (NYT The Interview): Robby's stated us-vs-them is *"always the rich versus the poor"* — not red/blue, which she calls a distraction from *"bigger shit going on."* *"It shouldn't be a new conversation. It's the conversation."*
 - **[[people/uncle-eddie|Uncle Eddie]] and $1 gas** (NYT The Interview): when Montreal gas hit a dollar, her great-uncle *"didn't leave the house"* — *"Are you kidding? Gas is a dollar."* Robby cites it as the day-in-day-out poverty logic that still shapes how she buys (take a little off the top for one thing she loves forever; be careful with the rest).
+- **"I love money. I'm very driven by money."** (NPR Newsmakers, Sep 2026) — the least hedged statement of it on record, with the mechanism named rather than excused: the glorification of material wealth was taught, *"whether on purpose or not,"* and *"the marketing worked on me. I'm like, that's a sales pitch — you got me."* Then the poor-kid addendum that makes it different from ordinary acquisitiveness: *"when you're lacking, you also need it first before you can even want it, before you can aspire to all the other things."*
+- **The verdict on having it:** *"it's as good as I thought it would be and better."* And on [[projects/we-got-company|We Got Company]], unprompted: *"if you got to get some money, it's way better than you think it would be."*
+- **Still braced for it to vanish.** *"I'm nervous to lose it… it could be taken away at any time, which has happened to me many many times. When you're poor you're on your last 100 bucks a lot."* She reframes the obligations as pleasures — *"I want to help… those feel not that they're responsibilities, but they're joys"* — alongside a stated worry about competence: *"you hear horror stories. I want to be good with it."*
+- **"Date in your class."** (We Got Company) — she tried dating a rich girl and *"everything was off."* The diagnostic detail is the fridge, again: *"the stinginess of a rich person's house. You can't go in the fridge,"* against her own upbringing where *"my mother said take, take, take."* Consistent with the rich-weird-vs-poor-weird generosity tell above.
+- **The real luxury is the absence of an alarm clock.** (We Got Company) — *"every day I don't wake up with the alarm and have to take the subway to work is a miracle. It never gets old."* She won't wait in line for ice cream and gets *"depressed for them"* watching people who do, because *"maybe that is the one reprieve they have."*
+- **Travel is a rich person's self-discovery.** (We Got Company) — university classmates with summers off backpacked Europe and Southeast Asia while she worked. Her line: *"What do they think — they were going to go to Turkey? I found myself behind a shisha stand."* She still doesn't like to travel; touring is the exception, and first class only with [[people/gabby-windey|Gabby]].
+- **The $400 bartender.** (Here To Make Friends, Sep 2026) — she'd banked the idea of a private bartender from a classy friend's party years earlier and assumed it cost **$10,000**. Hiring one for the [[projects/wake-up|Wake Up]] watch party cost **$400** for the whole evening. *"I have no clue what things cost."*
+- **The charity-donation-in-your-name is a scam.** (Here To Make Friends) — *"it's part of the non-profit industrial complex and it needs to be called out."* See [[bits/girls-need-gifts]] and [[bits/bring-nothing]], both of which are class arguments wearing etiquette costumes.
+- **Braces as a class tell.** (NPR Newsmakers) — she'd fix her teeth but won't, because the timing announces itself: *"you know when somebody came into some money where they had the braces."*
+- **The watch, seven years on** (We Got Company): a year of research before spending **$3,600**, worn every day since — *"it's getting cheaper and cheaper by the day."* See [[bits/cost-per-wear]].
+- **She turned down art school for money reasons.** (We Got Company) — accepted for fine arts on the strength of her portraiture, and declined: *"there's no way I'm making any money. I'm in no mood to be poor. I hate being poor, do not recommend."* Her position on the romance of it: *"I don't like to be the struggling artist type."*
 
 ## Why it matters
 
@@ -56,6 +71,12 @@ Robby's stand-up persona is *materially* class-aware in a way many comedians' is
 - [[bits/supercuts-tuesday]]
 - [[bits/cost-per-wear]]
 - [[bits/multiples-of-18]]
+- [[themes/politics]]
+- [[career/country-house]]
+- [[bits/eggs-on-the-bus]]
+- [[bits/crispy-towels]]
+- [[bits/girls-need-gifts]]
+- [[bits/lil-rob]]
 
 ## Sources
 
@@ -67,3 +88,7 @@ Robby's stand-up persona is *materially* class-aware in a way many comedians' is
 - [Robby Hoffman: From growing up poor to living the dream](https://www.youtube.com/watch?v=r9HHiDcGf8Q) — McDonald's, SuperCuts, flying coach, Pod Hotel.
 - [Robby Hoffman | South Beach Sessions with Dan Le Batard](https://www.youtube.com/watch?v=aUAS9EYnDhM) — Dan Le Batard, 2026-05-28; "the calling is a nightmare," money-trauma-is-collective, first-class-"apartheid," "having money is way better than I thought."
 - [Robby Hoffman: Growing Up Poor Never Leaves You | The Interview](https://www.youtube.com/watch?v=GNPDXbpaXlE) — NYT The Interview, 2026-06-27; rich-weird-vs-poor-weird + fridge-generosity tell, $7.99-raspberries emotional-not-financial frame, "comfort is a rich concept," "classism affects everybody," Uncle Eddie's $1-gas logic. See [[projects/the-interview]].
+- [The New Yorker's The Political Scene: Everything Funny Hurts a Little | Cascade PBS Ideas Festival](https://www.youtube.com/watch?v=MjMildeau0k) — Cascade PBS, Tyler Foggatt, 2026-07-07; the "classism is the conversation" / 200-years argument in full, and the poverty-is-romanticized-in-TV-and-film exchange. The institutional half of this material now lives on [[themes/politics]]. See [[projects/the-political-scene]].
+- [Robby Hoffman isn't filtering her comedy — no matter who gets mad | Newsmakers](https://www.youtube.com/watch?v=4Xm4GhA9eSs) — NPR, Juana Summers, 2026-09-03; *"I love money, I'm very driven by money"* and the "the marketing worked on me" mechanism; still-braced-to-lose-it; braces as a class tell. See [[projects/newsmakers]].
+- [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, 2026-09-15; the $400-vs-$10,000 bartender, the charity-donation-as-scam position, rent-in-the-city-buy-out logic ([[career/country-house]]), and her mother's refusal of a down payment over a bus route. See [[projects/here-to-make-friends]].
+- [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; "date in your class" and the rich-girl's fridge, the no-alarm-clock luxury, ice-cream-line sadness, travel-as-rich-self-discovery, the seven-year-old watch, and the fine-arts-school refusal. See [[projects/we-got-company]].

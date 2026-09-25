@@ -32,3 +32,4 @@ publish: true
 ## Sources
 
 - [Robby Hoffman: Hot Takes & Falling in Love](https://www.youtube.com/watch?v=cOm4ftKv7LQ) — Call Her Daddy / Alex Cooper, December 2025.
+- [The New Yorker's The Political Scene: Everything Funny Hurts a Little | Cascade PBS Ideas Festival](https://www.youtube.com/watch?v=MjMildeau0k) — Cascade PBS, Tyler Foggatt, 2026-07-07; **this episode is the origin of the celiac backlash.** Per Robby: *"recently I did Call Her Daddy and she asked me a silly question about gluten or something, and the celiacs came after me."* Her verdict: *"the celiacs are allergic to gluten and comedy apparently."* It sits alongside the pit-bull backlash as one of the two organized objections she's drawn. See [[projects/the-political-scene]].

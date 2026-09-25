@@ -54,3 +54,7 @@ Named works: TV shows, podcasts, specials, films, web series, books, tours.
 - [[projects/south-beach-sessions|South Beach Sessions with Dan Le Batard]] — confessional May 2026 interview; anxiety, money, the Mulaney text.
 - [[projects/working-it-out|Working It Out (Mike Birbiglia)]] — June 2026 "It's a New Dawn" episode; WGA origin, "marriage is a hack."
 - [[projects/the-interview|The Interview (The New York Times)]] — NYT podcast; June 2026 two-sitting episode on poverty, fame, comedy, marriage.
+- [[projects/the-political-scene|The Political Scene (The New Yorker)]] — July 2026 live taping at the Cascade PBS Ideas Festival; the fullest statement of her politics.
+- [[projects/newsmakers|Newsmakers (NPR)]] — Juana Summers, Sept 2026; the they/them criticism put directly, and the fullest WGA-meeting telling.
+- [[projects/here-to-make-friends|Here To Make Friends]] — Liz Feldman + Jessi Klein, Sept 2026; her parents' religious path, being outed at 17, the country house.
+- [[projects/we-got-company|We Got Company]] — Sebastian Maniscalco, Sept 2026; craft, the pandemic van, the origin of her stage name.

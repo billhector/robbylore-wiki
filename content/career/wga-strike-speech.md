@@ -6,7 +6,8 @@ source:
   - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
   - "[[raw/articles/2026-05-30 Comedian Robby Hoffman Isn't Exactly Happy To Be Here]]"
   - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
-compiled: 2026-05-30
+  - "[[raw/transcripts/2026-09-24 Robby Hoffman isn't filtering her comedy no matter who gets mad Newsmakers]]"
+compiled: 2026-09-24
 tags:
   - career
   - wga-strikes
@@ -43,6 +44,20 @@ In **Summer 2023**, with the WGA strike underway, [[people/robby-hoffman|Robby]]
 - The booing turned into industry attention; Robby ultimately **sold her HBO show ***[[projects/unentitled|Unentitled]]*** in the wake of it.
 - Mulaney later told her: *"I gotta say — not that you hadn't done stuff already, but it was one of the greatest show-business debuts in history."*
 
+### NPR telling (Sep 2026) — new detail
+
+The Newsmakers account adds specifics and reframes the whole episode as her formative encounter with institutional power:
+
+- **The dues figure: 1.5% on everything.** That's what prompted the interest in the first place — *"I was like, okay, this is my organization. This is good."* Her accounting background is the stated reason she printed the statements: *"I have a little accounting experience from my stint as an accountant."*
+- **The board, sized:** *"there were like six or seven people sat on this board and they had million-dollar salaries."* Her objection was structural, not envious — *"isn't it a non-for-profit? Why aren't they volunteer positions? I get that there's some work, but why are they making millions when we're now striking?"*
+- **The real-estate question, phrased plainly:** *"I had a question about why they own so many real estate buildings where writers are not working. You're on your laptop in your apartment like me… Like, what's in the buildings?"* She names the source of the instinct: *"I have a lot of paranoia. I have a lot of skepticism. And that's because of the world that I grew up in, that a lot of things aren't what they say they are."*
+- **The scolding, characterized:** *"How dare you question our supreme leader — and he's like a white rich dude, and he's like, you need to sit down, as if I'm a child when we're all grown-ups there."* Her reaction: *"Of course I started crying inside."*
+- **The room's behavior is the part that bothers her most.** *"They start booing. They agree with him right away without questioning. Group thought — we're going to sit down."*
+- **The strike-as-last-resort argument, stated cleanly:** *"I thought striking was a last line of defense. And our last defense is ourselves. We throw ourselves to the fight."* What she actually asked for: *"I asked if we could exhaust all of the guild's efforts before we were striking."*
+- **The retrospective line, sharper than the earlier version:** *"You mean to tell me a rich cis white straight man is telling a young queer girl to sit down when she's got a question?"* She notes she lacked the vocabulary in the moment — *"I didn't have the wherewithal for all those identity"* — and that the room was full of *"very self-described progressives."*
+- **On being right early:** *"It's hard to be right early, and it's hard to be right, and it's hard to question things and possibly be wrong. Like there's not room for question."* With the caveat she keeps attached: *"I'm open that I'm still wrong on many things I just said. I'm not an expert. I just have questions. It's not the worst thing to be wrong."*
+- **Why it was an outlier, in her own analysis:** *"I feel like the people are always with me and I'm often with the people — I'm at the Comedy Store or stuff like that. I'm never with the industry like that, or powerful people. That was one of my first experiences like that, speaking to power."*
+
 ## Robby's reflection
 
 - Maintains the substantive point: *"I had so many people, hundreds of people in my DMs, saying: hey, what were you talking about?"*
@@ -60,6 +75,8 @@ In **Summer 2023**, with the WGA strike underway, [[people/robby-hoffman|Robby]]
 - [[career/accounting-to-standup]]
 - [[projects/wake-up]]
 - [[people/john-mulaney]]
+- [[themes/politics]]
+- [[projects/newsmakers]]
 
 ## Sources
 
@@ -68,3 +85,4 @@ In **Summer 2023**, with the WGA strike underway, [[people/robby-hoffman|Robby]]
 - ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; *"maybe my timing was autistic and off"* reflection + Bernie-Sanders political context.
 - [Comedian Robby Hoffman Isn't Exactly Happy To Be Here](https://www.bustle.com/entertainment/robby-hoffman-interview) — Bustle, Lizzie Logan, 2023-10-26; **published during the strike's "excruciating final weeks"** — places Robby's speech roughly 4-5 months before the strike ended in late September 2023, and shows Robby still under strike-rule constraints (couldn't talk to her Rivkah producer about the project at the Frogtown lunch).
 - [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; the fullest blow-by-blow telling — reading the financial statements, the $2.1M salary question, Carmen Christopher's name, "revolving door in the courts," and the 2026 union-employees-suing-the-union coda.
+- [Robby Hoffman isn't filtering her comedy — no matter who gets mad | Newsmakers](https://www.youtube.com/watch?v=4Xm4GhA9eSs) — NPR, Juana Summers, 2026-09-03; **the 1.5%-dues figure**, the board sized at six or seven, the buildings-where-writers-don't-work phrasing, *"how dare you question our supreme leader,"* the group-think observation, the exhaust-all-efforts-before-striking ask, the sharpened *"rich cis white straight man… young queer girl"* line, and *"it's hard to be right early."* Also the framing of the meeting as her first real encounter with institutional power. See [[projects/newsmakers]] and [[themes/politics]].
