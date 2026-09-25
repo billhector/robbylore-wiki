@@ -1,5 +1,6 @@
 ---
 title: Rivkah
+seoTitle: "Rivkah: Robby Hoffman's Autobiographical Showtime Pilot"
 source:
   - "[[raw/articles/2026-05-30 Robby Hoffman on Synagogue, Small Talk, and Psychoanalysis]]"
   - "[[raw/articles/2026-05-30 Comedian Robby Hoffman Isn't Exactly Happy To Be Here]]"

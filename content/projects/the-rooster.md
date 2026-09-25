@@ -1,5 +1,6 @@
 ---
 title: The Rooster
+seoTitle: "The Rooster (HBO): Cast & Robby Hoffman as Mo"
 source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman on 'Wake Up' success, 'The Rooster', 'Hacks' and Canada Full Interview]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman From growing up poor to living the dream]]"

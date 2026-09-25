@@ -1,5 +1,6 @@
 ---
 title: Family
+seoTitle: "Robby Hoffman's Family: Parents, 9 Siblings & Upbringing"
 source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]]"
   - "[[raw/transcripts/2026-05-29 The Robby Hoffman]]"

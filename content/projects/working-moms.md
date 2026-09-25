@@ -1,5 +1,6 @@
 ---
 title: Working Moms
+seoTitle: "Robby Hoffman in Workin' Moms"
 source:
   - "[[raw/transcripts/2026-05-30 Robby Hoffman is a grower, not a shower]]"
 compiled: 2026-05-30

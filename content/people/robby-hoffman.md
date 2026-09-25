@@ -1,5 +1,6 @@
 ---
 title: Robby Hoffman
+seoTitle: "Robby Hoffman: Comedian, Writer & Actor — Full Biography"
 source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman DESTROYS Me and My Lifestyle WHGS Ep. 232 Full Episode]]"

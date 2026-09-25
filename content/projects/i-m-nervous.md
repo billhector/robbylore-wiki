@@ -1,5 +1,6 @@
 ---
 title: I'm Nervous
+seoTitle: "I'm Nervous: Robby Hoffman's First Stand-Up Special"
 source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]]"
   - "[[raw/transcripts/2026-09-24 We Got Company Robby Hoffman]]"

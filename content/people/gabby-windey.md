@@ -1,5 +1,6 @@
 ---
 title: Gabby Windey
+seoTitle: "Gabby Windey: Bachelorette Star & Robby Hoffman's Wife"
 source:
   - "[[raw/transcripts/2026-05-29 The Robby Hoffman]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]]"

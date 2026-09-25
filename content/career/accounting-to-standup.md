@@ -1,5 +1,6 @@
 ---
 title: Accounting to Stand-Up
+seoTitle: "Robby Hoffman at KPMG: From Accountant to Stand-Up"
 source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Hot Takes and Falling in Love]]"
   - "[[raw/transcripts/2026-05-29 Comedian Robby Hoffman on the Manosphere, Cancel Culture, and the Late Rob Reiner Talk Easy]]"

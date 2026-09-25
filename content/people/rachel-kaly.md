@@ -1,5 +1,6 @@
 ---
 title: Rachel Kaly
+seoTitle: "Rachel Kaly: Robby Hoffman's Too Far Co-Host"
 source: []
 compiled: 2026-05-30
 tags:
@@ -8,7 +9,7 @@ tags:
   - podcast
   - too-far
 type: person
-description: Rachel Kaly — comedian and Robby Hoffman's co-host on the Patreon podcast Too Far. Cystic-acne mention; New York Times "addictive" framing for the show; one of Robby's closest professional partners.
+description: Rachel Kaly — comedian and Robby Hoffman's co-host on Too Far, the Patreon podcast the New York Times called "addictive." One of Robby's closest comedy partners.
 publish: true
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Robby Lore
+seoTitle: "Robby Lore: The Robby Hoffman Fan Encyclopedia"
 description: A fan-built knowledge base for the comedian Robby Hoffman — her work, her bits, the people in her orbit, and the recurring themes of her comedy.
 publish: true
 ---

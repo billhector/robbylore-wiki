@@ -13,8 +13,13 @@ export default (() => {
     ctx,
   }: QuartzComponentProps) => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
+    // robbylore: optional `seoTitle` frontmatter overrides <title>/og:title verbatim (no suffix),
+    // so search titles can differ from the short H1/nav title.
+    const seoTitle = fileData.frontmatter?.seoTitle
     const title =
-      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+      typeof seoTitle === "string" && seoTitle.trim()
+        ? seoTitle
+        : (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
     const description =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
