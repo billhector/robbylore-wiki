@@ -8,6 +8,20 @@ publish: true
 
 Reverse-chronological record (newest first). Every compile, query, and lint pass logs here.
 
+## [2026-09-24] structure | Grouped the bits index by theme
+
+`bits/` had grown to 27 pages under the standing write-a-page-per-bit rule, presented as one flat alphabetical list. Regrouped into six themed sections, each with a one-line framing note.
+
+**Sections (27 total):** Money + class (8) · Love, dating + marriage (5) · Work, ego + everyday absurdity (5) · Queerness, gender + the body (4) · Religion + the upbringing (3) · Family + childhood (2).
+
+**The distribution is the finding.** Money is ~30% of everything she does, which matches her own claim on [[projects/the-political-scene|The Political Scene]] that she redirects every subject back to class — *"I'm repetitive. Every interview I go back to this."* The index now states that rather than burying it in alphabetical order.
+
+Judgement calls worth recording: `pull-rich-men` is tagged both dating and money but filed under dating (the bit's *subject* is dating; class is its engine). `bring-nothing` stays in money despite its lesbian-potluck angle. `testing-god-by-being-gay` filed under queerness rather than religion, since the joke's move is about her own gayness. `ai-is-autistic` sits in work/absurdity, not queerness, despite its tag — the bit is about the men building AI.
+
+Footer notes that the retired Starbucks bit deliberately has no page, so a future compile doesn't read its absence as an oversight.
+
+**Non-issue checked and dismissed:** several bit titles look malformed in a naive frontmatter dump (`\"AI is autistic\"`, `It''s a Package Deal`) but are valid YAML escaping and render correctly live. Don't "fix" them.
+
 ## [2026-09-24] structure | Dropped empty Episodes section; added Anniewood show page
 
 Resolved the empty `episodes/` folder that the homepage had been advertising since vault setup.
