@@ -74,3 +74,18 @@ jobs:
             -H 'Content-Type: application/json; charset=utf-8' --data @payload.json)
           echo "IndexNow HTTP $code"; cat resp.txt
           case "$code" in 200|202) ;; *) echo "::warning::IndexNow returned HTTP $code" ;; esac
+
+      # Guard: if git dates fail, every <lastmod> collapses to HEAD/build time
+      # (seen once on 2026-09-25, not reproduced). Runs after deploy so content
+      # still ships; a red run triggers GitHub's failure email.
+      - name: Check sitemap lastmod sanity
+        run: |
+          python3 - <<'PY'
+          import re, sys
+          lm = re.findall(r"<lastmod>([^<]+)", open("public/sitemap.xml").read())
+          distinct = len(set(lm))
+          print(f"sitemap: {len(lm)} URLs, {distinct} distinct lastmod values")
+          if distinct < 5:
+              print("::error::sitemap lastmod collapsed to <5 values — git dates not read; re-run the workflow")
+              sys.exit(1)
+          PY
