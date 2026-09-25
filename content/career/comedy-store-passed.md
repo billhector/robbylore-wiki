@@ -29,6 +29,11 @@ Getting **"passed"** at LA's Hollywood **Comedy Store** is a benchmark for worki
 
 A signature [[themes/money|class-aware]] career detail: Robby achieved national TV recognition before the local LA stand-up infrastructure formally certified her. By the time she got the Store, she didn't need it for visibility — but she still wanted it, and the delay had been mostly invisible to outsiders.
 
+## Related
+
+- [[projects/anniewood]] — Ep. 127 (Apr 2025) is where Robby announced it.
+- [[people/annie-lederman]]
+
 ## Sources
 
 - [Robby Hoffman has HUGE NEWS | Anniewood Pod Ep. 127](https://www.youtube.com/watch?v=B6_B5tYAppo) — Annie Lederman, 2025-04-24; *"newly passed to the Comedy Store"* opener.

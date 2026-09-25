@@ -16,7 +16,7 @@ publish: true
 
 # Annie Lederman
 
-Stand-up comedian and host of **Anniewood Podcast** (recorded out of Bad Ladder Studio). One of [[people/robby-hoffman|Robby]]'s recurring podcast collaborators — Robby has appeared on Anniewood three times that we know of, including Ep. 89 ("Buried Alive," July 2024), Ep. 20 ("Is Top Surgery Right For You"), and Ep. 127 ("Robby Hoffman has HUGE NEWS"). Annie also surfaces as a **mutual friend** in cross-podcast conversation — Robby and [[people/jordan-jensen|Jordan Jensen]] established their friendship via her on the Bein' Ian podcast (Oct 2024).
+Stand-up comedian and host of **[[projects/anniewood|Anniewood Podcast]]** (recorded out of Bad Ladder Studio). One of [[people/robby-hoffman|Robby]]'s recurring podcast collaborators — Robby has appeared on Anniewood three times that we know of, including Ep. 89 ("Buried Alive," July 2024), Ep. 20 ("Is Top Surgery Right For You"), and Ep. 127 ("Robby Hoffman has HUGE NEWS"). Annie also surfaces as a **mutual friend** in cross-podcast conversation — Robby and [[people/jordan-jensen|Jordan Jensen]] established their friendship via her on the Bein' Ian podcast (Oct 2024).
 
 ## Key Takeaways
 
@@ -33,6 +33,12 @@ Stand-up comedian and host of **Anniewood Podcast** (recorded out of Bad Ladder 
 - **Goal:** an Anniewood/Robby Marie Kondo session for Annie's apartment, planned for Patreon.
 - **Attended Robby + Gabby's Vegas wedding** (Jan 11, 2025) — confirmed on Anniewood Ep. 127 (Apr 2025): *"Robby Hoffman, fresh from the gyno, the blowing up, the new television star… her wedding in Vegas we attended."*
 - **Twin brother Todd's birthday** is the same week as Annie's (mid-July) — they throw a joint birthday week in Irvine + Phoenix.
+
+## Related
+
+- [[projects/anniewood]] — the show page, with all three Robby appearances broken out.
+- [[people/robby-hoffman]]
+- [[career/top-surgery]]
 
 ## Sources
 

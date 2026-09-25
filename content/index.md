@@ -14,7 +14,6 @@ This is a fan site. Not affiliated with, endorsed by, or representative of Robby
 
 - [[people/index|People]] — Robby and the cast of characters in her life and work
 - [[projects/index|Projects]] — TV shows, podcasts, specials, films, tours
-- [[episodes/index|Episodes]] — notable podcast and show episodes worth a deep dive
 - [[bits/index|Bits]] — recurring jokes, segments, and signature material
 - [[themes/index|Themes]] — what Robby talks about: religion, family, queerness, money, ego, NYC, work
 - [[career/index|Career]] — timeline, milestones, performances, controversies

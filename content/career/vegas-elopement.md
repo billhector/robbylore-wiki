@@ -59,6 +59,11 @@ publish: true
 - [[themes/marriage]]
 - [[people/gabby-windey]]
 
+## Related
+
+- [[projects/anniewood]] — Ep. 127 confirms [[people/annie-lederman|Annie Lederman]] attended.
+- [[people/gabby-windey]]
+
 ## Sources
 
 - [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — FT 2026; Gabby's "if everything burns down" line + the grandfather-paintings-as-only-things-grabbed detail.

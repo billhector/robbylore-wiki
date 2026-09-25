@@ -41,6 +41,12 @@ The surgery is one of the few topics Robby reserves for long-form podcast space 
 - [[bits/two-year-decision-rule]]
 - [[bits/no-backsies-they-them]]
 
+## Related
+
+- [[projects/anniewood]] — Ep. 20 (Mar 2023) is the primary source for the decision logic below.
+- [[bits/two-year-decision-rule]]
+- [[themes/queerness]]
+
 ## Sources
 
 - [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — the deepest single account.

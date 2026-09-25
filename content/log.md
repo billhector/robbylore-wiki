@@ -8,6 +8,19 @@ publish: true
 
 Reverse-chronological record (newest first). Every compile, query, and lint pass logs here.
 
+## [2026-09-24] structure | Dropped empty Episodes section; added Anniewood show page
+
+Resolved the empty `episodes/` folder that the homepage had been advertising since vault setup.
+
+**Diagnosis.** 49 distinct shows across 52 raws; only **2** have multiple Robby appearances. The folder is empty because the architecture routes every appearance to a `projects/` page (one per show) and then to `bits/` / `career/` / `themes/` / `people/` for the material itself — so an episode page would duplicate its project page. 0 of 52 raws ever qualified. That's the schema working, not a gap.
+
+**Changes:**
+- **Dropped** the Episodes line from the [[index|homepage]] Browse nav; set `episodes/index.md` to `publish: false`. The folder and index stay — capability preserved, just not advertised. The index now documents *why* it's empty and how to revive it.
+- **New page:** [[projects/anniewood|Anniewood Podcast]] — the real structural hole this search turned up. [[people/annie-lederman|Annie Lederman]]'s show is Robby's most-returned-to (**3 appearances**: Ep. 20 Mar 2023, Ep. 89 Jul 2024, Ep. 127 Apr 2025) and had no page; its episodes were cited loose across the person page and various themes. Episodes are broken out *within* the project page — the pattern for multi-appearance shows going forward.
+- **Why Anniewood matters disproportionately:** Ep. 20 is the only substantial **pre-Gabby, pre-fame** long-form Robby interview in the source set (Tampa, no publicist, pre-surgery), and the three episodes together span her going from that to a married Netflix headliner with one consistent host.
+- **Cross-linked** from [[people/annie-lederman]], [[career/top-surgery]] (Ep. 20 is the primary source for the decision logic), [[career/comedy-store-passed]] and [[career/vegas-elopement]] (both announced/confirmed on Ep. 127) — four pages that gained a `## Related` section.
+- **Schema updated.** `CLAUDE.md` § Three Layers records the unpublished state, and lint step 1 now carries an explicit `episodes/` exception so a future `/wiki-lint` doesn't re-add the nav link.
+
 ## [2026-09-24] compile | 4 transcripts — Political Scene, Newsmakers, Here To Make Friends, We Got Company
 
 Compiled the four uncompiled transcripts ingested earlier today. None hollow (bodies 29.7k / 37.2k / 61.3k / 63.9k chars). Scope confirmed with the user before writing; `people/debs-hoffman` was proposed and dropped on naming uncertainty.
