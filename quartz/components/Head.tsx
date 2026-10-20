@@ -66,6 +66,14 @@ export default (() => {
         )}
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        {/* robbylore: explorer plugin's first-load scrollIntoView scrolls the whole window, so
+            direct visitors land mid-page. Seeding its saved scrollTop skips that branch.
+            Remove once quartz-community/explorer PR #7 merges. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `try{sessionStorage.getItem("explorerScrollTop")===null&&sessionStorage.setItem("explorerScrollTop","0")}catch(e){}`,
+          }}
+        />
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
