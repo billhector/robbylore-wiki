@@ -12,7 +12,9 @@ export default (() => {
     externalResources,
     ctx,
   }: QuartzComponentProps) => {
-    const titleSuffix = cfg.pageTitleSuffix ?? ""
+    // robbylore: suffix lives here, not in config `pageTitleSuffix`, so the og-image plugin's
+    // per-page cards don't repeat it (the card already shows robbylore.org).
+    const titleSuffix = " | Robby Lore"
     // robbylore: optional `seoTitle` frontmatter overrides <title>/og:title verbatim (no suffix),
     // so search titles can differ from the short H1/nav title.
     const seoTitle = fileData.frontmatter?.seoTitle
@@ -105,6 +107,12 @@ export default (() => {
         )}
 
         <link rel="icon" href={iconPath} />
+        {/* robbylore: favicon set from quartz/static/favicon/ */}
+        <link rel="icon" type="image/png" sizes="32x32" href={joinSegments(baseDir, "static/favicon/favicon-32x32.png")} />
+        <link rel="icon" type="image/png" sizes="16x16" href={joinSegments(baseDir, "static/favicon/favicon-16x16.png")} />
+        <link rel="apple-touch-icon" sizes="180x180" href={joinSegments(baseDir, "static/favicon/apple-touch-icon.png")} />
+        <link rel="manifest" href={joinSegments(baseDir, "static/favicon/site.webmanifest")} />
+        <meta name="theme-color" content="#170F1D" />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 

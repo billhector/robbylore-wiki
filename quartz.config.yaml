@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Robby Lore
-  pageTitleSuffix: " | Robby Lore"
+  pageTitleSuffix: "" # suffix hardcoded in quartz/components/Head.tsx so og-image cards skip it
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -125,12 +125,18 @@ plugins:
     enabled: true
   - source: github:quartz-community/og-image
     enabled: true
+    options:
+      colorScheme: darkMode
   - source: github:billhector/quartz-schema-jsonld
     enabled: true
     order: 80
     options:
       subjectName: Robby Hoffman
       subjectUrl: https://robbylore.org/people/robby-hoffman
+      publisher:
+        name: Robby Lore
+        url: https://robbylore.org
+        logo: https://robbylore.org/static/robby-icon.png
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
