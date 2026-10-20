@@ -26,25 +26,25 @@ configuration:
           - 400
     colors:
       lightMode:
-        light: "#EAE0CF"
-        lightgray: "#94B4C1"
-        gray: "#547792"
-        darkgray: "#213448"
-        dark: "#213448"
-        secondary: "#547792"
-        tertiary: "#213448"
+        light: "#FFF9F2"
+        lightgray: "#E8D9E4"
+        gray: "#6A5870"
+        darkgray: "#22172A"
+        dark: "#170F1D"
+        secondary: "#B5176E"
+        tertiary: "#7A0D49"
         highlight: rgba(0, 0, 0, 0)
-        textHighlight: rgba(84, 119, 146, 0.25)
+        textHighlight: rgba(255, 214, 0, 0.45)
       darkMode:
-        light: "#213448"
-        lightgray: "#547792"
-        gray: "#94B4C1"
-        darkgray: "#EAE0CF"
-        dark: "#EAE0CF"
-        secondary: "#94B4C1"
-        tertiary: "#EAE0CF"
+        light: "#170F1D"
+        lightgray: "#3A2A44"
+        gray: "#B9A8C2"
+        darkgray: "#F1E8EE"
+        dark: "#FFF9F2"
+        secondary: "#FF5FAE"
+        tertiary: "#FFB3D7"
         highlight: rgba(0, 0, 0, 0)
-        textHighlight: rgba(148, 180, 193, 0.25)
+        textHighlight: rgba(255, 95, 174, 0.25)
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true

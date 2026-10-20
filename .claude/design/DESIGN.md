@@ -6,7 +6,7 @@ The site is built with **Quartz v5**. Quartz's theming surface is `quartz.config
 
 ---
 
-## Locked decisions (2026-05-29)
+## Locked decisions (typography 2026-05-29; colors 2026-10-20)
 
 ### Typography
 
@@ -32,46 +32,41 @@ typography:
 
 After this fix, the Google Fonts URL in `<head>` emits a bare `family=Cutive` (no `;wght@…` suffix) and the build is warning-free.
 
-### Colors
+### Colors — "Marquee" (adopted 2026-10-20)
 
-The entire site uses a **strict 4-color palette**, no extras:
+Comedy-club neon: aubergine ink, magenta links, yellow highlighter. Replaced the 2026-05-29 navy/steel/cream palette, which read as washed out, and whose light-mode link (`#547792` on `#EAE0CF`) measured **3.63:1** and failed WCAG AA (earlier docs wrongly said ≈4.5:1).
 
-| Slot | Hex | Description |
-|---|---|---|
-| C1 | `#213448` | Deep navy |
-| C2 | `#547792` | Steel blue |
-| C3 | `#94B4C1` | Soft blue-gray |
-| C4 | `#EAE0CF` | Warm cream |
-
-All Quartz tokens map to these four. Light mode anchors on C4; dark mode flips on C1.
+No longer a strict 4-color rule: one neutral ramp (aubergine ↔ off-white) + one accent (magenta) + one highlighter (yellow in light, magenta tint in dark).
 
 #### Light mode
 
-| Token | Value | Role |
-|---|---|---|
-| `light` | C4 `#EAE0CF` | **page background** — cream |
-| `dark` | C1 `#213448` | headings / strong |
-| `darkgray` | C1 `#213448` | body text |
-| `gray` | C2 `#547792` | muted text |
-| `lightgray` | C3 `#94B4C1` | rules / subtle dividers |
-| `secondary` | C2 `#547792` | **accent / links** (≈4.5:1 on cream — passes WCAG AA) |
-| `tertiary` | C1 `#213448` | link hover (darken on hover) |
-| `highlight` | `rgba(0,0,0,0)` | wikilink-pill background **disabled** |
-| `textHighlight` | `rgba(84,119,146,0.25)` | `==marked text==` — steel tint |
+| Token | Value | Role | Contrast on bg |
+|---|---|---|---|
+| `light` | `#FFF9F2` | **page background**: warm off-white | — |
+| `dark` | `#170F1D` | headings / strong | 17.9:1 |
+| `darkgray` | `#22172A` | body text | 16.4:1 |
+| `gray` | `#6A5870` | muted text | 6.2:1 |
+| `lightgray` | `#E8D9E4` | rules / borders (decorative) | 1.3:1 |
+| `secondary` | `#B5176E` | **accent / links**: magenta | 6.1:1 |
+| `tertiary` | `#7A0D49` | link hover (darken) | 10.1:1 |
+| `highlight` | `rgba(0,0,0,0)` | wikilink-pill background **disabled** | — |
+| `textHighlight` | `rgba(255,214,0,0.45)` | `==marked text==`: yellow highlighter | — |
 
 #### Dark mode
 
-| Token | Value | Role |
-|---|---|---|
-| `light` | C1 `#213448` | **page background** — navy |
-| `dark` | C4 `#EAE0CF` | headings / strong |
-| `darkgray` | C4 `#EAE0CF` | body text |
-| `gray` | C3 `#94B4C1` | muted text |
-| `lightgray` | C2 `#547792` | rules / subtle dividers |
-| `secondary` | C3 `#94B4C1` | **accent / links** (≈9:1 on navy) |
-| `tertiary` | C4 `#EAE0CF` | link hover (lighten on hover) |
-| `highlight` | `rgba(0,0,0,0)` | wikilink-pill background **disabled** |
-| `textHighlight` | `rgba(148,180,193,0.25)` | `==marked text==` — soft blue tint |
+| Token | Value | Role | Contrast on bg |
+|---|---|---|---|
+| `light` | `#170F1D` | **page background**: aubergine-black | — |
+| `dark` | `#FFF9F2` | headings / strong | 17.9:1 |
+| `darkgray` | `#F1E8EE` | body text | 15.6:1 |
+| `gray` | `#B9A8C2` | muted text | 8.4:1 |
+| `lightgray` | `#3A2A44` | rules / borders (decorative) | 1.4:1 |
+| `secondary` | `#FF5FAE` | **accent / links**: hot pink | 6.7:1 |
+| `tertiary` | `#FFB3D7` | link hover (lighten) | 11.3:1 |
+| `highlight` | `rgba(0,0,0,0)` | wikilink-pill background **disabled** | — |
+| `textHighlight` | `rgba(255,95,174,0.25)` | `==marked text==`: magenta tint | — |
+
+Not themed by these tokens: code-block syntax colors (`github-light`/`github-dark` via the syntax-highlighting plugin) and Quartz's built-in callout colors.
 
 ### Custom CSS overrides
 
@@ -86,7 +81,7 @@ Beyond the token mapping, `quartz/styles/custom.scss` adds:
 
 ### Vibe summary
 
-Warm-cream day mode, midnight-library night mode. Four colors only. Cutive typewriter headers + steel-blue accents read "archival fan reference."
+Off-white day mode, aubergine night mode, magenta links, yellow highlighter. Cutive typewriter headers keep the "archival fan reference" read; the neon accent adds comedy-club energy.
 
 ---
 
@@ -97,9 +92,9 @@ Warm-cream day mode, midnight-library night mode. Four colors only. Cutive typew
 
 ## Known accessibility caveats
 
-- **Light-mode accent passes AA.** C2 `#547792` on C4 `#EAE0CF` ≈ 4.5:1.
-- **Dark-mode accent passes AAA.** C3 `#94B4C1` on C1 `#213448` ≈ 9:1.
-- Earlier iteration used C3 as the light-mode accent (≈2:1) — failed AA, replaced with C2.
+- **All text tokens pass AA in both modes** (ratios in the Colors tables; computed with the WCAG relative-luminance formula).
+- `lightgray` is decorative only (borders/rules); never use it for text.
+- History: the 2026-05-29 palette's light-mode link was 3.63:1 (failed AA); an iteration before that used `#94B4C1` as the link (≈2:1).
 
 ---
 
