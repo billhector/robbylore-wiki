@@ -4,7 +4,9 @@ configuration:
   pageTitleSuffix: " | Robby Lore"
   enableSPA: true
   enablePopovers: true
-  analytics: null
+  analytics:
+    provider: google
+    tagId: G-88K9G8Y3TR
   locale: en-US
   baseUrl: robbylore.org
   ignorePatterns:
@@ -222,6 +224,7 @@ plugins:
       links:
         Email: mailto:robbyhoffmanlore@gmail.com
         Source: https://github.com/billhector/robbylore-wiki
+        Privacy: /privacy
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
