@@ -12,6 +12,8 @@ source:
   - "[[raw/transcripts/2026-09-24 Robby Hoffman Says Get a Girl a Gift]]"
   - "[[raw/transcripts/2026-09-24 Robby Hoffman isn't filtering her comedy no matter who gets mad Newsmakers]]"
   - "[[raw/transcripts/2026-09-24 We Got Company Robby Hoffman]]"
+  - "[[raw/transcripts/2026-10-11 Robby Hoffman Is a Lot In the Best Way You Made It Weird]]"
+  - "[[raw/transcripts/2026-10-20 RIP Jordan Jensen - Episode 75 Robby Hoffman]]"
 compiled: 2026-09-24
 tags:
   - theme
@@ -56,6 +58,12 @@ Money — specifically class translation — is the through-line of [[people/rob
 - **Braces as a class tell.** (NPR Newsmakers) — she'd fix her teeth but won't, because the timing announces itself: *"you know when somebody came into some money where they had the braces."*
 - **The watch, seven years on** (We Got Company): a year of research before spending **$3,600**, worn every day since — *"it's getting cheaper and cheaper by the day."* See [[bits/cost-per-wear]].
 - **She turned down art school for money reasons.** (We Got Company) — accepted for fine arts on the strength of her portraiture, and declined: *"there's no way I'm making any money. I'm in no mood to be poor. I hate being poor, do not recommend."* Her position on the romance of it: *"I don't like to be the struggling artist type."*
+- **"Way less embarrassing than working for someone else."** ([[projects/you-made-it-weird|You Made It Weird]], Sep 2026) — the line Pete Holmes says he's been quoting. She still sees people with lanyards going back into buildings after lunch and remembers it as *"so demoralizing."* She runs herself as a small business now, and doesn't pretend it's easy. Her case against jobs: as a kid who *"only craved stability,"* she needed a boss and a paycheck once, but bosses now ask workers for loyalty *"without providing the back end."*
+- **The student budget** (You Made It Weird). On a university stipend of about \$300, she set aside \$60 *"for whatever comes up."* Student accounts questioned it. Her answer was the heating bill: *"Hydro is crazy."*
+- **Gay was a budget line.** At 17 she thought she couldn't afford to be gay. See [[bits/cant-afford-to-be-gay]].
+- **Money as religion** (You Made It Weird). Dating wealthier people taught her that money shapes daily life the way a religion does, so the question she asked [[people/gabby-windey|Gabby]] on day one was *"Do you come from money?"* Same argument as "date in your class," above.
+- **"I just needed to not be poor."** (RIP Jordan Jensen Ep. 75, Oct 2026) — her answer to Jordan's point that Robby has done many things she didn't want to do: *"I never even knew you could… I needed money for so long that that drove a lot of it."* She was *"only comfortable in problems"* for years. People raised comfortable go skydiving for the thrill; *"I find life thrilling enough."* See also [[bits/born-jewish-and-poor]].
+- **The 500-copy record** (RIP Jordan Jensen Ep. 75). Secretly Canadian pressed 500 copies of a vinyl record of hers. She keeps telling people to buy it even though it's almost gone. See [[projects/wake-up]].
 
 ## Why it matters
 
@@ -77,6 +85,9 @@ Robby's stand-up persona is *materially* class-aware in a way many comedians' is
 - [[bits/crispy-towels]]
 - [[bits/girls-need-gifts]]
 - [[bits/lil-rob]]
+- [[bits/cant-afford-to-be-gay]]
+- [[bits/born-jewish-and-poor]]
+- [[bits/office-hours]]
 
 ## Sources
 
@@ -92,3 +103,5 @@ Robby's stand-up persona is *materially* class-aware in a way many comedians' is
 - [Robby Hoffman isn't filtering her comedy — no matter who gets mad | Newsmakers](https://www.youtube.com/watch?v=4Xm4GhA9eSs) — NPR, Juana Summers, 2026-09-03; *"I love money, I'm very driven by money"* and the "the marketing worked on me" mechanism; still-braced-to-lose-it; braces as a class tell. See [[projects/newsmakers]].
 - [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, 2026-09-15; the $400-vs-$10,000 bartender, the charity-donation-as-scam position, rent-in-the-city-buy-out logic ([[career/country-house]]), and her mother's refusal of a down payment over a bus route. See [[projects/here-to-make-friends]].
 - [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; "date in your class" and the rich-girl's fridge, the no-alarm-clock luxury, ice-cream-line sadness, travel-as-rich-self-discovery, the seven-year-old watch, and the fine-arts-school refusal. See [[projects/we-got-company]].
+- [Robby Hoffman Is a Lot... In the Best Way! | You Made It Weird](https://www.youtube.com/watch?v=m1Hr4BqhVqw) — Pete Holmes, 2026-09-30; "less embarrassing than working for someone else"; small-business framing; the $60 "whatever comes up" line; gay as a budget line; money as religion. See [[projects/you-made-it-weird]].
+- [RIP Jordan Jensen — Episode 75: Robby Hoffman](https://www.youtube.com/watch?v=qerMI3wHAl8) — Jordan Jensen, 2026-10-19; decades to stop being poor; comfortable in problems; skydiving as a rich person's thrill; born Jewish and poor. See [[projects/rip-jordan-jensen]].

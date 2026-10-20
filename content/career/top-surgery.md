@@ -4,6 +4,7 @@ source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]]"
   - "[[raw/transcripts/2026-05-30 Is Top Surgery Right for You w Robby Hoffman AnnieWood Podcast Ep. 20 - Annie Lederman]]"
   - "[[raw/transcripts/2026-05-30 Bein' Ian With Jordan Ep115 The In-between W Robby Hoffman]]"
+  - "[[raw/transcripts/2026-10-20 RIP Jordan Jensen - Episode 75 Robby Hoffman]]"
 compiled: 2026-05-30
 tags:
   - career
@@ -31,6 +32,10 @@ publish: true
 - **Don't buy surgery on sale.** Robby's running advice when asked by listeners looking for cheaper top-surgery options: *"You don't buy your surgery on sale. You don't buy a parachute on sale."* (Anniewood Ep. 20)
 - **Insurance hot-take (per Bein' Ian, Oct 2024):** the trans-discourse hostility comes partly from people not wanting taxes/insurance to cover what they read as elective surgery; Robby's reply — *"we paid Wall Street when they crashed it from our pocket; that is way more money than 20 trans-care surgeries."*
 
+- **"Best thing I've ever done."** ([[projects/rip-jordan-jensen|RIP Jordan Jensen]] Ep. 75, Oct 2026) — her answer when Jordan asks how she feels about it now.
+- **The binder years.** Before the surgery she wore a binder for about **two to three years**. She prefers it to a sports bra: *"sports bras always had elasticity. They're always kind of digging into you. The binder… goes on you kind of like a shirt that has no stretch."* It's hard to get on, but then you breathe fine. Her safety advice: don't go extra tight, *"use their size chart."*
+- **Not a step toward transition.** *"I do love being a woman"*; she'd only consider transitioning if you could *"literally"* become a man. See [[themes/queerness]].
+
 ## Why it matters
 
 The surgery is one of the few topics Robby reserves for long-form podcast space rather than late-night clips. It anchors her queerness without forcing her into the "trans" label that has, in 2024–2026, become contested in comedy and elsewhere.
@@ -52,3 +57,4 @@ The surgery is one of the few topics Robby reserves for long-form podcast space 
 - [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — the deepest single account.
 - ["Is Top Surgery Right for You? w/ Robby Hoffman" — AnnieWood Ep. 20](https://www.youtube.com/watch?v=ydDxOO6-aYo) — Annie Lederman, 2023-03-23 (pre-Gabby); the regret-symmetry argument; 3% tissue left; *"don't buy your surgery on sale"*; on-camera reveal with Annie matching topless; *"my mother said Put it on"* re: trans pregnancy news.
 - [Bein' Ian With Jordan Ep115](https://www.youtube.com/watch?v=N4pKDysxY_s) — Bein' Ian with Jordan, 2024-10-09; the insurance-for-trans-care vs Wall-Street-bailout framing.
+- [RIP Jordan Jensen — Episode 75: Robby Hoffman](https://www.youtube.com/watch?v=qerMI3wHAl8) — Jordan Jensen, 2026-10-19; "best thing I've ever done"; two to three years in a binder and the binder-vs-sports-bra advice; "I do love being a woman." See [[projects/rip-jordan-jensen]].

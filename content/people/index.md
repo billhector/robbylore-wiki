@@ -38,6 +38,7 @@ Robby Hoffman and the cast of characters who appear repeatedly across her work, 
 - [[people/rachel-bloom|Rachel Bloom]] — comedian / Crazy Ex-Girlfriend creator; joint Lovett or Leave It guest with Robby.
 - [[people/steph-tolev|Steph Tolev]] — comedian, Bill Burr Friends Who Kill alum, Robby's former LA roommate; pre-Gabby era.
 - [[people/sebastian-maniscalco|Sebastian Maniscalco]] — comedian, host of We Got Company; one of Robby's stated idols.
+- [[people/pete-davidson|Pete Davidson]] — the comic she names as her stylistic opposite; met brother Schmuly backstage.
 
 ## Hacks creators + cast
 

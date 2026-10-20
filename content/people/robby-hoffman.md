@@ -53,6 +53,8 @@ source:
   - "[[raw/transcripts/2026-09-24 Robby Hoffman Says Get a Girl a Gift]]"
   - "[[raw/transcripts/2026-09-24 Robby Hoffman isn't filtering her comedy no matter who gets mad Newsmakers]]"
   - "[[raw/transcripts/2026-09-24 We Got Company Robby Hoffman]]"
+  - "[[raw/transcripts/2026-10-11 Robby Hoffman Is a Lot In the Best Way You Made It Weird]]"
+  - "[[raw/transcripts/2026-10-20 RIP Jordan Jensen - Episode 75 Robby Hoffman]]"
 compiled: 2026-09-24
 tags:
   - robby-hoffman
@@ -84,6 +86,8 @@ Married to [[people/gabby-windey|Gabby Windey]] (eloped Vegas, 2025).
 - **First stage time was one minute long** and she was refused the other four — see [[career/first-open-mic]]. She came back the next week.
 - **Worked the pandemic out of a $1,500 van** — see [[career/pandemic-van-tour]].
 - **Outed at 17; says she never came out** — see [[career/outed-at-17]].
+- **"I live a life of fear."** Her answer to people who call her fearless (You Made It Weird, Sep 2026): *"just because I'm afraid doesn't mean I don't do it."* She is always nervous before a show, most of all when someone important is watching, and at home the moment she's on stage.
+- **Has a worked-out view of death:** *"nothing has ever been nothing,"* and the point of life is *"to live a life."* See [[themes/death-and-afterlife]].
 
 ## Identity
 
@@ -146,6 +150,13 @@ Bernie Sanders supporter. Believes *"everybody's entitled to dignity"* and resen
 - *"If I can't talk about it, who can?"* (NPR Newsmakers, Sep 2026) — the core defense of her non-binary material. See [[bits/no-backsies-they-them]].
 - *"That was the same me in third grade… And you know what, baby? We've monetized it."* (NPR Newsmakers) — on a lifetime of getting in trouble for talking.
 - *"I don't talk about beach balls. I don't have anything on beach balls."* (NPR Newsmakers) — her formulation for the difference between off-limits and simply untouched.
+- *"It's way less embarrassing than working for someone else."* (You Made It Weird, Sep 2026) — the line Pete Holmes says he's been quoting since the Comedy Store. See [[projects/you-made-it-weird]].
+- *"I'm simultaneously nervous and confident at the exact same time."* (You Made It Weird) — restated, with the treadmill analogy: six months of daily use and never a runner's high, but she still gets on.
+- *"If you're good at something, you kind of just have to do that… It's like jury duty."* (You Made It Weird) — the calling as civic obligation.
+- *"Not only do I have an opinion on everything, I have a big one about it."* (You Made It Weird) — credited to being born in Brooklyn.
+- *"Arriving is also a phase."* (RIP Jordan Jensen Ep. 75, Oct 2026) — success isn't a light switch.
+- *"I find life thrilling enough."* (RIP Jordan Jensen Ep. 75) — why people raised comfortable go skydiving and she doesn't.
+- **The Duo-Tang joke.** A Toronto-era bit about a price hike on Canadian Duo-Tang folders was stolen after she moved away. She let it go: *"I have a million more where that's coming from."* (You Made It Weird.)
 - *"I would love to. I'd be excellent at it. Call me."* (NPR Newsmakers) — on hosting a network late-night show. Caveats: she can't read a teleprompter (vision, and *"I just go off"*), so *"if you're going to hire me, it's at your own risk."*
 
 ## Family
@@ -206,6 +217,11 @@ See [[career/index|Career index]] for the timeline. Highlights:
 - [[bits/bring-nothing|Bring nothing]] — the hosting doctrine and the anti-potluck position.
 - [[bits/ring-pop|The ring pop]] — thirteen days in, the girlfriend ask.
 - [[bits/lil-rob|Lil Rob]] — reporting back to her childhood self on the progress.
+- [[bits/office-hours|Office hours]] — not during the lecture; also for hecklers.
+- [[bits/megans-pick-a-spelling|Megans, pick a spelling]] — 2026 work in progress; nobody leaves the jury room without a decision.
+- [[bits/let-the-straights-march|Let the straights march]] — why she doesn't watch other comics' stand-up.
+- [[bits/cant-afford-to-be-gay|Can't afford to be gay]] — at 17, *"I might be the boy one."*
+- [[bits/born-jewish-and-poor|Born Jewish and poor]] — *"How did my mother fumble that?"*
 
 ## Possessions she names
 
@@ -227,7 +243,7 @@ See [[career/index|Career index]] for the timeline. Highlights:
 
 ## Themes she returns to
 
-[[themes/orthodox-upbringing]] · [[themes/family]] · [[themes/queerness]] · [[themes/money]] · [[themes/marriage]] · [[themes/dating]] · [[themes/canada]] · [[themes/politics]]
+[[themes/orthodox-upbringing]] · [[themes/family]] · [[themes/queerness]] · [[themes/money]] · [[themes/marriage]] · [[themes/dating]] · [[themes/canada]] · [[themes/politics]] · [[themes/death-and-afterlife]]
 
 ## Sources
 
@@ -285,3 +301,5 @@ See [[career/index|Career index]] for the timeline. Highlights:
 - [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, Liz Feldman + Jessi Klein, 2026-09-15; **parents were Conservative, not Reform** (correction); **mother named as autistic**; father's charisma; fullest [[career/outed-at-17|outing-at-17]] account (two rhyming poems, the father-mandated psychiatrist); the [[bits/ring-pop|ring-pop]] girlfriend ask at 13 days; [[career/country-house|the country house]] purchase and the snowstorm rescue; the $400 Wake-Up-watch-party bartender; mother's refusal of a down-payment over a bus route. See [[projects/here-to-make-friends]].
 - [Robby Hoffman isn't filtering her comedy — no matter who gets mad | Newsmakers](https://www.youtube.com/watch?v=4Xm4GhA9eSs) — NPR, Juana Summers, 2026-09-03; the they/them "dangerous" exchange and *"if I can't talk about it, who can?"*; the **retired Starbucks bit** (her only one on record); fullest [[career/wga-strike-speech|WGA-meeting]] telling; [[career/first-open-mic|first open mic]] (Morgan O'Shea's loft); the late-night-hosting pitch; braces-as-class-tell; mid-interview landlord call. See [[projects/newsmakers]].
 - [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — [[people/sebastian-maniscalco|Sebastian Maniscalco]], 2026-09-24; **stage-name origin ([[people/uncle-rob|Uncle Rob]], Vermont)**; [[career/pandemic-van-tour|the $1,500 pandemic van]]; *"Mulaney begged me to direct the special"*; [[projects/i-m-nervous|I'm Nervous]] commission terms (CAD $25k, six weeks, first-ever hour); the anti-clipping stance and "I'm huge on TikTok, I don't have TikTok"; [[projects/odd-squad|Odd Squad]] as film school; the fine-arts-school refusal; [[people/yehudis-hoffman|Yehudis]] as her assistant; glasses prescription; date-in-your-class; no-alarm-clock luxury. See [[projects/we-got-company]].
+- [Robby Hoffman Is a Lot... In the Best Way! | You Made It Weird](https://www.youtube.com/watch?v=m1Hr4BqhVqw) — Pete Holmes, 2026-09-30; fear vs. freedom and the treadmill; "less embarrassing than working for someone else"; never watched as a kid; Steph and the Fringe deadline; the loft set retold; "what if I grow up and I'm still gay?"; the Gabby meeting retold; Mulaney at dinner; the Duo-Tang joke; new bits ([[bits/office-hours|office hours]], [[bits/megans-pick-a-spelling|Megans]], [[bits/let-the-straights-march|let the straights march]], [[bits/cant-afford-to-be-gay|can't afford to be gay]]); the meaning of life. See [[projects/you-made-it-weird]].
+- [RIP Jordan Jensen — Episode 75: Robby Hoffman](https://www.youtube.com/watch?v=qerMI3wHAl8) — Jordan Jensen, 2026-10-19; top surgery and binders; LA vs. New York; the narcissism argument; six siblings and [[people/pete-davidson|Pete Davidson]] meeting Schmuly; the mother's weight and fear of underfed kids; "comfortable in problems"; [[bits/born-jewish-and-poor|born Jewish and poor]]; death and *Surviving Death*; the 500-copy Secretly Canadian record; Beacon Theatre and international tour. See [[projects/rip-jordan-jensen]].

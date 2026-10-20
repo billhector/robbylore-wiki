@@ -7,6 +7,7 @@ source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]]"
   - "[[raw/transcripts/2026-05-30 Buried Alive w Robby Hoffman Anniewood Pod Ep. 89 - Annie Lederman]]"
   - "[[raw/transcripts/2026-05-30 Bein' Ian With Jordan Ep115 The In-between W Robby Hoffman]]"
+  - "[[raw/transcripts/2026-10-20 RIP Jordan Jensen - Episode 75 Robby Hoffman]]"
 compiled: 2026-05-30
 tags:
   - person
@@ -33,6 +34,8 @@ publish: true
 - **Tank-top homophobia** — called teenage Robby a slur for wearing a tank top once. Robby's retroactive verdict: *"By then I'd given six handjobs — so he wasn't entirely wrong about the implication."* (Made It Out, Jul 2024)
 - **On Robby's top surgery (Bein' Ian, Oct 2024):** *"What's this, you're cutting your tits off?"* — but not full opposition; the topic is allowed at the dinner table, unlike in their Catholic-equivalent neighbors who *"don't talk about shit."*
 
+- **Backstage with [[people/pete-davidson|Pete Davidson]]** (RIP Jordan Jensen Ep. 75, Oct 2026). Robby told him to *"be cool, be cool, be cool."* As soon as they got backstage he was showing Davidson a photo: *"Look, it's me… that's a machine I drive everywhere."* Robby was sure Davidson would never speak to her again (*"thank god Pete wants me on his podcast now"*). Her conclusion: giving Schmuly *"the time of his life"* beats Davidson thinking she's cool. She calls him *"feral"* in industry settings. Jordan, who has met him several times, says he can talk about himself for three and a half hours straight. Robby's view is that it comes from *"endearment"*, not narcissism: *"he's so proud of me and we're proud of each other."*
+
 ## Sources
 
 - [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — security guard, "toots."
@@ -42,3 +45,4 @@ publish: true
 - [Buried Alive w/ Robby Hoffman | Anniewood Pod Ep. 89](https://www.youtube.com/watch?v=MincedWie34) — Annie Lederman, Jul 2024; the **wooden dildo on piano** anecdote; tank-top slur.
 - [Bein' Ian With Jordan Ep115](https://www.youtube.com/watch?v=N4pKDysxY_s) — Bein' Ian with Jordan, Oct 2024; *"What's this, you're cutting your tits off?"* dinner-table reaction.
 - [Calling My Family with Robby Hoffman | FULL Episode](https://www.youtube.com/watch?v=pD63tRyOSyc) — Live From Bed, Aug 2025; Saskatchewan-mall security-guard location; *"keep my name out your mouth"*; pro-German-Shepherd LA-safety advocacy.
+- [RIP Jordan Jensen — Episode 75: Robby Hoffman](https://www.youtube.com/watch?v=qerMI3wHAl8) — Jordan Jensen, 2026-10-19; the Pete Davidson backstage photo; "feral" but not a narcissist. See [[projects/rip-jordan-jensen]].

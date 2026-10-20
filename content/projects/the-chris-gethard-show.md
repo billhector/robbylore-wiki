@@ -5,6 +5,7 @@ source:
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Don't Take No Bait Good For You EP 240]]"
   - "[[raw/transcripts/2026-05-29 Robby Hoffman Blocks Podcast w Neal Brennan]]"
   - "[[raw/transcripts/2026-05-29 How to Pull Rich Men and Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman]]"
+  - "[[raw/transcripts/2026-10-20 RIP Jordan Jensen - Episode 75 Robby Hoffman]]"
 compiled: 2026-05-29
 tags:
   - project
@@ -24,6 +25,7 @@ Public-access-turned-Fusion-turned-truTV comedy show created by Chris Gethard. [
 - Robby's submission was one of an estimated **800–1,000 blind packets** the show received; she got the job from the slush pile.
 - The on-pitch sketch idea: *"AIDS Russian Roulette"* — Robby uses the title repeatedly as shorthand for her own willingness to write past the line.
 - The job is the first plank of her career — every interview-circuit telling positions the Gethard Show packet as the moment she stopped being a KPMG accountant.
+- **The New York years were broke ones.** On [[projects/rip-jordan-jensen|RIP Jordan Jensen]] Ep. 75 (Oct 2026) Robby says the last time she lived in New York, *"when I was on the Gethard show,"* she rented in Williamsburg right under the elevated train on Broadway and was *"so poor. It wasn't a good life… it was just too hard."* It's part of why she now lives in LA and would only come back to New York with an apartment of her own.
 
 ## Sources
 
@@ -31,3 +33,4 @@ Public-access-turned-Fusion-turned-truTV comedy show created by Chris Gethard. [
 - [Robby Hoffman Don't Take No Bait | Good For You | EP #240](https://www.youtube.com/watch?v=EJQxubAJ-Qc) — credit-list mention.
 - [Robby Hoffman | Blocks Podcast w/ Neal Brennan](https://www.youtube.com/watch?v=9XVNeaNjaWk&t=826s) — the AIDS Russian Roulette pitch surfaced again.
 - [How to Pull Rich Men & Why Every Relationship Needs 'One Hot, One Smart' with Robby Hoffman](https://www.youtube.com/watch?v=kKrxnRu_zGk).
+- [RIP Jordan Jensen — Episode 75: Robby Hoffman](https://www.youtube.com/watch?v=qerMI3wHAl8) — Jordan Jensen, 2026-10-19; the Gethard-era Williamsburg rental and how poor she was in New York. See [[projects/rip-jordan-jensen]].

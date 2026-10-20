@@ -18,6 +18,8 @@ source:
   - "[[raw/transcripts/2026-06-20 The Robby Hoffman (again)]]"
   - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
   - "[[raw/transcripts/2026-06-27 Robby Hoffman Growing Up Poor Never Leaves You The Interview]]"
+  - "[[raw/transcripts/2026-10-11 Robby Hoffman Is a Lot In the Best Way You Made It Weird]]"
+  - "[[raw/transcripts/2026-10-20 RIP Jordan Jensen - Episode 75 Robby Hoffman]]"
 compiled: 2026-05-30
 tags:
   - person
@@ -41,6 +43,8 @@ Television personality and ICU nurse; wife of [[people/robby-hoffman|Robby Hoffm
 - **Pre-Robby Gabby was on Raya** for women and went to Thursday queer line-dancing in East LA. Was on one date with another woman before Robby. Hadn't gone public with Bachelor Nation yet.
 - Robby's full Interview-magazine framing of Gabby's attraction: *"She has to get the gab for real. She talks, she throws it back. As hot as she is, she doesn't need to be as funny and as smart as she is."*
 - First substantive question Robby asked her: *"Do you come from money or not?"* Gabby grew up military.
+  - **Why she asked** ([[projects/you-made-it-weird|You Made It Weird]], Sep 2026): there was no strategy, *"it's just live."* Dating wealthier people had taught Robby that money worked *"like a religion"* in how people live day to day. She'd felt she had to be with someone Jewish; now she wanted someone at the same place financially, *"so that we could just move on with our lives."* Her tell is the answer: people from money say *"we were comfortable"* or *"we weren't wanting."* Gabby said military. Robby: *"Say no more."* She took it to mean Gabby was self-made, had moved around, and had struggled.
+  - **Why it worked:** Robby likes a partner who's similar — *"two Michael Jordans"* — and found it easier with a woman because *"there's so much you don't have to explain."* She *"needed everything on most"* — hot and brilliant and funny — *"I couldn't compromise and I didn't."* Gabby agrees with most of what she says, interrupts her, or lets her *"pop off"* and *"catches what she catches."*
 - 13 days into dating, Robby told Gabby she was falling in love with her.
 - Robby [[bits/proposing-via-crossword|proposed via a custom crossword]] (built by David Kaplan in Toronto); they eloped in [[career/vegas-elopement|Vegas]] with the $799 chapel package after fleeing the LA fires.
 - Won [[projects/the-traitors|The Traitors]] US S3.
@@ -76,6 +80,8 @@ Television personality and ICU nurse; wife of [[people/robby-hoffman|Robby Hoffm
 - **Sleeps Porky-Pig-style** (big shirt, no underwear) to Robby's boxers.
 - Has compared Robby to **Bob the Drag Queen** as the only person she'd previously met with comparable energy.
 - **Outfit/hair churn:** Robby on Gabby in Bustle Oct 2023 — *"She changes her hair all the time, you know; she buys different dresses all the time because she took a picture in it."* Robby's response: *"So what? I took a picture in this shirt! I got a million pictures in the same shirt."*
+- **Hates how Robby answers the phone** (You Made It Weird): Robby skips hellos and goodbyes — *"uh-huh, what is it?"* — a habit from her mother's *"no news is good news."*
+- **Loves New York** (RIP Jordan Jensen Ep. 75, Oct 2026). The couple are thinking about buying a New York apartment rather than renting forever in LA. Gabby crafts at home. She was going on a lesbian camping trip with Robby but bringing her own car *"in case she has to leave early."* Robby on the thought of Gabby dying: *"I'm horrified."*
 - **Gabby's Judaism interest** predates the engagement — Robby in Bustle Oct 2023: *"Gabby's obsessed with Jews. And I have to train her…"*
 
 ## Home
@@ -105,3 +111,5 @@ The LA rental — **Spanish-style, three-bedroom, one-bathroom, $5,000/month**, 
 - [Robby Hoffman: Growing Up Poor Never Leaves You | The Interview](https://www.youtube.com/watch?v=GNPDXbpaXlE) — NYT The Interview, 2026-06-27; the cabinet-open healing dynamic; "not our job to heal each other"; the "choose your family" loophole; Gabby-as-faithful read on Traitors. See [[projects/the-interview]].
 - [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, Liz Feldman + Jessi Klein, 2026-09-15; **the ring pop at thirteen days** (see [[bits/ring-pop]]); *"Gabby is the gayest I've ever been"*; the "I love you" that Gabby said once and then stopped, and Robby's *"I got a right to know"* escalation; Robby's type as *"somebody who's extremely themselves"* and the realization that humour mattered to her only once she met Gabby (*"Gabby is extremely funny all the time"*); Gabby as never delusional — *"if Gabby brings me a big idea, I don't think she's out of line"*; the never-came-out asymmetry — *"when Gabby came out, my wife came out. I never came out. I was outed."* See [[projects/here-to-make-friends]].
 - [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; **Prada shoes as a Christmas gift** from Gabby, something Robby had wanted since childhood — her second Christmas, and *"I'm loving Christmas. I've done three now"*; first class only when flying with Gabby (*"we get to watch the same movie and press play at the same time"*); a possible UK trip together. See [[projects/we-got-company]].
+- [Robby Hoffman Is a Lot... In the Best Way! | You Made It Weird](https://www.youtube.com/watch?v=m1Hr4BqhVqw) — Pete Holmes, 2026-09-30; the Uber-queue meeting retold; why "do you come from money?" and the "say no more" reply to "military"; "two Michael Jordans"; the phone-answering habit. See [[projects/you-made-it-weird]].
+- [RIP Jordan Jensen — Episode 75: Robby Hoffman](https://www.youtube.com/watch?v=qerMI3wHAl8) — Jordan Jensen, 2026-10-19; Gabby loves New York; the possible New York apartment; crafting; the camping trip in her own car. See [[projects/rip-jordan-jensen]].

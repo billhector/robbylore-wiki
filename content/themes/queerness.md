@@ -13,6 +13,8 @@ source:
   - "[[raw/transcripts/2026-09-24 Robby Hoffman isn't filtering her comedy no matter who gets mad Newsmakers]]"
   - "[[raw/transcripts/2026-09-24 Robby Hoffman Says Get a Girl a Gift]]"
   - "[[raw/transcripts/2026-09-24 We Got Company Robby Hoffman]]"
+  - "[[raw/transcripts/2026-10-11 Robby Hoffman Is a Lot In the Best Way You Made It Weird]]"
+  - "[[raw/transcripts/2026-10-20 RIP Jordan Jensen - Episode 75 Robby Hoffman]]"
 compiled: 2026-09-24
 tags:
   - theme
@@ -51,6 +53,15 @@ publish: true
 - **Lesbian cultural taxonomy as a running bit.** The potluck is *"very lesbian and we started a bad thing"* ([[bits/bring-nothing]]); so is a ring pop as a girlfriend-ask ([[bits/ring-pop]]); so is an incantation circle at a birthday. *"Lesbians love that."*
 - **The "protective class" argument, first aimed at bisexuals.** (We Got Company, Sep 2026) — coming up in Toronto the pushback was *"why are you making fun of bisexuals?"*, and her answer already contained the current one: *"even me as a dyke somewhere on the gender spectrum… why are we this protective class of, oh, I'm so delicate?"*
 
+- **"What if I grow up and I'm still gay?"** ([[projects/you-made-it-weird|You Made It Weird]], Sep 2026). As a kid she'd absorbed, from school and the library, that 13 was a time of "exploration," so she assumed the feeling would pass. *"I knew something was off… I had a feeling it wasn't going to be good."* The same "exploring at 13" logic later became the setup for the [[bits/dora-the-explorer|Dora the Explorer]] line.
+- **The first girlfriend, from Robby's side.** An Italian girl, met at 17 — her first crush on anyone. She was openly gay, which Robby, raised *"internalized and overtly homophobic"* and *"very traditional,"* read as something wrong with her. *"How am I going to reconcile being traditional and gay?"* Fits the graffiti-and-weed first girlfriend described above.
+- **Reluctant, for financial reasons.** She'd been planning on marrying rich and couldn't afford to be gay. See [[bits/cant-afford-to-be-gay]].
+- **She needed emotional depth, and only got it with women.** *"I was only connecting emotionally with women."* Her example of what she lacks: a woman on a plane laughing at *Paul Blart: Mall Cop 2* — *"I felt so jealous of her… the amount of stimulation it takes me."*
+- **"Why me?"** She compares herself to Moses, who didn't want the job either: *"When I had to be gay, I'm like, me?"*
+- **Against marching.** She won't support stand-up by watching it, for the same reason she won't march at Pride. See [[bits/let-the-straights-march]].
+- **On transitioning** (RIP Jordan Jensen Ep. 75, Oct 2026). She has friends for whom transitioning works. For her, *"it would never be enough… unless you could literally become a man,"* and she wouldn't consider it short of that. *"I do love being a woman. I love it very much."* Consistent with her long-standing position that she doesn't identify as trans. See [[career/top-surgery]].
+- **Against hyperlabeling** (RIP Jordan Jensen Ep. 75): the queer community has *"hit a wall"* with labels like *demisexual*, which she reads as a name for what many people already are. She prefers *"tendencies"* to fixed labels — the same move she makes against calling every comedian a narcissist.
+
 ## Why it matters
 
 Robby's queerness reads as **proud, butch, and old-school** in a wave of comedy that's often softer or more identity-fluid. She talks about gay culture from a married-lesbian-with-a-house POV, not a coming-out POV.
@@ -64,6 +75,8 @@ Robby's queerness reads as **proud, butch, and old-school** in a wave of comedy 
 - [[bits/no-backsies-they-them]]
 - [[career/outed-at-17]]
 - [[bits/ring-pop]]
+- [[bits/cant-afford-to-be-gay]]
+- [[bits/let-the-straights-march]]
 
 ## Sources
 
@@ -79,3 +92,5 @@ Robby's queerness reads as **proud, butch, and old-school** in a wave of comedy 
 - [Robby Hoffman isn't filtering her comedy — no matter who gets mad | Newsmakers](https://www.youtube.com/watch?v=4Xm4GhA9eSs) — NPR, Juana Summers, 2026-09-03; the *"if I can't talk about it, who can?"* defense and the "dangerous" concession. See [[projects/newsmakers]].
 - [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, 2026-09-15; second independent telling of the outing (plus the **two rhyming poems** and the father-mandated psychiatrist), the *"got gay enough that you knew"* counterfactual, the early-'90s timing, and the male-model boyfriend. See [[career/outed-at-17]] and [[projects/here-to-make-friends]].
 - [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; the Toronto-era bisexual-jokes pushback as the first version of the protective-class argument. See [[projects/we-got-company]].
+- [Robby Hoffman Is a Lot... In the Best Way! | You Made It Weird](https://www.youtube.com/watch?v=m1Hr4BqhVqw) — Pete Holmes, 2026-09-30; "what if I grow up and I'm still gay?"; the Italian first girlfriend; the financial reluctance; connecting emotionally only with women; the Moses "why me"; the Pride-march analogy. See [[projects/you-made-it-weird]].
+- [RIP Jordan Jensen — Episode 75: Robby Hoffman](https://www.youtube.com/watch?v=qerMI3wHAl8) — Jordan Jensen, 2026-10-19; "unless you could literally become a man"; "I do love being a woman"; against hyperlabeling. See [[projects/rip-jordan-jensen]].

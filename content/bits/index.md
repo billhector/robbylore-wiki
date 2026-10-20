@@ -22,6 +22,7 @@ The largest cluster, and the engine of most of the others. Nearly all of these c
 - [[bits/lil-rob|Lil Rob]] — reporting back to the poor kid she was on how the extraction is going.
 - [[bits/polo-lounge|The Polo Lounge $7 Beer]] — the early-LA ritual: one beer, in the room where it happens.
 - [[bits/supercuts-tuesday|Supercuts Tuesday]] — the discount-day haircut, still observed.
+- [[bits/born-jewish-and-poor|Born Jewish and Poor]] — born Jewish in New York, you think you hit the jackpot; *"how did my mother fumble that?"*
 
 ## Religion + the upbringing
 
@@ -42,6 +43,7 @@ Post-Orthodox material. The frame is operational rather than wounded — she kee
 - [[bits/testing-god-by-being-gay|Testing God by Being Gay]] — why she won't fly to Japan; already gay enough.
 - [[bits/two-year-decision-rule|The Two-Year Decision Rule]] — tattoo gets a year, surgery gets two.
 - [[bits/socks-during-sex|Socks During Sex]] — the orgasm hack that doubles as a culture take.
+- [[bits/cant-afford-to-be-gay|Can't Afford to Be Gay]] — gay at 17 and broke: *"I might be the boy one."*
 
 ## Love, dating + marriage
 
@@ -58,7 +60,10 @@ Post-Orthodox material. The frame is operational rather than wounded — she kee
 - [[bits/i-dont-take-no-bait|"I don't take no bait"]] — don't give them the reaction.
 - [[bits/trash-can-rant|Trash Can Rant]] — why kick-lid bathroom bins are a slow-burn cause of despair.
 - [[bits/juneteenth-cookout|Juneteenth Cookout]] — invited by her neighbor Kim, 2020.
+- [[bits/office-hours|Office Hours]] — not during the lecture; the rule she applies to hecklers too.
+- [[bits/megans-pick-a-spelling|Megans, Pick a Spelling]] — nobody comes out of the jury room without a decision.
+- [[bits/let-the-straights-march|Let the Straights March]] — why she doesn't watch other comics' stand-up.
 
 ---
 
-**27 bits.** One retired bit — the Starbucks walk-home joke about her little sister — deliberately has no page; see [[projects/newsmakers]] and [[themes/family]]. Retired material isn't given a bit page in this vault.
+**32 bits.** One retired bit — the Starbucks walk-home joke about her little sister — deliberately has no page; see [[projects/newsmakers]] and [[themes/family]]. Retired material isn't given a bit page in this vault.

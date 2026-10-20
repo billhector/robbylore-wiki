@@ -3,6 +3,7 @@ title: Jordan Jensen
 source:
   - "[[raw/transcripts/2026-05-30 Bein' Ian With Jordan Ep115 The In-between W Robby Hoffman]]"
   - "[[raw/transcripts/2026-05-30 RIP Jordan Jensen - Episode 60 Robby Hoffman]]"
+  - "[[raw/transcripts/2026-10-20 RIP Jordan Jensen - Episode 75 Robby Hoffman]]"
 compiled: 2026-05-30
 tags:
   - person
@@ -31,8 +32,12 @@ Stand-up comedian based in New York. Co-host (with Ian Fidance) of **Bein' Ian w
 - **Reconciled with Robby on RIP Jordan Jensen Ep. 60** (Mar 2026). Both addressed the "(perceived) beef" from Bein' Ian Ep. 115 and agreed it had been a productive disagreement, not a real falling-out. Jordan brought Robby on to discuss OCD, success, confidence, self-worth, and safety while touring — Robby was on a Wake-Up press surge that included The View and Seth Meyers the same week.
 - **OCD self-id** — Jordan repeatedly checks the stove before leaving the house, calls the Uber, gets back in to check the stove again, then has to explain to the Uber driver.
 - **Chronically late** (in contrast to Robby's chronic earliness). Robby's framing of the dynamic: *"I like the dynamic between a late and an early person. It creates a good tension."*
+- **Friends by Ep. 75** (Oct 2026). They settle the question on air (the test offered: being able to call the other *"sobbing"* without feeling humiliated), and Robby says she has called Jordan for business advice. Both say there are few people in the industry they trust, and both put their lives ahead of their careers.
+- **Robby's ongoing intervention:** Jordan lives in a Brooklyn studio with mice, shelves an ex put up, and her dog Coyote. Robby wants her in a two-bedroom with a doorman on the Upper West Side, no higher than the tenth floor. By the end of the episode Jordan has a broker. Jordan also owns a house about four hours outside the city.
+- **Jordan's side of Ep. 75:** a theory that comedians are narcissists and self-loathing at once, which Robby argues down to "tendencies"; her work in a twelve-step program for sex and love addiction; a codependency pattern with on-off exes. Show-level detail is on [[projects/rip-jordan-jensen]].
 
 ## Sources
 
 - [Bein' Ian With Jordan Ep115: The In-between W/ Robby Hoffman](https://www.youtube.com/watch?v=N4pKDysxY_s) — Bein' Ian with Jordan, 2024-10-09; the full gender-identity debate; the autoblow + HelloFresh ad breaks; Robby + Jordan establishing they barely knew each other despite shared scenes.
 - [RIP Jordan Jensen — Episode 60: Robby Hoffman](https://www.youtube.com/watch?v=s5IupO8t1Z4) — Jordan's solo podcast, 2026-03-23; reconciliation episode; OCD discussion; Wake-Up press surge context (Seth Meyers + The View); chronic-late vs chronic-early dynamic with Robby.
+- [RIP Jordan Jensen — Episode 75: Robby Hoffman](https://www.youtube.com/watch?v=qerMI3wHAl8) — Jordan's solo podcast, 2026-10-19; the friendship stated on air; Robby's push for the Upper West Side move; the narcissism and codependency exchanges. See [[projects/rip-jordan-jensen]].

@@ -8,6 +8,28 @@ publish: true
 
 Reverse-chronological record (newest first). Every compile, query, and lint pass logs here.
 
+## [2026-10-20] compile | You Made It Weird + RIP Jordan Jensen Ep. 75
+
+**Sources (2):** *Robby Hoffman Is a Lot... In the Best Way!* (You Made It Weird, Pete Holmes, 2026-09-30) and *RIP Jordan Jensen — Episode 75* (Jordan Jensen, 2026-10-19). At ingest, two duplicate re-clips were deleted: a second copy of the You Made It Weird episode, and a second copy of the already-compiled Newsmakers raw. Both bodies were byte-identical to the existing files.
+
+**New pages (9):**
+- Projects: [[projects/you-made-it-weird]]; [[projects/rip-jordan-jensen]] (Ep. 60 and Ep. 75 as sections of one page, the anniewood pattern, now that RIP JJ is Robby's second multi-appearance show)
+- Themes: [[themes/death-and-afterlife]] — her nothingness argument appears almost word for word in both sources
+- People: [[people/pete-davidson]]
+- Bits: [[bits/office-hours]], [[bits/megans-pick-a-spelling]], [[bits/let-the-straights-march]], [[bits/cant-afford-to-be-gay]], [[bits/born-jewish-and-poor]]
+
+**Updated (15):** [[people/robby-hoffman]] (two Key Takeaways, seven quote-bank lines, five bits, the new theme), [[people/jordan-jensen]], [[people/gabby-windey]], [[people/schmuly-hoffman]], [[people/yehudis-hoffman]], [[people/john-mulaney]], [[bits/dora-the-explorer]] (first real source attached; was `source: []`), [[career/accounting-to-standup]], [[career/first-open-mic]], [[career/top-surgery]], [[themes/family]], [[themes/queerness]], [[themes/money]], [[projects/wake-up]], [[projects/the-chris-gethard-show]]. Plus the bits (27 → 32), projects, people and themes indexes, and the homepage.
+
+**Contradictions flagged with callouts:**
+- *Laptop:* McGill program (Q with Tom Power) vs. KPMG internship (You Made It Weird). Leaning KPMG.
+- *Six-month clock:* from quitting KPMG vs. Steph's Fringe deadline at the start. Possibly two separate bets.
+- *First-mic host:* Morgan O'Shea (NPR) vs. "George Braithwaite's loft show" (You Made It Weird). Possibly a show-runner vs. host distinction.
+- *Self-as-dependent advice:* given to a sister aged 19 (We Got Company) vs. 18 (You Made It Weird). Noted inline.
+
+**Speaker-attribution discipline (Ep. 75).** The auto-captions have no speaker labels, and Robby and Jordan talk over each other constantly. Left out because the speaker couldn't be confirmed: therapy scheduling, school memories, body-image remarks, a sibling-violence line, and a hotel-refund / "bring back grace" story. That last one was first attributed to Robby and then pulled: its teller's niece is eight, and Robby's is six. Also left out: an unverified claim that a friend died from a COVID vaccine (unclear speaker, medical claim, private individual). Following the [[themes/family#father|father correction]] lesson: when a line could be either speaker, leave it out.
+
+**Scope decisions (user-approved):** no Pete Holmes host page; the Duo-Tang stolen-joke mention stays a line on the hub, with no bit page; no page for Steph (spelling unverified, private individual).
+
 ## [2026-09-24] correction | Robby's father is living; family page restructured
 
 **Correction:** [[themes/family]] and [[people/robby-hoffman]] said Robby's father had died 15–20 years after the divorce. The claim traced to one unlabeled line in the [[projects/blocks|Blocks]] transcript, *"my dad died… they had been divorced 15 years earlier,"* spoken while Robby and [[people/neal-brennan|Neal Brennan]], both one of ten, compared families. It was most likely Neal about his own father. Robby's own statements contradict it: *"He's somewhere in Nevada"* (RIP Jordan Jensen, Mar 2026) and *"my father, who I don't speak to, so I can't ask him this"* (Here To Make Friends, Sep 2026). Both pages now carry a visible correction note.

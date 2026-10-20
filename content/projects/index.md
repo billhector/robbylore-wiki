@@ -59,3 +59,5 @@ Named works: TV shows, podcasts, specials, films, web series, books, tours.
 - [[projects/newsmakers|Newsmakers (NPR)]] — Juana Summers, Sept 2026; the they/them criticism put directly, and the fullest WGA-meeting telling.
 - [[projects/here-to-make-friends|Here To Make Friends]] — Liz Feldman + Jessi Klein, Sept 2026; her parents' religious path, being outed at 17, the country house.
 - [[projects/we-got-company|We Got Company]] — Sebastian Maniscalco, Sept 2026; craft, the pandemic van, the origin of her stage name.
+- [[projects/you-made-it-weird|You Made It Weird]] — Pete Holmes, Sept 2026; fear, process, the Fringe deadline, coming out at 17.
+- [[projects/rip-jordan-jensen|RIP Jordan Jensen]] — Jordan Jensen; two appearances (Ep. 60 Mar 2026, Ep. 75 Oct 2026); her mother, money, death.

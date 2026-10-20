@@ -9,6 +9,8 @@ source:
   - "[[raw/articles/2026-05-30 Being offended isnt the worst thing. Being poor is how Robby Hoffman became a controversial comedy sensation]]"
   - "[[raw/articles/2026-05-30 Comedian Robby Hoffman Isn't Exactly Happy To Be Here]]"
   - "[[raw/articles/2019-07-24 Robby Hoffman From Drop Out to Stand-Up Forbes]]"
+  - "[[raw/transcripts/2026-10-11 Robby Hoffman Is a Lot In the Best Way You Made It Weird]]"
+  - "[[raw/transcripts/2026-10-20 RIP Jordan Jensen - Episode 75 Robby Hoffman]]"
 compiled: 2026-05-30
 tags:
   - career
@@ -54,6 +56,15 @@ publish: true
 - **The turned-down alternative was art school.** Robby drew portraits — *"I could draw your face exact"* — and **got into a fine-arts program**. She declined on money grounds: *"there's no way I'm making any money. I'm in no mood to be poor. I hate being poor, do not recommend. It's one of the worst things to happen to me."* Her position on the aesthetic of struggle: *"I don't like to be the struggling artist type. I'd rather just do art."* She stopped drawing when stand-up took. See [[themes/money]].
 - **Jews and Italians did accounting in Montreal** — her aside to Maniscalco, who also started as an accounting major. *"A lot of Jews and accountants in Montreal."*
 - **Salary as a class concept:** *"it felt like a stable salaried job, something I didn't grow up knowing. Salary felt like a next level — not getting paid by the hour."*
+- **Why accounting** ([[projects/you-made-it-weird|You Made It Weird]], Sep 2026). At 17, living alone and on a scholarship she had to keep renewing, she asked *"what's the least amount of school for the most amount of payoff?"* Accounting meant a paid summer internship right away. McGill cost about **$3,000 a year**. It was the only school she applied to *"because it was basically free if I was able to get in. Otherwise I would have continued working"* (RIP Jordan Jensen Ep. 75, Oct 2026). Most of her family hadn't gone to university.
+- **The friend who pushed her: Steph** (You Made It Weird; the auto-captions render the surname inconsistently, so spelling unverified). A theater major and Fringe play director, she told Robby she was *"too funny to be an accountant."* She is still a friend, and helped edit [[projects/wake-up|Wake Up]] — color matching between cameras, crackly audio — the technical work Robby says she has no ear or eye for.
+- **The six months were Steph's Fringe deadline.** In January, Steph booked Robby a Fringe show for that summer: 45 minutes of stand-up, the rest filled with interviews. Robby went to the same Monday open mic every week and did a **brand-new five minutes each time**, not knowing that comics normally repeat their set. A protective bartender at the club, Doug, eventually asked whether she'd keep working on her older material. *"I did that two weeks ago."* She calls it *"the luxury of falling in love with standup while learning about it for the first time."*
+- **The early Montreal scene split in two.** The loft crowd were *"real good freedom"* — *"Robby, do your thing."* The older guys at the clubs offered unsolicited tags and told her *"it takes 10 years to find your voice"*; she sensed their insecurity at a young comic doing well. What everyone noticed first in her was the voice.
+- **She kept the day job "for a very long time."** Being gay and an artist both looked like sure ways to be poor: *"Artist is for rich kids."* See [[bits/cant-afford-to-be-gay]].
+
+> [!warning] Contradiction — where the laptop came from, and when the six-month clock started
+> **Laptop.** The McGill bullet above, from Q with Tom Power, says the *program* came with the free laptop. On You Made It Weird (Sep 2026) Robby says *"I went to KPMG because they gave a free laptop"* — the firm's paid internship, chosen over others for that reason. That fits the Not Skinny But Not Fat line about keeping the laptop when she left KPMG. The likeliest reading is that the laptop was KPMG's, and the McGill framing compresses the story.
+> **Six months.** This page's opening dates the six-month runway from when she *quit* KPMG. On You Made It Weird it's a deadline at the very *start* of stand-up: January to that summer's Fringe show, while she was still working. Both may be true (two separate six-month bets), but no source puts them side by side.
 
 ## Why it matters
 
@@ -80,3 +91,5 @@ publish: true
 - [Robby Hoffman: From Drop Out To Stand-Up](https://www.forbes.com/sites/karlmoore/2019/07/24/robby-hoffman-from-drop-out-to-stand-up/) — Forbes / Karl Moore, 24 July 2019 — primary source for the CPA-program-walkout detail.
 - [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; the **stage name as workplace cover** and the Montreal-newspaper write-up that blew it; face-time culture as the actual breaking point; CAD $32,500 restated; **the fine-arts-school acceptance she turned down** on money grounds; salary-as-class-concept. See [[people/uncle-rob]] and [[projects/we-got-company]].
 - [Robby Hoffman isn't filtering her comedy — no matter who gets mad | Newsmakers](https://www.youtube.com/watch?v=4Xm4GhA9eSs) — NPR, Juana Summers, 2026-09-03; the accounting background as the stated reason she read the WGA's financial statements — *"I have a little accounting experience from my stint as an accountant."* See [[career/wga-strike-speech]].
+- [Robby Hoffman Is a Lot... In the Best Way! | You Made It Weird](https://www.youtube.com/watch?v=m1Hr4BqhVqw) — Pete Holmes, 2026-09-30; the least-school-most-payoff logic; KPMG for the laptop; Steph and the Fringe deadline; a new five every week; Doug the bartender; the loft vs. club split; "10 years to find your voice." See [[projects/you-made-it-weird]].
+- [RIP Jordan Jensen — Episode 75: Robby Hoffman](https://www.youtube.com/watch?v=qerMI3wHAl8) — Jordan Jensen, 2026-10-19; McGill at $3,000 a year as the only school she applied to; most of the family didn't go to university. See [[projects/rip-jordan-jensen]].

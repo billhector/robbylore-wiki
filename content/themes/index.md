@@ -17,3 +17,4 @@ What Robby talks about and how she talks about it. Recurring topics in her comed
 - [[themes/canada|Canada]] — Montreal-raised; Toronto-favorite; Mark Carney rivalry bit.
 - [[themes/monogamy|Monogamy]] — discipline practice; "kosher = good at temptation."
 - [[themes/politics|Politics]] — not red versus blue but people versus power; classism as the only conversation.
+- [[themes/death-and-afterlife|Death and the Afterlife]] — "nothing has ever been nothing"; the point of life is to live one.

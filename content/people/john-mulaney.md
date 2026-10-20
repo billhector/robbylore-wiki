@@ -9,6 +9,7 @@ source:
   - "[[raw/transcripts/2026-06-20 Robby Hoffman South Beach Sessions with Dan Le Batard]]"
   - "[[raw/transcripts/2026-06-20 Robby Hoffman It's a New Dawn Mike Birbiglia's Working It Out]]"
   - "[[raw/transcripts/2026-09-24 We Got Company Robby Hoffman]]"
+  - "[[raw/transcripts/2026-10-11 Robby Hoffman Is a Lot In the Best Way You Made It Weird]]"
 compiled: 2026-09-24
 tags:
   - person
@@ -40,6 +41,8 @@ Comedian, writer, director. Directed [[people/robby-hoffman|Robby Hoffman]]'s Ne
 - **"Mulaney, how did he get me?"** (We Got Company, Sep 2026) — Robby has started actively correcting the assumed direction of the favor, and says she's been *"clearing this up on this podcast circuit that I'm on"*: *"John Mulaney begged me to direct the special."* Her analogy for how credit misattributes itself is the song *"Hurt"* — *"everybody attributes it to Johnny Cash, but actually it was a Nine Inch Nails song that he covered. He made it way bigger, but that's how I feel with this. People are going to say, how did I get Mulaney? But really, the story is Mulaney, how did he get me?"*
 - Her characterization of him stays warm throughout: *"he's just beyond a doll. This is somebody who found me out of nowhere… he decided to throw his weight, by the grace of God, behind me."* Her reply to the offer: *"I'm ready when you are. You tell me the day, I'll be ready. I will not let you down."*
 
+- **"He can throw it down at dinner."** ([[projects/you-made-it-weird|You Made It Weird]], Sep 2026) — the thing that surprised her about him. Because he wears a suit and she revered him, she didn't expect *"he can really talk and you can shoot the shit with him… he knows how to let loose."* Still *"the classiest man I've ever met."* She's still nervous around him and expects to be for *"another like two or three years."* She puts it down to a permanent reverence for the people who backed her early: *"why did he throw his weight behind?"*
+
 ## In Robby's house
 
 - A **signed copy of his Netflix special *Baby J*** sits in Robby's house, photographed in the FT 2026 profile.
@@ -55,3 +58,4 @@ Comedian, writer, director. Directed [[people/robby-hoffman|Robby Hoffman]]'s Ne
 - [Robby Hoffman | South Beach Sessions with Dan Le Batard](https://www.youtube.com/watch?v=aUAS9EYnDhM) — Dan Le Batard, 2026-05-28; Robby reads the original Mulaney text verbatim — the most complete version of the Wake Up origin on record.
 - [Robby Hoffman | It's a New Dawn | Mike Birbiglia's Working It Out](https://www.youtube.com/watch?v=10Py8x3L2sI) — Mike Birbiglia, 2026-06-02; Mulaney as "the classiest man I know" / the odd-couple dynamic; reconfirms he discovered Robby at the WGA meeting.
 - [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; Robby's **direct correction of the power dynamic** — *"John Mulaney begged me to direct the special"* — and the Johnny Cash / Nine Inch Nails analogy for who gets the credit. See [[projects/we-got-company]].
+- [Robby Hoffman Is a Lot... In the Best Way! | You Made It Weird](https://www.youtube.com/watch?v=m1Hr4BqhVqw) — Pete Holmes, 2026-09-30; "he can throw it down at dinner"; still nervous around him, and expects to be for two or three more years. See [[projects/you-made-it-weird]].

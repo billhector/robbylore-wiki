@@ -2,6 +2,7 @@
 title: Yehudis Hoffman
 source:
   - "[[raw/transcripts/2026-09-24 We Got Company Robby Hoffman]]"
+  - "[[raw/transcripts/2026-10-20 RIP Jordan Jensen - Episode 75 Robby Hoffman]]"
 compiled: 2026-09-24
 tags:
   - person
@@ -22,6 +23,7 @@ publish: true
 - **Robby's own comparison:** *"She's literally living her life as Randi, who I play on [[projects/hacks|Hacks]]."* The joke lands because Randi is an entertainment-agency assistant written specifically for Robby.
 - **The bit Robby cites as proof:** Yehudis overselling her on restaurant reservations — *"she'll call a restaurant and be like, 'I have a celebrity coming.'"* Robby's response: *"Calm down… we can walk in there and just get a table."*
 - **She books Robby's travel**, and the frugality is inherited: Robby ends up *"stuck in the middle, in the back"* because *"she's like, I got the cheapest thing."* Robby's gloss: *"we're still in that mentality."*
+- **Restated in October 2026** ([[projects/rip-jordan-jensen|RIP Jordan Jensen]] Ep. 75): *"my little sister… works for me now."* Robby doesn't name her here, but the role matches.
 
 ## Family as a working network
 
@@ -31,7 +33,7 @@ That sits alongside the mutual-aid version described on [[themes/family]] — *"
 
 ## What we don't know
 
-Her age and birth order within the ten siblings aren't stated, nor when she started the job. She may or may not be the "little sister" in other stories — the [[projects/newsmakers|Starbucks walk-home]] sister, the 19-year-old Robby counselled, or **Debs** of the [[career/country-house|snowstorm rescue]] — none of which are attributed by name in their sources.
+Her age and birth order within the ten siblings aren't stated, nor when she started the job. She may or may not be the "little sister" in other stories — the [[projects/newsmakers|Starbucks walk-home]] sister, the 19-year-old (or, on [[projects/you-made-it-weird|You Made It Weird]], 18-year-old) Robby counselled, or **Debs** of the [[career/country-house|snowstorm rescue]] — none of which are attributed by name in their sources.
 
 ## Related
 
@@ -43,3 +45,4 @@ Her age and birth order within the ten siblings aren't stated, nor when she star
 ## Sources
 
 - [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; Yehudis named as Robby's assistant, the living-as-Randi comparison, the restaurant-reservation and cheapest-flight details, and the "why can't I nepo my family" policy.
+- [RIP Jordan Jensen — Episode 75: Robby Hoffman](https://www.youtube.com/watch?v=qerMI3wHAl8) — Jordan Jensen, 2026-10-19; "my little sister works for me now" (unnamed). See [[projects/rip-jordan-jensen]].
