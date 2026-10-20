@@ -67,7 +67,7 @@ publish: true
 - **Where religion went next:** these days her only belief is *"there's something larger than us."* But the [[bits/multiples-of-18|18-as-life]] habits and [[themes/monogamy|kosher-as-restraint]] frame still operate.
 - **"I'm a heretic" framing:** *"Gabby thinks I'm the most religious person she's ever met. Of course, I don't feel that at all, because compared to where I'm coming from — a very rigid [Hasidic] world — I'm a heretic."*
 - **Nightly prayer.** Robby still prays: *"OK, I'm gay. I get to be a clown for a living. So I'm not gonna give up nightly prayer."* The bit folds into [[bits/testing-god-by-being-gay]].
-- **[[bits/multiples-of-18|18 = life]]** is the Hebrew numerology bit she invokes in everyday money decisions (e.g. negotiating her Rolex from $4,000 down to $3,600).
+- **[[bits/multiples-of-18|18 = life]]** is the Hebrew numerology bit she invokes in everyday money decisions (e.g. negotiating her Rolex from \$4,000 down to \$3,600).
 
 ## Why it matters
 

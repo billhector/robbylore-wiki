@@ -28,7 +28,7 @@ publish: true
 
 ## Why it works
 
-Most hosting talk is about generosity; Robby's is about **capacity**, which makes it a money bit. "Bring nothing" is a boast you can only make once you can afford it, and she's explicit that she couldn't always. The [[projects/wake-up|Wake Up]] watch party is the worked example — no premiere, a private bartender in her living room, *"I said bring nothing"* — and the punchline is that the bartender she'd assumed would cost $10,000 cost $400.
+Most hosting talk is about generosity; Robby's is about **capacity**, which makes it a money bit. "Bring nothing" is a boast you can only make once you can afford it, and she's explicit that she couldn't always. The [[projects/wake-up|Wake Up]] watch party is the worked example — no premiere, a private bartender in her living room, *"I said bring nothing"* — and the punchline is that the bartender she'd assumed would cost \$10,000 cost \$400.
 
 ## Related
 
@@ -38,4 +38,4 @@ Most hosting talk is about generosity; Robby's is about **capacity**, which make
 
 ## Sources
 
-- [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, Liz Feldman + Jessi Klein, 2026-09-15; the "bring nothing" instruction, the potluck-is-very-lesbian objection, the we-are-handled formulation, and the $400 bartender at the Wake Up watch party.
+- [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, Liz Feldman + Jessi Klein, 2026-09-15; the "bring nothing" instruction, the potluck-is-very-lesbian objection, the we-are-handled formulation, and the \$400 bartender at the Wake Up watch party.

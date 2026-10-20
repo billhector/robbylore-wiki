@@ -19,14 +19,14 @@ publish: true
 ## Key Takeaways
 
 - Jewish gematria: *chai* (life) = 18; multiples = luck.
-- Working example: negotiated her Rolex Air-King from $4,000 → $3,600 ($3,600 = 200 × 18).
+- Working example: negotiated her Rolex Air-King from \$4,000 → \$3,600 (\$3,600 = 200 × 18).
 - Reads as both [[themes/orthodox-upbringing|cultural inheritance]] and [[themes/money|negotiating tool]] — used unironically.
 
 ## The bit
 
 - *"Growing up Jewish, 18 means life. And multiples of 18 signify good luck. So 18, 36, 72, 90 — these are numbers that I buy things in."*
-- **Working example:** her 1991 Rolex Air-King was listed at $4,000. She wrote the seller asking for $3,600. She got it.
-- $3,600 = 200 × 18.
+- **Working example:** her 1991 Rolex Air-King was listed at \$4,000. She wrote the seller asking for \$3,600. She got it.
+- \$3,600 = 200 × 18.
 - Functions both as a [[themes/orthodox-upbringing|cultural inheritance]] she still applies and as a [[themes/money|negotiating tool]] she uses unironically.
 
 ## Related

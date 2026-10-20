@@ -19,7 +19,7 @@ publish: true
 
 # Canada
 
-[[people/robby-hoffman|Robby]] was **born in Crown Heights, Brooklyn but raised in Montreal** after her mother fled their father. Her TV career started in Canada — kids TV at Nickelodeon, the [[projects/odd-squad|Odd Squad]] writing room (PBS Kids in Canadian production), and a $1,000 HBO Canada option that came before any American break. She still flags Toronto as her favorite city she's lived in.
+[[people/robby-hoffman|Robby]] was **born in Crown Heights, Brooklyn but raised in Montreal** after her mother fled their father. Her TV career started in Canada — kids TV at Nickelodeon, the [[projects/odd-squad|Odd Squad]] writing room (PBS Kids in Canadian production), and a \$1,000 HBO Canada option that came before any American break. She still flags Toronto as her favorite city she's lived in.
 
 ## Key Takeaways
 
@@ -30,7 +30,7 @@ publish: true
 - **Her first stand-up set** was at the Too Much loft on Prince Arthur in Montreal, hosted by George Braithwaite. She did okay despite being dizzy from secondhand pot smoke.
 - **Lubavitch Montreal** is the substrate of her family architecture — see [[themes/orthodox-upbringing]].
 - **Cashmere scarf at -30°C.** At 17, visiting grandfather [[people/nathan-letovsky|Nathan Letovsky]]'s apartment without a scarf in Montreal's deep winter, he threw a small maroon cashmere scarf (from Holt Renfrew Ogilvy, originally) at her from the back of his closet. She wore it for years, then lost it; replaced with her first Burberry checked scarf, bought on a recent Canada trip.
-- **Toronto → LA move:** drove her van across nine or ten days, "packed to the brim." Picked up a green ’60s lamp for $60 in Texas along the way.
+- **Toronto → LA move:** drove her van across nine or ten days, "packed to the brim." Picked up a green ’60s lamp for \$60 in Texas along the way.
 - **Montreal vs. Toronto** (per Q with Tom Power 2025): Montreal had *"a one-sided rivalry with Toronto. Toronto loved Montreal. Montreal had an inferiority complex with Toronto."* Robby moved to Toronto and found it *"fantastic… the greatest city I think I've ever lived in."*
 - **Montreal scene was stale:** small clubs, mostly older men, a *"single dude in his 50s"* gatekeeper. Robby only did Montreal a year and a half. Drove out to Cornwall, Hamilton, Ottawa, Waterloo to build sets before Toronto.
 - **The Just for Laughs (JFL) sold-out homecoming** in 2025 went in ~6 minutes — Robby's fastest sellout of any city.
@@ -49,5 +49,5 @@ publish: true
 - [Robby Hoffman on Synagogue, Small Talk, and Psychoanalysis](https://www.interviewmagazine.com/culture/robby-hoffman-on-synagogue-small-talk-and-psychoanalysis) — Interview, Spring 2024; bagels.
 - [Robby's Former Roommate (Ft. Steph Tolev)](https://www.youtube.com/watch?v=2jblee-lpc4) — Too Far Pod, 2024-08-06; **Verdun** named as the Hoffman family's Montreal neighborhood; *"the only Jews ever in Verdun."*
 - [Robby Hoffman isn't filtering her comedy — no matter who gets mad | Newsmakers](https://www.youtube.com/watch?v=4Xm4GhA9eSs) — NPR, Juana Summers, 2026-09-03; **her first-ever stage time was a Montreal comedy loft** — host Morgan O'Shea, "middle of winter Canada" as the fresh air that revived her mid-set. See [[career/first-open-mic]].
-- [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; **[[projects/i-m-nervous|I'm Nervous]] as a Crave Toronto commission** for CAD $25,000 — *"it's about $6 here"*; Montreal Just For Laughs as how she first heard of stand-up as a career; "a lot of Jews and accountants in Montreal"; the Toronto comedy scene's "more sensitivities" and the bisexual-jokes pushback; her mother, brother and niece still in Canada. See [[projects/we-got-company]].
+- [We Got Company | Robby Hoffman](https://www.youtube.com/watch?v=rL_ZC_0ou8M) — Sebastian Maniscalco, 2026-09-24; **[[projects/i-m-nervous|I'm Nervous]] as a Crave Toronto commission** for CAD \$25,000 — *"it's about \$6 here"*; Montreal Just For Laughs as how she first heard of stand-up as a career; "a lot of Jews and accountants in Montreal"; the Toronto comedy scene's "more sensitivities" and the bisexual-jokes pushback; her mother, brother and niece still in Canada. See [[projects/we-got-company]].
 - [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, 2026-09-15; her mother's Canadian household and the bus-route refusal of a down payment; the "snow like from Montreal" that nearly stranded her sister. See [[career/country-house]].

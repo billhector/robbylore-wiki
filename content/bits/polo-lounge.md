@@ -12,9 +12,9 @@ description: Robby Hoffman's early-LA-circuit ritual — driving to the Beverly 
 publish: true
 ---
 
-# The Polo Lounge $7 Beer
+# The Polo Lounge \$7 Beer
 
-[[people/robby-hoffman|Robby]]'s early-Los-Angeles-open-mic-circuit ritual. When she was visiting LA three weeks at a time to do open mics — *"hell on earth"* — she realized **a beer cost about $7 wherever you went.** So she'd drive to Beverly Hills, sit at the bar at **the Polo Lounge** (the Beverly Hills Hotel), and have her $7 beer next to whoever happened to be there. *"I sat next to Ralph Lauren and two models once. Ralph Lifshitz, if we're honest."*
+[[people/robby-hoffman|Robby]]'s early-Los-Angeles-open-mic-circuit ritual. When she was visiting LA three weeks at a time to do open mics — *"hell on earth"* — she realized **a beer cost about \$7 wherever you went.** So she'd drive to Beverly Hills, sit at the bar at **the Polo Lounge** (the Beverly Hills Hotel), and have her \$7 beer next to whoever happened to be there. *"I sat next to Ralph Lauren and two models once. Ralph Lifshitz, if we're honest."*
 
 ## Key Takeaways
 

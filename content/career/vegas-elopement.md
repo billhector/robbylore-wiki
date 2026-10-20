@@ -22,7 +22,7 @@ publish: true
 ## Key Takeaways
 
 - Triggered by the January 2025 LA wildfires evacuating them from home.
-- $799 Vegas chapel package, Reverend Nature in Yeezys, Wynn buffet engagement dinner.
+- \$799 Vegas chapel package, Reverend Nature in Yeezys, Wynn buffet engagement dinner.
 - The decisive line came from Gabby: *"If everything burns down, I just want to be married to you."*
 - Anchors Robby's [[themes/marriage|pro-marriage]] stance with [[themes/money|class-aware]] cheap-as-possible execution.
 
@@ -36,7 +36,7 @@ publish: true
 - **Gabby suggested they actually tie the knot** in the suite. Robby on it: *"I was going a mile a minute… Is she serious? Because my dream is coming true."*
 - Robby then proposed via [[bits/proposing-via-crossword|the custom crossword]] she'd commissioned in Toronto.
 - They sat in engagement bliss for **one day** before the ceremony.
-- **Wedding package:** $799 chapel package — included **limousine, photos, and minister**.
+- **Wedding package:** \$799 chapel package — included **limousine, photos, and minister**.
 - **Date:** **January 11, 2025**.
 - **Ceremony length:** **20 minutes.**
 - **Officiant:** **Reverend Nature**, in Yeezys.
@@ -47,7 +47,7 @@ publish: true
 - **What pushed Robby over the line (the earlier framing):** Gabby during the evacuation — *"If everything burns down, I just want to be married to you."* Robby: *"All right."* (FT 2026)
 - **What they took from the house during the evacuation:** two of grandfather [[people/nathan-letovsky|Nathan Letovsky]]'s paintings, their **cat**, **Gabby's podcasting equipment**, and **several sentimental items including childhood keepsakes**.
 - **What survived:** the house. They returned married, picked up air purifiers + the cat, and went home.
-- Robby on the package math: *"By the way, we got the most expensive wedding package they offered — they have one for $99! Have yourself a good night."*
+- Robby on the package math: *"By the way, we got the most expensive wedding package they offered — they have one for \$99! Have yourself a good night."*
 
 ## Why it matters
 
@@ -68,7 +68,7 @@ publish: true
 
 - [Robby Hoffman: ‘I have the world’s worst Rolex’](https://www.ft.com/content/4ff6937f-ce85-4747-89cf-917a901cf6c1) — FT 2026; Gabby's "if everything burns down" line + the grandfather-paintings-as-only-things-grabbed detail.
 - [I Stand Corrected with Robby Hoffman | The Downside with Gianmarco Soresi #274 | Podcast](https://www.youtube.com/watch?v=CPAd1pMY36s) — full Soresi telling.
-- [Inside 'The Traitors' Star Gabby Windey's Very Modest $5,000-a-Month Rental Home](https://www.realtor.com/news/celebrity-real-estate/traitors-gabby-windey-los-angeles-home-wedding-robby-hoffman/) — Realtor.com, Kelsi Karruli, 2025-03-05; Jan 11 date, 20-minute ceremony, "Hot To Go" walk-down, evacuation cargo (cat + podcast gear + keepsakes), $799 package contents.
+- [Inside 'The Traitors' Star Gabby Windey's Very Modest \$5,000-a-Month Rental Home](https://www.realtor.com/news/celebrity-real-estate/traitors-gabby-windey-los-angeles-home-wedding-robby-hoffman/) — Realtor.com, Kelsi Karruli, 2025-03-05; Jan 11 date, 20-minute ceremony, "Hot To Go" walk-down, evacuation cargo (cat + podcast gear + keepsakes), \$799 package contents.
 - ['Being offended isn't the worst thing. Being poor is'](https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix) — Guardian, Lucy Knight, 2026-05-11; *"Husband and wife!!"* Instagram-announcement caption framing.
 - [Robby Hoffman has HUGE NEWS | Anniewood Pod Ep. 127](https://www.youtube.com/watch?v=B6_B5tYAppo) — Annie Lederman, 2025-04-24; Annie was among the guests **in attendance at the Vegas wedding** ("we attended").
 - [Robby Hoffman! — Tea Time w/ Raven & Miranda](https://www.youtube.com/watch?v=wzyvMiqcwwo) — Raven-Symoné + Miranda Maday, 2025-06-26; the **May 1, 2025 planned proposal + custom ring** that the fire-driven January elopement preempted.

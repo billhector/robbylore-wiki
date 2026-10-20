@@ -35,7 +35,7 @@ Densest source in the wiki on Robby's **parents' religious trajectory** and on t
 
 - **Type:** not physical — *"somebody who's extremely themselves."* Until Gabby she hadn't realized humor mattered to her: *"Gabby is extremely funny all the time."* The deal-breaker isn't an unfunny partner, it's a partner who needs to be found funny — a five-year relationship is cited where *"it was a problem for her that she wasn't funny, not for me."*
 - **"I have a right to know."** Gabby said "I love you" once, then stopped; Robby confronted it in legal register. She concedes on air: *"I don't have a right to know. It's not really a right."*
-- **The $400 bartender.** Instead of a [[projects/wake-up|Wake Up]] premiere she threw a watch party at her apartment with a private bartender, an idea she'd banked years earlier from a classy friend's party and assumed would cost $10,000. It cost $400 for the night.
+- **The \$400 bartender.** Instead of a [[projects/wake-up|Wake Up]] premiere she threw a watch party at her apartment with a private bartender, an idea she'd banked years earlier from a classy friend's party and assumed would cost \$10,000. It cost \$400 for the night.
 - **Mother's housing, declined.** Her mother lives with Robby's brother (a single father) and six-year-old niece in Canada, one bathroom between them, squabbling with the niece over mirror time. Robby offered a down payment on a three-bedroom, two-bath if they'd carry the mortgage; her mother rejected the house over its bus route — she needs to board early enough to get a seat and read. See [[themes/family]].
 - **Family as a mutual-aid network:** *"a lot of my family is successful. It's not just me… we all step up when we can."*
 - **Crispy towels.** The poverty bit gets revisited — the one towel that exfoliates, and not knowing towels weren't inherited. See [[bits/crispy-towels]].
@@ -53,4 +53,4 @@ Densest source in the wiki on Robby's **parents' religious trajectory** and on t
 
 ## Sources
 
-- [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, Liz Feldman + Jessi Klein, 2026-09-15; parents-were-conservative-not-Reform correction, mother's autism, father's charisma, full outing-at-17 account, ring-pop girlfriend ask, country house + the snowstorm rescue, $400 bartender, girls-need-gifts and bring-nothing bits.
+- [Robby Hoffman Says Get a Girl a Gift!](https://www.youtube.com/watch?v=pv27yXEsINc) — Here To Make Friends, Liz Feldman + Jessi Klein, 2026-09-15; parents-were-conservative-not-Reform correction, mother's autism, father's charisma, full outing-at-17 account, ring-pop girlfriend ask, country house + the snowstorm rescue, \$400 bartender, girls-need-gifts and bring-nothing bits.
